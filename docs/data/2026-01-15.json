@@ -1,0 +1,82 @@
+{
+  "date": "2026-01-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-15T22:33:58.884957+00:00",
+  "items": [
+    {
+      "id": "1_Gouvernance_Regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Enquêtes & enquêtes antitrust",
+      "titre": "La Commission européenne ouvre deux enquêtes antitrust liées à l’IA",
+      "description": "Le 15 janvier 2026, la Commission européenne a lancé une enquête formelle à l’encontre de Meta pour l’intégration de son assistant IA dans WhatsApp excluant les concurrents, et une autre contre Google pour l’usage de contenus web et YouTube dans ses fonctionnalités IA (AI Overviews, AI Mode) sans rémunération ni mécanismes d’opt‑out.",
+      "sources": [
+        {
+          "url": "initiative?...",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Economie_Investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements industriels",
+      "titre": "Investissement massif prévu en Inde pour l’infrastructure IA",
+      "description": "Le 15 janvier 2026, Digital Connexion, co‑entreprise entre Reliance, Brookfield et Digital Reality, prévoit d’investir 11 milliards de dollars ces cinq prochaines années pour construire un cluster de centres de données IA haute densité à Visakhapatnam (Inde).",
+      "sources": [
+        {
+          "url": "initiative?...",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_Cybersecurite_Risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modération & deepfakes",
+      "titre": "X (Grok) restreint les images dénudées et fait l’objet d’une enquête en Californie",
+      "description": "Le 15 janvier 2026, X (anciennement Twitter) via son chatbot IA Grok a été géobloqué pour empêcher la génération d’images dénudées de personnes réelles. La procureure générale de Californie a aussi ouvert une enquête sur la diffusion de deepfakes sexuels non consentis.",
+      "sources": [
+        {
+          "url": "initiative?...",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_Sante_Science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Régulation des IA médicales",
+      "titre": "La FDA déploie des IA « agentiques » dans la régulation médicale",
+      "description": "Début janvier 2026, la FDA utilise des IA habilitées à planifier et exécuter des actions (IA agentiques) pour accélérer l’évaluation pré‑commercialisation et la surveillance post‑commercialisation des dispositifs médicaux IA.",
+      "sources": [
+        {
+          "url": "initiative?...",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_DEFENSE_GEOSOV",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Gouvernance mondiale de l’IA",
+      "titre": "Salon de l’IA à venir en Inde centré sur l’impact pour le Sud global",
+      "description": "Le 15 janvier 2026, il est confirmé que l’AI Impact Summit se tiendra à Delhi du 19 au 20 février 2026, avec un focus sur la mise en œuvre de l’IA et ses impacts mesurables, notamment pour le Sud global.",
+      "sources": [
+        {
+          "url": "initiative?...",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
