@@ -1,0 +1,82 @@
+{
+  "date": "2026-01-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-15T21:43:47.785035+00:00",
+  "items": [
+    {
+      "id": "1_GROK_mesuressécurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "X (xAI) met en place des mesures pour empêcher Grok de générer des images déshabillées de personnes réelles",
+      "description": "Le 14 janvier 2026, le réseau social X (ex‑Twitter), propriété d’Elon Musk, a déployé des mesures destinées à empêcher son IA Grok de “déshabiller” des personnes réelles, faisant suite à la polémique et aux enquêtes en cours dans plusieurs pays.",
+      "sources": [
+        {
+          "url": "https://www.tvanouvelles.ca/2026/01/14/x-annonce-des-mesures-pour-empecher-son-ia-de-deshabiller-des-personnes-reelles",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Google_PersonalIntelligence",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation produit",
+      "titre": "Google lance “Personal Intelligence” pour connecter Gmail, Photos, YouTube et Search à Gemini",
+      "description": "Le 14 janvier 2026, Google a annoncé le lancement de « Personal Intelligence », une fonctionnalité qui intègre plusieurs applications maison (Gmail, Photos, YouTube, Search) à son assistant IA Gemini afin d’offrir une expérience plus personnalisée.",
+      "sources": [
+        {
+          "url": "https://www.numerama.com/tech/2160289-gemini-peut-desormais-fouiller-dans-vos-mails-et-vos-photos-pour-mieux-vous-repondre.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_OIT_chomage_jeunes",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Emploi jeunes",
+      "titre": "L’OIT alerte sur l’impact de l’IA sur le chômage des jeunes",
+      "description": "Le 14 janvier 2026, l’Organisation internationale du Travail (OIT) a mis en garde contre les effets potentiellement négatifs de l’intelligence artificielle sur l’emploi des jeunes, soulignant que ces derniers sont particulièrement exposés aux transformations induites par l’IA.",
+      "sources": [
+        {
+          "url": "https://www.carnetsdubusiness.com/L-OIT-s-inquiete-de-l-impact-de-l-IA-sur-le-chomage-des-jeunes_a4131.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_Stanford_tendances_IA",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Tendances",
+      "titre": "Stanford (HAI) souligne que l’IA doit privilégier robustesse et valeur mesurable en 2026",
+      "description": "Le 14 janvier 2026, selon le rapport AI Index 2025 de Stanford, les experts du centre HAI estiment que l’IA entre dans une phase de consolidation où, en 2026, elle sera évaluée non plus sur ses démonstrations spectaculaires, mais sur sa robustesse, sa reproductibilité et sa valeur tangible pour la société.",
+      "sources": [
+        {
+          "url": "https://www.aivancity.ai/blog/2026-se-dessine-ce-que-les-experts-de-stanford-prevoit-pour-lavenir-de-lintelligence-artificielle/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_feux_circulation_IA_VSarselli",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure locale",
+      "titre": "Proposition d’expérimentation de feux de circulation gérés par l’IA à Villeurbanne",
+      "description": "Le 14 janvier 2026, à Villeurbanne, Véronique Sarselli a présenté dans le cadre de sa campagne métropolitaine une proposition visant à expérimenter des feux de circulation pilotés par intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.affiches-parisiennes.com/69000-lyon/des-feux-de-circulation-geres-par-l-ia-la-nouvelle-proposition-de-veronique-sarselli-237692.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

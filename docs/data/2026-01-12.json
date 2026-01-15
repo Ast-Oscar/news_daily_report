@@ -1,0 +1,146 @@
+{
+  "date": "2026-01-12",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-15T21:49:19.472441+00:00",
+  "items": [
+    {
+      "id": "1_IA_infrastructure_Meta",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure",
+      "titre": "Meta lance “Meta Compute”, initiative d’infrastructure IA à grande échelle",
+      "description": "Meta a dévoilé “Meta Compute”, une nouvelle unité dédiée à l’extension massive de ses capacités d’infrastructure IA – avec l’objectif de déployer plusieurs dizaines de gigawatts d’énergie pour alimenter ses centres de données sur cette décennie.",
+      "sources": [
+        {
+          "url": "https://skynetcountdown.com/news/2026-01-12",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Anthropic_Cowork",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Interface agentique",
+      "titre": "Anthropic lance “Cowork”, agent IA accessible aux utilisateurs non techniques",
+      "description": "Anthropic a publié Cowork, une version simplifiée de Claude Code intégrée à Claude Desktop, permettant aux utilisateurs de désigner des dossiers à lire ou modifier via une interface de chat (preview pour abonnés Max).",
+      "sources": [
+        {
+          "url": "https://skynetcountdown.com/news/2026-01-12",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_Apple_Gemini_Siri",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat industriel",
+      "titre": "Apple s’associe à Google pour intégrer Gemini à Siri et Apple Intelligence",
+      "description": "Apple conclut un partenariat non exclusif d’environ 1 milliard de dollars avec Google, intégrant les modèles Gemini pour renforcer Siri et Apple Intelligence, tout en conservant un traitement privilégié en local pour protéger la vie privée.",
+      "sources": [
+        {
+          "url": "https://skynetcountdown.com/news/2026-01-12",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_Alphabet_valorisation",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Finances",
+      "titre": "Alphabet dépasse brièvement les 4 000 milliards $ de capitalisation grâce à l’optimisme autour de l’IA",
+      "description": "La capitalisation boursière d’Alphabet a temporairement franchi les 4 000 milliards de dollars, portée par l’optimisme des investisseurs sur ses avancées en IA et ses nouveaux partenariats.",
+      "sources": [
+        {
+          "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_DGSI_risques_professionnels",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques professionnels",
+      "titre": "La DGSI alerte sur les risques de l’usage de l’IA générative en entreprise",
+      "description": "La DGSI met en garde contre l’usage non encadré d’IA générative au travail, illustrant des cas réels : fuite de données confidentielles via des outils grand public, décisions biaisées par IA externe, et deepfakes visant des dirigeants. Elle préconise politiques internes, solutions souveraines et formation.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-12-janvier-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_OpenAI_ChatGPT_Sante",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé numérique",
+      "titre": "OpenAI lance ChatGPT Santé, connexion aux dossiers médicaux",
+      "description": "OpenAI déploie ChatGPT Santé, qui permet aux utilisateurs (hors UE, Suisse, Royaume‑Uni) de connecter leurs dossiers médicaux (Apple Health, MyFitnessPal…) dans un espace sécurisé, isolé des autres chats, sans que ces données servent à entraîner les modèles.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-12-janvier-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_Aura_poison_donnees",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberdéfense IA",
+      "titre": "Création de “Aura”, outil pour empoisonner les données volées exploitées dans des IA",
+      "description": "Des chercheurs ont développé Aura, un outil destiné à altérer ou empoisonner les données volées pour en réduire l’utilité aux cybercriminels qui tenteraient de les utiliser dans des systèmes IA, soulevant des enjeux éthiques et juridiques.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-12-janvier-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_Cour_des_comptes_France_Travail",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Évaluation publique",
+      "titre": "La Cour des comptes dresse un bilan positif de l’usage de l’IA par France Travail",
+      "description": "Selon un rapport de la Cour des comptes, l’IA utilisée par France Travail (ex‑Pôle emploi) permet des gains d’efficacité dans l’orientation des demandeurs d’emploi et reste encadrée par une intervention humaine, malgré quelques limites (données, transparence, compréhension des agents) nécessitant un suivi renforcé.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-12-janvier-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_ESA_lecture_NASA",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche fondamentale",
+      "titre": "Conférence NASA sur les biais inductifs dans les réseaux neuronaux",
+      "description": "La NASA annonce une conférence du groupe d’intérêt scientifique AI/ML le 12 janvier 2026 : Dr John Wu (STScI) y présentera une intervention sur les biais inductifs dans les réseaux neuronaux.",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-12-jan-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

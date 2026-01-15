@@ -7,23 +7,23 @@
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="container">
-    <h1>Veille IA</h1>
-    <p class="muted">Par défaut : dernière veille disponible. Tu peux changer la date.</p>
+  <header class="header-main">
+    <div class="header-content">
+      <h1 class="main-title">Veille IA <span class="main-title-sub">Quotidienne</span></h1>
+      <p class="muted">Par défaut : dernière veille disponible.<br>La date est sélectionnable via le calendrier.</p>
+    </div>
     <div class="controls">
-      <label>
-        Date :
-        <select id="dateSelect"></select>
-      </label>
+      <div class="calendar-container">
+        <span class="calendar-icon" aria-label="Sélectionner la date" title="Sélectionner la date">📅</span>
+        <select id="dateSelect" style="display:none;"></select>
+        <div id="calendar-header" class="calendar-header"></div>
+        <div id="calendar"></div>
+      </div>
       <label>
         Catégorie :
         <select id="catSelect">
           <option value="">Toutes</option>
         </select>
-      </label>
-      <label>
-        Recherche :
-        <input id="q" type="search" placeholder="Titre / description…" />
       </label>
     </div>
   </header>

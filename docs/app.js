@@ -10,8 +10,10 @@ const CATEGORIES_LABELS = {
 };
 
 const dateSelect = document.querySelector("#dateSelect");
+const calendar = document.querySelector("#calendar");
+const calendarHeader = document.querySelector("#calendar-header");
 const catSelect = document.querySelector("#catSelect");
-const qInput = document.querySelector("#q");
+// Recherche supprimée
 const content = document.querySelector("#content");
 const meta = document.querySelector("#meta");
 const metaExtra = document.querySelector("#meta-extra");
@@ -43,14 +45,56 @@ function populateCategorySelect() {
 
 function populateDateSelectAndSelectLatest() {
   dateSelect.innerHTML = "";
-  const dates = (indexData.available_dates || []).slice().sort().reverse();
+  const dates = (indexData.available_dates || []).slice().sort();
   for (const d of dates) {
     dateSelect.appendChild(el("option", { value: d }, [document.createTextNode(d)]));
   }
-
   const u = new URL(location.href);
   const forced = u.searchParams.get("date");
-  dateSelect.value = forced || indexData.latest || dates[0] || "";
+  dateSelect.value = forced || indexData.latest || dates[dates.length - 1] || "";
+  renderCalendar(dates, dateSelect.value);
+}
+
+function renderCalendar(availableDates, selectedDate) {
+  // Affiche le calendrier du mois de la date sélectionnée
+  calendar.innerHTML = "";
+  if (!selectedDate) {
+    calendarHeader.textContent = "";
+    return;
+  }
+  const [year, month] = selectedDate.split("-").map(Number);
+  const firstDay = new Date(year, month - 1, 1);
+  const lastDay = new Date(year, month, 0);
+  const startDay = firstDay.getDay() || 7; // Lundi=1, Dimanche=7
+  // Affichage du mois/année
+  const monthNames = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+  calendarHeader.textContent = `${monthNames[month - 1]} ${year}`;
+  // Affichage des jours de la semaine
+  const daysOfWeek = ["L", "M", "M", "J", "V", "S", "D"];
+  daysOfWeek.forEach(d => calendar.appendChild(el("div", { class: "calendar-day inactive" }, [document.createTextNode(d)])));
+  // Jours vides avant le 1er
+  for (let i = 1; i < startDay; i++) {
+    calendar.appendChild(el("div", { class: "calendar-day inactive" }, [document.createTextNode("")]));
+  }
+  // Jours du mois
+  for (let d = 1; d <= lastDay.getDate(); d++) {
+    const dateStr = `${year.toString().padStart(4, "0")}-${month.toString().padStart(2, "0")}-${d.toString().padStart(2, "0")}`;
+    const isAvailable = availableDates.includes(dateStr);
+    const isActive = dateStr === selectedDate;
+    const dayEl = el("div", {
+      class: `calendar-day${isAvailable ? "" : " inactive"}${isActive ? " active" : ""}`,
+      tabIndex: isAvailable ? 0 : -1,
+      title: isAvailable ? `Voir la veille du ${dateStr}` : "Pas de veille ce jour"
+    }, [document.createTextNode(d)]);
+    if (isAvailable) {
+      dayEl.addEventListener("click", () => {
+        dateSelect.value = dateStr;
+        loadDate(dateStr);
+        renderCalendar(availableDates, dateStr);
+      });
+    }
+    calendar.appendChild(dayEl);
+  }
 }
 
 async function loadDate(date) {
@@ -70,21 +114,27 @@ function groupBy(items, key) {
   return m;
 }
 
+function getCatClass(cat) {
+  switch (cat) {
+    case "GOUVERNANCE_REGULATION_EVALUATION": return "cat-gouvernance";
+    case "ECONOMIE_INDUSTRIE_INVESTISSEMENTS": return "cat-economie";
+    case "RSE_SOCIETE_CULTURE": return "cat-rse";
+    case "CYBERSECURITE_RISQUES_SECURITE_MODELES": return "cat-cyber";
+    case "SANTE_SCIENCE_RECHERCHE": return "cat-sante";
+    case "DEFENSE_GEOPOLITIQUE_SOUVERAINETE": return "cat-defense";
+    default: return "";
+  }
+}
+
 function render() {
   const date = currentData?.date || dateSelect.value || "";
   const tz = currentData?.timezone || "Europe/Paris";
   const gen = currentData?.generated_at_utc || "";
   const items = currentData?.items || [];
   const catFilter = catSelect.value;
-  const q = (qInput.value || "").trim().toLowerCase();
-
-  // Filter items by category and search
+  // Filter items by category uniquement
   const filtered = items.filter(it => {
     if (catFilter && it.categorie !== catFilter) return false;
-    if (q) {
-      const hay = `${it.titre} ${it.description}`.toLowerCase();
-      if (!hay.includes(q)) return false;
-    }
     return true;
   });
 
@@ -105,33 +155,55 @@ function render() {
   const byCat = groupBy(filtered, "categorie");
   for (const [cat, catItems] of byCat.entries()) {
     content.appendChild(el("h2", {}, [document.createTextNode(CATEGORIES_LABELS[cat] || cat)]));
-    const bySub = groupBy(catItems, "sous_categorie");
-    for (const [sub, subItems] of bySub.entries()) {
-      content.appendChild(el("h3", {}, [document.createTextNode(sub || "Général")]));
-      for (const it of subItems) {
-        const ul = el("ul");
-        for (const s of (it.sources || [])) {
-          const a = el(
-            "a",
-            { href: s.url, target: "_blank", rel: "noopener noreferrer" },
-            [document.createTextNode(s.url)]
-          );
-          ul.appendChild(el("li", {}, [a, document.createTextNode(` (${s.type})`)]));
-        }
-        const status = it.verification_status || "unverified";
-        const badges = el("div", {}, [
-          el("span", { class: "badge" }, [document.createTextNode(it.confidence || "?")]),
-          el("span", { class: "badge" }, [document.createTextNode(status)]),
-        ]);
-        content.appendChild(el("div", { class: "card" }, [
-          badges,
-          el("h4", {}, [document.createTextNode(it.titre)]),
-          el("p", {}, [document.createTextNode(it.description)]),
-          ul
-        ]));
+    // On ne groupe plus par sous_categorie, ni ne l'affiche
+    for (const it of catItems) {
+      // résumé visible : titre + niveau de confiance + bouton
+      const status = it.verification_status || "unverified";
+      const badges = el("div", { style: "display:inline-block;vertical-align:middle;" }, [
+        el("span", { class: "badge" }, [document.createTextNode(it.confidence || "?")]),
+        el("span", { class: "badge" }, [document.createTextNode(status)])
+      ]);
+      const btn = el("button", {
+        class: "toggle-details",
+        style: "float:right;font-size:1.2em;padding:0.2em 0.7em;border-radius:1em;border:none;background:#fff;cursor:pointer;transition:background 0.2s;",
+        title: "Afficher les détails"
+      }, [document.createTextNode("+")]);
+
+      // détails cachés
+      const ul = el("ul");
+      for (const s of (it.sources || [])) {
+        const a = el(
+          "a",
+          { href: s.url, target: "_blank", rel: "noopener noreferrer" },
+          [document.createTextNode(s.url)]
+        );
+        ul.appendChild(el("li", {}, [a])); // On n'affiche plus le type
       }
-      content.appendChild(el("hr"));
+      const details = el("div", { class: "details", style: "display:none;" }, [
+        el("p", {}, [document.createTextNode(it.description)]),
+        ul
+      ]);
+
+      btn.addEventListener("click", function() {
+        if (details.style.display === "none") {
+          details.style.display = "block";
+          btn.textContent = "–";
+          btn.title = "Masquer les détails";
+        } else {
+          details.style.display = "none";
+          btn.textContent = "+";
+          btn.title = "Afficher les détails";
+        }
+      });
+
+      content.appendChild(el("div", { class: `card ${getCatClass(it.categorie)}` }, [
+        btn,
+        badges,
+        el("h4", { style: "display:inline-block;margin-left:0.5em;vertical-align:middle;" }, [document.createTextNode(it.titre)]),
+        details
+      ]));
     }
+    content.appendChild(el("hr"));
   }
 
   // Update URL params
@@ -143,9 +215,12 @@ function render() {
 }
 
 function bindEvents() {
-  dateSelect.addEventListener("change", () => loadDate(dateSelect.value));
+  dateSelect.addEventListener("change", () => {
+    loadDate(dateSelect.value);
+    renderCalendar(indexData.available_dates, dateSelect.value);
+  });
   catSelect.addEventListener("change", render);
-  qInput.addEventListener("input", render);
+  // Recherche supprimée
 
   const u = new URL(location.href);
   const cat = u.searchParams.get("cat");

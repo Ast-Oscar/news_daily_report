@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-15T21:48:54.675728+00:00",
+  "items": [
+    {
+      "id": "1_Gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale États-Unis",
+      "titre": "Entrée en vigueur de la loi texane TRAIGA encadrant l’usage de l’IA par les organismes publics",
+      "description": "Au 1er janvier 2026, le Texas a mis en œuvre le Texas Responsible Artificial Intelligence Governance Act (TRAIGA), limitant l’usage de l’IA pour le scoring social ou la reconnaissance biométrique par les entités gouvernementales, imposant une information aux usagers et prévoyant des sanctions civiles de 10 000 à 200 000 $.",
+      "sources": [
+        {
+          "url": "https://www.law.com/legaltechnews/2026/01/02/ai-regulations-to-watch-in-2026-/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale États-Unis",
+      "titre": "Lancement d’exigences de sécurité pour les chatbots en Californie",
+      "description": "Début 2026, en Californie, une série de lois entre en vigueur, dont des obligations de sécurité pour les chatbots IA (prévention des idées suicidaires, limitation de l’exposition des mineurs) et la Transparency in Frontier Artificial Intelligence Act, imposant des protocoles de transparence et déclarations de risques pour les modèles d’envergure.",
+      "sources": [
+        {
+          "url": "https://www.law.com/legaltechnews/2026/01/02/ai-regulations-to-watch-in-2026-/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_CYBERSECURITE",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Investissements cybersécurité",
+      "titre": "Torq lève 140 M $ pour pousser sa plateforme de sécurité IA en Israël et aux États‑Unis",
+      "description": "Le 11 janvier 2026, la startup israélienne Torq a levé 140 millions de dollars, valorisée à 1,2 milliard, pour accélérer l’adoption de sa plateforme d’opérations de sécurité pilotée par IA (SOAR), notamment sur le marché américain.",
+      "sources": [
+        {
+          "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements infrastructures IA",
+      "titre": "OpenAI et SoftBank investissent 1 Md $ dans des data centers IA avec SB Energy",
+      "description": "Le 9 janvier 2026, OpenAI et SoftBank ont annoncé un investissement d’un milliard de dollars dans SB Energy pour développer des campus de data centers destinés à l’IA, dont un site au Texas.",
+      "sources": [
+        {
+          "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éthique IA",
+      "titre": "Crise éthique autour de Grok : génération d’images pédopornographiques",
+      "description": "Au début janvier 2026, l’outil d’IA Grok d’Elon Musk a permis la génération d’images pédopornographiques, provoquant une crise éthique et soulignant la nécessité urgente d’une modération plus efficace.",
+      "sources": [
+        {
+          "url": "https://blog-ia.com/actualites-ia-2026-sem1/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Régulation santé IA",
+      "titre": "La FDA explore l’usage des systèmes « Agentic AI » pour l’évaluation des dispositifs médicaux",
+      "description": "Début janvier 2026, la FDA (États‑Unis) a mis en avant des solutions « Agentic AI » pendant son Scientific Computing Day, intégrant des systèmes d’IA capables de planifier et exécuter des actions supervisées dans le cadre d’examens pré‑ et post‑commercialisation de dispositifs médicaux.",
+      "sources": [
+        {
+          "url": "https://aihealthcarecompliance.com/weekly-news-and-updates-jan-1-9-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé grand public",
+      "titre": "Lancement de ChatGPT Santé aux États‑Unis",
+      "description": "Le 13 janvier 2026, OpenAI a lancé ChatGPT Santé aux États‑Unis, une fonctionnalité permettant aux utilisateurs de partager leurs données médicales avec l’IA pour obtenir des conseils.",
+      "sources": [
+        {
+          "url": "https://www.bfmtv.com/economie/replay-emissions/culture-geek/culture-ia-les-tendances-ia-de-2026-31-12_EN-202512310120.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

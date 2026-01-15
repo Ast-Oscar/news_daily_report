@@ -20,7 +20,6 @@ def now_utc_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 def paris_today_yyyymmdd() -> str:
-    # Python 3.9+ : zoneinfo standard
     from zoneinfo import ZoneInfo
     return datetime.now(ZoneInfo("Europe/Paris")).date().isoformat()
 
@@ -36,40 +35,16 @@ def load_index():
 def save_index(idx):
     INDEX_PATH.write_text(json.dumps(idx, indent=2, ensure_ascii=False), encoding="utf-8")
 
-def build_prompt(date_paris: str) -> str:
-    # Prompt volontairement proche de ton prompt original, mais avec sortie JSON.
-    # Très important: "publié le jour même" + liens directs.
+def build_prompt(date_paris: str, explicit_date: bool = False) -> str:
+    prompt_path = Path(__file__).parent / "prompt.txt"
+    prompt_template = prompt_path.read_text(encoding="utf-8")
     categories_list = "\n".join(CATEGORIES)
+    base_prompt = prompt_template.format(date_paris=date_paris, categories_list=categories_list)
+    if explicit_date:
+        return f"Exécute le prompt suivant cependant en l'appliquant pour la date : {date_paris}\n\n" + base_prompt
+    return base_prompt
 
-    return f"""
-Agis comme un analyste senior en veille technologique spécialisé en intelligence artificielle devant réaliser la veille du jour d'aujourd'hui uniquement.
-
-Date de référence (Europe/Paris) : {date_paris}
-
-Objectif :
-- Produis uniquement les actualités IA publiées aujourd'hui le {date_paris} (pas d’archives), à l’échelle mondiale.
-- Couvre toutes les catégories (au moins 1 item par catégorie si possible) :
-  {categories_list}
-
-Contraintes obligatoires :
-- Les actualités doivent être directement liées à l’IA (pas de techno générique).
-- Chaque news doit être publiée aujourd'hui le {date_paris} : la date doit être explicitement visible sur la page source.
-- Si la date de publication n’est pas clairement trouvable sur la page, tu peux inclure l’item mais :
-  - verification_status = "unverified"
-  - confidence = "low" (ou "medium" uniquement si source officielle très claire)
-  - NE PAS affirmer que c’est publié aujourd'hui le {date_paris} dans la description.
-- Aucune extrapolation : uniquement des faits sourcés.
-- Liens directs et précis vers les articles originaux (pas de pages d’accueil, pas de pages catégorie/tag).
-- Une news = un fait = une source primaire claire (source secondaire optionnelle si elle ajoute un fait distinct).
-- Langue : français.
-- Ton : neutre, factuel, synthétique.
-- Description : 4–6 lignes max (~700 caractères).
-
-Sortie :
-- Retourne UNIQUEMENT un JSON valide, strictement conforme au schéma fourni.
-"""
-
-def main():
+def main(date_paris: str = None):
     import logging
     import time
     from openai import OpenAIError
@@ -80,7 +55,9 @@ def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     print(f"[DEBUG] DATA_DIR: {DATA_DIR}")
 
-    date_paris = paris_today_yyyymmdd()
+    explicit_date = date_paris is not None
+    if not date_paris:
+        date_paris = paris_today_yyyymmdd()
     print(f"[DEBUG] Date Paris: {date_paris}")
     out_path = DATA_DIR / f"{date_paris}.json"
     print(f"[DEBUG] Output path: {out_path}")
@@ -89,9 +66,17 @@ def main():
     if out_path.exists():
         logging.info(f"Already generated: {out_path}")
         print(f"[DEBUG] Fichier déjà généré: {out_path}")
+        # Ajout automatique à l'index si absent
+        idx = load_index()
+        if date_paris not in idx.get("available_dates", []):
+            idx["available_dates"].append(date_paris)
+            idx["available_dates"] = sorted(idx["available_dates"])
+            idx["latest"] = max(idx["available_dates"])
+            save_index(idx)
+            print(f"[DEBUG] Date ajoutée à l'index: {date_paris}")
         return
 
-    prompt = build_prompt(date_paris)
+    prompt = build_prompt(date_paris, explicit_date=explicit_date)
     print("[DEBUG] Prompt construit.")
 
     # Debug: starting request
@@ -100,7 +85,7 @@ def main():
     start_time = time.time()
     try:
         resp = client.responses.create(
-            model="gpt-4o-mini",
+            model="gpt-4o",
             input=prompt,
             tools=[{"type": "web_search"}],
             text={
@@ -144,6 +129,18 @@ def main():
     print(f"[DEBUG] Sauvegarde du JSON dans {out_path} ...")
     out_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"[DEBUG] JSON écrit dans {out_path}")
+    # Ajout automatique à l'index
+    idx = load_index()
+    if date_paris not in idx.get("available_dates", []):
+        idx["available_dates"].append(date_paris)
+        idx["available_dates"] = sorted(idx["available_dates"])
+    idx["latest"] = max(idx["available_dates"])
+    save_index(idx)
+    print(f"[DEBUG] Date ajoutée à l'index: {date_paris}")
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser(description="Génère la veille IA du jour ou d'une date précise.")
+    parser.add_argument("--date", type=str, help="Date à utiliser (format YYYY-MM-DD)")
+    args = parser.parse_args()
+    main(date_paris=args.date)
