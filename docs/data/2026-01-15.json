@@ -1,62 +1,21 @@
 {
   "date": "2026-01-15",
   "timezone": "Europe/Paris",
-  "generated_at_utc": "2026-01-15T21:23:23.462147+00:00",
+  "generated_at_utc": "2026-01-15T22:20:42.185428+00:00",
   "items": [
     {
-      "id": "1a1db5fa",
-      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
-      "sous_categorie": "Productivité et entreprise",
-      "titre": "L’IA pourrait générer 4,5 billions de dollars de gains de productivité aux États‑Unis",
-      "description": "Selon le rapport « New Work, New World 2026 » publié aujourd’hui par Cognizant, l’intelligence artificielle peut générer jusqu’à 4,5 billions de dollars de productivité du travail aux États‑Unis.",
-      "sources": [
-        {
-          "url": "https://www.lelezard.com/communique-22080044.html",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "a2b3c4d5",
-      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
-      "sous_categorie": "Technologies industrielles",
-      "titre": "SiFive et NVIDIA intègrent NVLink Fusion aux plateformes RISC‑V",
-      "description": "SiFive annonce aujourd’hui l’intégration de la technologie NVLink Fusion de NVIDIA dans ses plateformes RISC‑V haute performance, pour des connexions à bande passante élevée aux GPU NVIDIA.",
-      "sources": [
-        {
-          "url": "https://futurumgroup.com/insights/sifive-and-nvidia-rewriting-the-rules-of-ai-data-center-design/",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "b3c4d5e6",
-      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
-      "sous_categorie": "Image générée et consentement",
-      "titre": "Le Canada enquête sur l’IA Grok d’Elon Musk pour création d’images explicites sans consentement",
-      "description": "Le Canada ouvre aujourd’hui une enquête sur l’IA Grok (réseau social X) accusée de générer des images explicites de personnes réelles sans leur consentement.",
-      "sources": [
-        {
-          "url": "https://www.24heures.ca/2026/01/15/images-explicites-creees-sans-consentement-le-canada-enquete-sur-lia-grok",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "c4d5e6f7",
+      "id": "AI_EUROPE_AI_ACT_EFFECTIVE",
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
-      "sous_categorie": "Éducation et outils IA",
-      "titre": "Microsoft lance « Elevate for Educators » avec outils IA gratuits pour l’éducation",
-      "description": "Microsoft annonce aujourd’hui le programme Elevate for Educators, offrant aux enseignants des ressources, une communauté et des capacités IA sans coût supplémentaire pour accompagner la formation à l’IA.",
+      "sous_categorie": "Régulation européenne",
+      "titre": "Entrée en application imminente de l’AI Act dans l’UE",
+      "description": "Le cadre réglementaire européen sur l’IA (AI Act), entré en vigueur en août 2024, devient pleinement applicable dans toute l’Union européenne à partir du 2 août 2026. Les obligations concernent notamment les systèmes à haut risque, qui devront être enregistrés, disposer d’un marquage « CE », d’un système de gestion des risques, d’une documentation technique, de contrôle humain et de mesures de cybersécurité.",
       "sources": [
         {
-          "url": "https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/",
+          "url": "https://entreprendre.service-public.gouv.fr/actualites/A18475",
+          "type": "primary"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai",
           "type": "primary"
         }
       ],
@@ -64,79 +23,35 @@
       "confidence": "high"
     },
     {
-      "id": "d5e6f7g8",
+      "id": "AI_EUROPE_PREPARATION_ACT_IF_INFRACTION_RISK",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Préparation des entreprises",
+      "titre": "Les entreprises européennes doivent anticiper leur conformité à l’AI Act en 2026",
+      "description": "Les obligations de transparence et de gouvernance de l’AI Act deviennent effectives dès 2026. Les entreprises doivent anticiper la mise en conformité sous peine de sanctions, notamment en matière de formation du personnel, documentation, gestion des risques et transparence des systèmes d’IA.",
+      "sources": [
+        {
+          "url": "https://osamformations.com/article-reglementations-ia-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "AI_UK_GROK_DEEPFAKES",
       "categorie": "RSE_SOCIETE_CULTURE",
-      "sous_categorie": "Éducation et cognition",
-      "titre": "Un rapport mondial alerte sur la dépendance cognitive des élèves aux chatbots",
-      "description": "Un nouveau rapport publié aujourd’hui alerte qu’en raison de l’usage des chatbots, « les élèves n’utilisent plus leur cerveau », pointant une dépendance cognitive préoccupante.",
+      "sous_categorie": "Contenu illicite par IA",
+      "titre": "Controverses autour de Grok : deepfakes sexuels, y compris de mineurs, au Royaume‑Uni",
+      "description": "Début 2026, le modèle Grok, utilisé sur la plateforme X, continue de générer des deepfakes sexuellement explicites non consentis, touchant notamment des mineurs. Le régulateur britannique Ofcom a menacé d'interdire X si des mesures immédiates de modération et de désactivation de la génération d’images pour comptes non vérifiés n’étaient pas mises en place.",
       "sources": [
         {
-          "url": "https://www.clubic.com/actualite-595255-un-nouveau-rapport-mondial-alerte-sur-l-impact-deletere-de-l-ia-a-l-ecole-les-eleves-n-utilisent-plus-leur-cerveau.html",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "e6f7g8h9",
-      "categorie": "SANTE_SCIENCE_RECHERCHE",
-      "sous_categorie": "Non concerné",
-      "titre": "— — — — —",
-      "description": "— — — — — — aucune actualité scientifique/ santé spécifique à l’IA n’a été identifiée aujourd’hui.",
-      "sources": [
-        {
-          "url": "— — — — — —",
-          "type": "secondary"
-        }
-      ],
-      "verification_status": "unverified",
-      "confidence": "low"
-    },
-    {
-      "id": "f7g8h9i0",
-      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
-      "sous_categorie": "Souveraineté numérique",
-      "titre": "Les puces IA Nvidia H200 autorisées à l’export, mais bloquées par la Chine",
-      "description": "Washington autorise aujourd’hui l’exportation des puces IA H200 de Nvidia vers la Chine, mais Pékin riposte en bloquant leur entrée sur son territoire.",
-      "sources": [
-        {
-          "url": "https://www.zdnet.fr/actualites/puces-nvidia-h200-washington-autorise-lexport-la-chine-bloque-limport-488229.htm",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "g8h9i0j1",
-      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
-      "sous_categorie": "Consommation agentique",
-      "titre": "Carrefour soutient le protocole universel de commerce IA de Google",
-      "description": "Carrefour rejoint aujourd’hui le nouveau standard de commerce agentique initié par Google, visant à fluidifier les parcours d’achat en ligne via l’IA.",
-      "sources": [
-        {
-          "url": "https://pointsdevente.fr/fil-info/2026-01-15-carrefour-soutient-le-protocole-universel-de-commerce-ia-de-google/",
-          "type": "primary"
-        }
-      ],
-      "verification_status": "verified",
-      "confidence": "high"
-    },
-    {
-      "id": "h9i0j1k2",
-      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
-      "sous_categorie": "Législatif/information pour décideurs",
-      "titre": "Un guide AI (AI Primer) est publié pour les législateurs américains",
-      "description": "La CFCE et Lawrence Livermore Partners publient aujourd’hui un guide introductif (« AI Primer ») destiné aux législateurs pour mieux comprendre les enjeux de l’IA.",
-      "sources": [
-        {
-          "url": "https://advocacy.calchamber.com/2026/01/15/cfce-lawrence-livermore-partners-release-ai-primer-for-lawmakers/",
+          "url": "https://fr.wikipedia.org/wiki/Grok_%28IA%29",
           "type": "primary"
         }
       ],
       "verification_status": "verified",
       "confidence": "high"
     }
-  ]
+  ],
+  "meta": {}
 }
