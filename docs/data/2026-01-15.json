@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-15T17:01:32.576273+00:00",
+  "items": [
+    {
+      "id": "1a2b3c4d5e6f7g8h9i0j",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation",
+      "titre": "L'Australie dévoile sa feuille de route pour l'IA et renonce à des règles plus strictes",
+      "description": "Le 2 décembre 2025, l'Australie a présenté une feuille de route visant à accélérer l'adoption de l'intelligence artificielle dans son économie, tout en annonçant qu'elle s'appuierait sur les lois existantes pour gérer les risques émergents, revenant ainsi sur des projets antérieurs de réglementation plus stricte pour les scénarios à haut risque.",
+      "sources": [
+        {
+          "url": "https://www.zonebourse.com/actualite-bourse/l-australie-devoile-sa-feuille-de-route-pour-l-ia-et-renonce-a-des-regles-plus-strictes-ce7d51d8de8bf022",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2a3b4c5d6e7f8g9h0i1j",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements",
+      "titre": "OpenAI signe un accord majeur avec Cerebras pour réduire sa dépendance envers NVIDIA",
+      "description": "Le 15 janvier 2026, OpenAI a annoncé un partenariat stratégique avec Cerebras pour renforcer son infrastructure informatique dédiée à l'intelligence artificielle, visant à diminuer sa dépendance vis-à-vis de NVIDIA.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-15-01-2026-retex-piratage-interieur-openai-sallie-a-cerebras-gemini-veut-fouiller-vos-mails-488225.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3a4b5c6d7e8f9g0h1i2j",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éducation",
+      "titre": "Les lycéens pourront bientôt passer une épreuve du bac avec l'intelligence artificielle au Danemark",
+      "description": "Le 15 janvier 2026, le ministère de l'Éducation nationale danois a annoncé qu'à partir de 2026, certains lycéens pourront utiliser l'intelligence artificielle lors de l'épreuve orale d'anglais du baccalauréat, permettant une préparation assistée par IA.",
+      "sources": [
+        {
+          "url": "https://www.tf1info.fr/international/intelligence-artificielle-les-lyceens-pourront-bientot-passer-une-epreuve-du-bac-avec-l-intelligence-artificielle-au-danemark-2390165.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4a5b6c7d8e9f0g1h2i3j",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité",
+      "titre": "Cette erreur de « mot de passe » que nous faisons tous a permis de pirater la Place Beauvau",
+      "description": "Le 15 janvier 2026, le locataire de la Place Beauvau, Laurent Nuñez, a détaillé lors d'une audition au Sénat comment une erreur courante liée aux mots de passe a facilité le piratage du ministère de l'Intérieur.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-15-01-2026-retex-piratage-interieur-openai-sallie-a-cerebras-gemini-veut-fouiller-vos-mails-488225.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5a6b7c8d9e0f1g2h3i4j",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche",
+      "titre": "Adoption de GenAI : La Tunisie se classe 8e en Afrique en 2025",
+      "description": "Le 15 janvier 2026, Microsoft a publié un rapport indiquant que la Tunisie se classe 8e en Afrique en termes d'adoption de l'intelligence artificielle générative (GenAI) en 2025, avec une adoption mondiale atteignant 16,3 % de la population.",
+      "sources": [
+        {
+          "url": "https://africanmanager.com/adoption-de-genai-la-tunisie-se-classe-8e-en-afrique-en-2025/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6a7b8c9d0e1f2g3h4i5j",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Géopolitique",
+      "titre": "Sommet pour l'action sur l'intelligence artificielle",
+      "description": "Le 11 février 2025, le Sommet pour l'action sur l'intelligence artificielle a réuni des représentants de plus de 100 pays à Paris, coprésidé par la France et l'Inde, pour encourager la coopération internationale et mettre en lumière la place de la France dans le développement de l'IA.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sommet_pour_l%27action_sur_l%27intelligence_artificielle",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}

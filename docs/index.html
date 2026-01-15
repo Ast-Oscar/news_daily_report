@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Veille IA — Quotidienne</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="container">
+    <h1>Veille IA</h1>
+    <p class="muted">Par défaut : dernière veille disponible. Tu peux changer la date.</p>
+    <div class="controls">
+      <label>
+        Date :
+        <select id="dateSelect"></select>
+      </label>
+      <label>
+        Catégorie :
+        <select id="catSelect">
+          <option value="">Toutes</option>
+        </select>
+      </label>
+      <label>
+        Recherche :
+        <input id="q" type="search" placeholder="Titre / description…" />
+      </label>
+    </div>
+  </header>
+  <main class="container">
+    <div id="meta" class="meta"></div>
+    <div id="content"></div>
+    <div id="meta-extra" class="meta"></div>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
