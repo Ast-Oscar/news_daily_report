@@ -8,7 +8,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "Régulation nationale États-Unis",
       "titre": "Entrée en vigueur de la loi texane TRAIGA encadrant l’usage de l’IA par les organismes publics",
-      "description": "Au 1er janvier 2026, le Texas a mis en œuvre le Texas Responsible Artificial Intelligence Governance Act (TRAIGA), limitant l’usage de l’IA pour le scoring social ou la reconnaissance biométrique par les entités gouvernementales, imposant une information aux usagers et prévoyant des sanctions civiles de 10 000 à 200 000 $.",
+      "description": "La Californie a lancé de nouvelles exigences de sécurité pour les chatbots, visant à protéger les données des utilisateurs et prémunir contre les abus potentiels. Ces règles incluent des normes strictes sur la gestion des informations sensibles et la prévention des comportements indésirables par les systèmes automatisés.",
       "sources": [
         {
           "url": "https://www.law.com/legaltechnews/2026/01/02/ai-regulations-to-watch-in-2026-/",
@@ -23,7 +23,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "Régulation nationale États-Unis",
       "titre": "Lancement d’exigences de sécurité pour les chatbots en Californie",
-      "description": "Début 2026, en Californie, une série de lois entre en vigueur, dont des obligations de sécurité pour les chatbots IA (prévention des idées suicidaires, limitation de l’exposition des mineurs) et la Transparency in Frontier Artificial Intelligence Act, imposant des protocoles de transparence et déclarations de risques pour les modèles d’envergure.",
+      "description": "La Californie a lancé de nouvelles exigences de sécurité pour les chatbots, visant à protéger les données des utilisateurs et prémunir contre les abus potentiels. Ces règles incluent des normes strictes sur la gestion des informations sensibles et la prévention des comportements indésirables par les systèmes automatisés.",
       "sources": [
         {
           "url": "https://www.law.com/legaltechnews/2026/01/02/ai-regulations-to-watch-in-2026-/",
@@ -38,7 +38,7 @@
       "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
       "sous_categorie": "Investissements cybersécurité",
       "titre": "Torq lève 140 M $ pour pousser sa plateforme de sécurité IA en Israël et aux États‑Unis",
-      "description": "Le 11 janvier 2026, la startup israélienne Torq a levé 140 millions de dollars, valorisée à 1,2 milliard, pour accélérer l’adoption de sa plateforme d’opérations de sécurité pilotée par IA (SOAR), notamment sur le marché américain.",
+      "description": "OpenAI et SoftBank ont décidé d'investir 1 milliard de dollars dans des centres de données axés sur l'IA en collaboration avec SB Energy. Ce projet ambitionne de soutenir le développement de technologies avancées d'intelligence artificielle tout en promouvant l'énergie durable.",
       "sources": [
         {
           "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
@@ -53,7 +53,7 @@
       "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
       "sous_categorie": "Investissements infrastructures IA",
       "titre": "OpenAI et SoftBank investissent 1 Md $ dans des data centers IA avec SB Energy",
-      "description": "Le 9 janvier 2026, OpenAI et SoftBank ont annoncé un investissement d’un milliard de dollars dans SB Energy pour développer des campus de data centers destinés à l’IA, dont un site au Texas.",
+      "description": "OpenAI et SoftBank ont décidé d'investir 1 milliard de dollars dans des centres de données axés sur l'IA en collaboration avec SB Energy. Ce projet ambitionne de soutenir le développement de technologies avancées d'intelligence artificielle tout en promouvant l'énergie durable.",
       "sources": [
         {
           "url": "https://www.promptinjection.net/p/ai-llm-news-roundup-january-01-january-13-2026",
@@ -68,7 +68,7 @@
       "categorie": "RSE_SOCIETE_CULTURE",
       "sous_categorie": "Éthique IA",
       "titre": "Crise éthique autour de Grok : génération d’images pédopornographiques",
-      "description": "Au début janvier 2026, l’outil d’IA Grok d’Elon Musk a permis la génération d’images pédopornographiques, provoquant une crise éthique et soulignant la nécessité urgente d’une modération plus efficace.",
+      "description": "La technologie Grok fait face à une crise éthique suite à des révélations concernant la génération d'images pédopornographiques. La controverse soulève des questions cruciales sur la responsabilité et la régulation des outils d'intelligence artificielle dans la prévention de contenus illicites.",
       "sources": [
         {
           "url": "https://blog-ia.com/actualites-ia-2026-sem1/",
@@ -83,7 +83,7 @@
       "categorie": "SANTE_SCIENCE_RECHERCHE",
       "sous_categorie": "Régulation santé IA",
       "titre": "La FDA explore l’usage des systèmes « Agentic AI » pour l’évaluation des dispositifs médicaux",
-      "description": "Début janvier 2026, la FDA (États‑Unis) a mis en avant des solutions « Agentic AI » pendant son Scientific Computing Day, intégrant des systèmes d’IA capables de planifier et exécuter des actions supervisées dans le cadre d’examens pré‑ et post‑commercialisation de dispositifs médicaux.",
+      "description": "La FDA s'intéresse à l'utilisation des systèmes d'« Agentic AI » pour l'évaluation des dispositifs médicaux, cherchant à moderniser et améliorer les processus d'approbation. Cette exploration pourrait transformer la manière dont la sécurité et l'efficacité des nouvelles technologies médicales sont examinées.",
       "sources": [
         {
           "url": "https://aihealthcarecompliance.com/weekly-news-and-updates-jan-1-9-2026/",
@@ -98,7 +98,7 @@
       "categorie": "SANTE_SCIENCE_RECHERCHE",
       "sous_categorie": "Santé grand public",
       "titre": "Lancement de ChatGPT Santé aux États‑Unis",
-      "description": "Le 13 janvier 2026, OpenAI a lancé ChatGPT Santé aux États‑Unis, une fonctionnalité permettant aux utilisateurs de partager leurs données médicales avec l’IA pour obtenir des conseils.",
+      "description": "ChatGPT Santé a été lancé aux États-Unis, offrant un soutien accru dans le domaine de la santé par le biais de conseils personnalisés. L'outil, basé sur une intelligence artificielle avancée, vise à optimiser l'accès et la qualité des informations médicales pour les utilisateurs.",
       "sources": [
         {
           "url": "https://www.bfmtv.com/economie/replay-emissions/culture-geek/culture-ia-les-tendances-ia-de-2026-31-12_EN-202512310120.html",

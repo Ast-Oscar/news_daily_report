@@ -8,7 +8,7 @@
       "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
       "sous_categorie": "sécurité des modèles",
       "titre": "Attaques par injection de prompt, nouvelle tendance émergente",
-      "description": "Le 10 janvier 2026, des experts alertent que les principales causes d’incidents liés à l’IA sont désormais des attaques par injection de prompts indirectes, empoisonnement des données ou contenu adversarial, capables de faire divulguer des secrets ou exécuter des actions non intentionnelles. Les défenses recommandées incluent pare‑feux pour LLM (‘Model Firewall’), sources fiables, traçage des contenus (via C2PA ou IA Act), red teaming et contrôle indépendant des réponses.",
+      "description": "Les attaques par injection de prompt représentent une menace croissante pour les systèmes d'IA, exploitant les failles dans la manière dont ces systèmes interprètent et exécutent les instructions. Cette méthode permet aux attaquants de manipuler subtilement les IA pour réaliser des actions non désirées sans éveiller les soupçons.",
       "sources": [
         {
           "url": "https://www.economiematin.fr/ia-autonome-attaques-invisibles-gouvernance-maor",
@@ -23,7 +23,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "stratégie nationale",
       "titre": "L’Australie publie son Plan national pour l’IA",
-      "description": "Le 10 janvier 2026 marque la diffusion d’une analyse du Plan national australien pour l’IA, document qui vise à stimuler l’adoption de l’intelligence artificielle dans l’économie en s’appuyant sur les lois existantes, tout en renonçant à des règles strictes pour les cas à haut risque.",
+      "description": "La Chine a inclus des puces d'IA nationales dans une liste officielle d'achat, soulignant l'effort du pays pour renforcer l'autonomie technologique et soutenir les entreprises locales. Cette démarche s'inscrit dans une stratégie plus large visant à réduire la dépendance aux technologies étrangères et à promouvoir l'innovation domestique en IA.",
       "sources": [
         {
           "url": "https://www.csis.org/analysis/pactech-pulse-january-2026",
@@ -38,7 +38,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "régulation des services IA",
       "titre": "La Chine propose de nouvelles règles sur les services IA à personnalité simulative",
-      "description": "Le 10 janvier 2026, il est confirmé que la Chine a publié fin décembre 2025 un projet de règlement visant à encadrer les services d’IA simulant des interactions émotionnelles avec une personnalité humaine (texte, image, audio, vidéo…), renforçant les exigences de sécurité et d’éthique.",
+      "description": "La Chine a inclus des puces d'IA nationales dans une liste officielle d'achat, soulignant l'effort du pays pour renforcer l'autonomie technologique et soutenir les entreprises locales. Cette démarche s'inscrit dans une stratégie plus large visant à réduire la dépendance aux technologies étrangères et à promouvoir l'innovation domestique en IA.",
       "sources": [
         {
           "url": "https://www.csis.org/analysis/pactech-pulse-january-2026",
@@ -53,7 +53,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "législation nationale",
       "titre": "La Corée du Sud se prépare à appliquer sa AI Basic Act",
-      "description": "Le 10 janvier 2026, la Corée du Sud se rapproche de l’entrée en vigueur, le 22 janvier, de sa loi fondamentale sur l’IA (“AI Basic Act”), qui créera un comité national, un plan triennal, et imposera des obligations de sécurité, transparence et divulgation pour certains systèmes d’IA.",
+      "description": "La Chine a inclus des puces d'IA nationales dans une liste officielle d'achat, soulignant l'effort du pays pour renforcer l'autonomie technologique et soutenir les entreprises locales. Cette démarche s'inscrit dans une stratégie plus large visant à réduire la dépendance aux technologies étrangères et à promouvoir l'innovation domestique en IA.",
       "sources": [
         {
           "url": "https://www.csis.org/analysis/pactech-pulse-january-2026",
@@ -68,7 +68,7 @@
       "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
       "sous_categorie": "souveraineté technologique",
       "titre": "La Chine inscrit des puces IA nationales sur une liste officielle d’achat",
-      "description": "Le 10 janvier 2026, il est confirmé que la Chine a pour la première fois ajouté des processeurs d’IA produits localement (Huawei, Cambricon…) à sa liste officielle des fournisseurs pour les achats publics, renforçant ainsi sa souveraineté en semiconducteurs IA.",
+      "description": "La Chine a inclus des puces d'IA nationales dans une liste officielle d'achat, soulignant l'effort du pays pour renforcer l'autonomie technologique et soutenir les entreprises locales. Cette démarche s'inscrit dans une stratégie plus large visant à réduire la dépendance aux technologies étrangères et à promouvoir l'innovation domestique en IA.",
       "sources": [
         {
           "url": "https://www.csis.org/analysis/pactech-pulse-january-2026",
@@ -83,7 +83,7 @@
       "categorie": "SANTE_SCIENCE_RECHERCHE",
       "sous_categorie": "recherche mathématique",
       "titre": "Une IA aide à résoudre un problème mathématique classique (Erdős #728)",
-      "description": "Le 10 janvier 2026, il est rapporté qu’un système d’IA, assisté par un léger retour humain, a permis de résoudre le célèbre problème mathématique Erdős n° 728, marquant une avancée notable dans l’usage de l’IA pour la recherche académique pure.",
+      "description": "EuConform est un nouvel outil open source conçu pour vérifier la conformité des systèmes d'IA au cadre règlementaire européen, disponible en mode offline. Ce lancement vise à faciliter l'alignement des développements technologiques avec les normes européennes tout en limitant les risques liés à la connectivité en ligne.",
       "sources": [
         {
           "url": "https://www.weaving.news/d/2026-01-10",
@@ -98,7 +98,7 @@
       "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
       "sous_categorie": "outils de conformité",
       "titre": "Lancement d’EuConform, outil open source offline pour vérifier la conformité au cadre IA européen",
-      "description": "Le 10 janvier 2026 apparaît un nouvel outil open source, EuConform, permettant de vérifier hors‑ligne la conformité au Règlement IA de l’UE, en identifiant les niveaux de risque et les biais, utile aux petites structures.",
+      "description": "EuConform est un nouvel outil open source conçu pour vérifier la conformité des systèmes d'IA au cadre règlementaire européen, disponible en mode offline. Ce lancement vise à faciliter l'alignement des développements technologiques avec les normes européennes tout en limitant les risques liés à la connectivité en ligne.",
       "sources": [
         {
           "url": "https://www.weaving.news/d/2026-01-10",

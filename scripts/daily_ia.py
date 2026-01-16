@@ -83,6 +83,7 @@ def main(date_paris: str = None):
     logging.debug("Starting OpenAI request...")
     print("[DEBUG] Début de la requête OpenAI...")
     start_time = time.time()
+
     try:
         resp = client.responses.create(
             model="gpt-4o",
@@ -100,7 +101,6 @@ def main(date_paris: str = None):
                 "date_paris": date_paris,
                 "step": "single_call",
             },
-            # You can add timeout here if supported, e.g. timeout=60
         )
         elapsed = time.time() - start_time
         logging.debug(f"OpenAI request completed in {elapsed:.2f}s")
@@ -137,6 +137,16 @@ def main(date_paris: str = None):
     idx["latest"] = max(idx["available_dates"])
     save_index(idx)
     print(f"[DEBUG] Date ajoutée à l'index: {date_paris}")
+
+    # Lancer summarize_urls.py pour enrichir les descriptions
+    import subprocess
+    summarize_script = Path(__file__).parent / "summarize_urls.py"
+    print(f"[DEBUG] Lancement de summarize_urls.py sur {out_path} ...")
+    result = subprocess.run([sys.executable, str(summarize_script), str(out_path)])
+    if result.returncode == 0:
+        print(f"[DEBUG] Résumés enrichis dans {out_path}")
+    else:
+        print(f"[DEBUG] Erreur lors de l'appel à summarize_urls.py")
 
 if __name__ == "__main__":
     import argparse

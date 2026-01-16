@@ -1,0 +1,7 @@
+Pour chaque article ci-dessous, rédige un court résumé de deux phrases en français, en relatant les informations les plus marquantes par rapport au titre fourni.
+Ton : Factuel, journaliste, pas de personnel ni de prise de parole non nommée comme "On".
+Pour chaque bloc, tu as :
+Titre: <titre de l'article>
+URL: <url>
+Concentre le résumé sur ce qui éclaire ou complète le titre.
+Merci de traiter chaque URL séparément et de ne pas fusionner les résumés.
