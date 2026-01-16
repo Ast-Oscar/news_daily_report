@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-16T08:54:25.033318+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "OpenAI conclut un accord majeur avec Cerebras pour réduire sa dépendance à NVIDIA",
+      "description": "Le 15 janvier 2026, OpenAI signe un partenariat stratégique avec Cerebras afin de diversifier son infrastructure de calcul IA et diminuer sa dépendance aux GPU de NVIDIA.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-15-01-2026-retex-piratage-interieur-openai-sallie-a-cerebras-gemini-veut-fouiller-vos-mails-488225.htm",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité d’image générée",
+      "titre": "Les gardes-fous de Grok pour éviter les deepfakes sexuels sont contournés",
+      "description": "Selon The Verge, le 15 janvier 2026, malgré des mesures annoncées, il reste simple de contourner les protections mises en place pour empêcher Grok (sur X) de générer des deepfakes sexuels non consensuels, exacerbant les risques réglementaires et réputationnels.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/01/15/top-tech-news-today-january-15-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Productivité & ROI IA",
+      "titre": "Workday : les gains de productivité avec l’IA sont réduits par les reprises de travail",
+      "description": "Le 15 janvier 2026, une étude relayée par Semafor et TechStartups indique que si les employés déclarent gagner une à sept heures par semaine grâce à l’IA, près de 40 % de ce temps est perdu à retravailler, corriger ou fiabiliser les productions IA.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/01/15/top-tech-news-today-january-15-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Événement de sensibilisation",
+      "titre": "« Demain s’écrit avec l’IA » : événement national gratuit en France",
+      "description": "Le 15 janvier 2026, SavoirIA® organise la 3ᵉ édition de son événement national gratuit « Demain s’écrit avec l’IA » sur tout le territoire français, visant à démontrer concrètement comment l’IA transforme les métiers de l’information.",
+      "sources": [
+        {
+          "url": "https://www.veillemag.com/15-janvier-2026-Demain-s-ecrit-avec-l-IA-Savoir-IA-Le-rendez%E2%80%91vous-qui-accelere-la-transformation-des-metiers-de-l_a6779.html",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Juridique & éducation",
+      "titre": "Un tribunal allemand considère l’usage de ChatGPT non surveillé comme fraude scolaire",
+      "description": "Le 15 janvier 2026, le podcast « L’IA aujourd’hui » rapporte que le tribunal administratif de Hambourg a jugé que l’usage de ChatGPT pour des devoirs non surveillés peut constituer une tentative de tromperie académique, soulignant des enjeux éducatifs et éthiques.",
+      "sources": [
+        {
+          "url": "https://shows.acast.com/lia-aujourdhui/episodes/696867c2e9172b83205bd873",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Stratégie industrielle IA",
+      "titre": "Samsung prévoit de doubler ses smartphones dotés d’IA Gemini",
+      "description": "Le 5 janvier 2026, Samsung a annoncé son intention de produire 800 millions de smartphones intégrant des fonctionnalités IA basées sur Gemini, soit le double par rapport à 2025, un plan confirmé et toujours en cours au 15 janvier.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_in_artificial_intelligence",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ]
+}
