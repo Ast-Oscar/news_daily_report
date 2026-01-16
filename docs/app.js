@@ -132,9 +132,10 @@ function render() {
   const gen = currentData?.generated_at_utc || "";
   const items = currentData?.items || [];
   const catFilter = catSelect.value;
-  // Filter items by category uniquement
+  // Filtrer par catégorie ET confidence 'high'
   const filtered = items.filter(it => {
     if (catFilter && it.categorie !== catFilter) return false;
+    if (it.confidence !== "high") return false;
     return true;
   });
 
@@ -169,19 +170,9 @@ function render() {
         title: "Afficher les détails"
       }, [document.createTextNode("+")]);
 
-      // détails cachés
-      const ul = el("ul");
-      for (const s of (it.sources || [])) {
-        const a = el(
-          "a",
-          { href: s.url, target: "_blank", rel: "noopener noreferrer" },
-          [document.createTextNode(s.url)]
-        );
-        ul.appendChild(el("li", {}, [a])); // On n'affiche plus le type
-      }
+      // détails cachés (sans liens sources)
       const details = el("div", { class: "details", style: "display:none;" }, [
-        el("p", {}, [document.createTextNode(it.description)]),
-        ul
+        el("p", {}, [document.createTextNode(it.description)])
       ]);
 
       btn.addEventListener("click", function() {
@@ -196,10 +187,26 @@ function render() {
         }
       });
 
+      // Titre cliquable si source présente
+      let titreNode;
+      if (it.sources && it.sources.length > 0 && it.sources[0].url) {
+        titreNode = el(
+          "a",
+          {
+            href: it.sources[0].url,
+            target: "_blank",
+            rel: "noopener noreferrer",
+            style: "text-decoration:underline;color:inherit;"
+          },
+          [document.createTextNode(it.titre)]
+        );
+      } else {
+        titreNode = document.createTextNode(it.titre);
+      }
       content.appendChild(el("div", { class: `card ${getCatClass(it.categorie)}` }, [
         btn,
         badges,
-        el("h4", { style: "display:inline-block;margin-left:0.5em;vertical-align:middle;" }, [document.createTextNode(it.titre)]),
+        el("h4", { style: "display:inline-block;margin-left:0.5em;vertical-align:middle;" }, [titreNode]),
         details
       ]));
     }

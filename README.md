@@ -57,6 +57,13 @@ README.md              # Ce fichier
 
 - Les résultats sont accessibles dans le dossier `docs/data/` et via l’interface web (`docs/index.html`).
 
+## Lancer le serveur en local
+
+
+```
+python -m http.server 8000
+```
+
 ## Automatisation
 
 Le workflow GitHub Actions `.github/workflows/daily.yml` permet d’automatiser l’exécution quotidienne du script.

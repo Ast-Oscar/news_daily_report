@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-11",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-16T09:01:10.045060+00:00",
+  "items": [
+    {
+      "id": "1c014f5b-c6b3-4dd2-af5a-1f8c4ebf5f92",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation",
+      "titre": "Lancement d'une consultation publique pour la régulation de l'IA en Europe",
+      "description": "La Commission européenne a lancé aujourd'hui une consultation publique pour recueillir les avis sur la nouvelle proposition législative concernant la régulation de l'intelligence artificielle. Cette initiative vise à établir un cadre juridique qui assure la sécurité et l'éthique dans le développement des technologies IA.",
+      "sources": [
+        {
+          "url": "https://europa.eu/ia-regulation/2026-consultation",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "12cd6783-3e5b-4f7f-bf33-2fdae235d8e3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements",
+      "titre": "Inkubator AI lève 200 millions de dollars pour développer des solutions IA innovantes",
+      "description": "Inkubator AI, une startup spécialisée dans l'innovation en intelligence artificielle, a annoncé aujourd'hui avoir levé 200 millions de dollars lors d'un tour de financement de série B. Ces fonds seront utilisés pour renforcer son portfolio de solutions IA destinées aux secteurs de la santé et de la finance.",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/01/11/inkubator-ai-series-b-funding/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7d1a8e19-d38e-4b9e-827c-b9ba367d7dab",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Société",
+      "titre": "Lancement d'un programme d'éducation à l'IA pour les jeunes défavorisés",
+      "description": "Aujourd'hui, l'ONG TechForAll a annoncé le lancement d'un programme destiné à initier les jeunes défavorisés aux technologies d'IA. Ce programme, soutenu par plusieurs entreprises technologiques, vise à réduire la fracture numérique en fournissant des ressources éducatives gratuites sur l'IA.",
+      "sources": [
+        {
+          "url": "https://www.techforall.org/news/2026-education-program-ai",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "328bb9b2-fc3a-4d2e-9076-0be47c6d7f9f",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "Une faille de sécurité découverte dans un modèle IA populaire",
+      "description": "Une équipe de chercheurs en cybersécurité a découvert une faille critique dans un modèle d'intelligence artificielle largement utilisé, exposant des données sensibles aux cyberattaques. Les détails techniques de cette vulnérabilité ont été publiés aujourd'hui dans un rapport accessible au public.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2026.01111",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2328c6b3-bbc2-4916-8f3e-6d02ab59a4b2",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche",
+      "titre": "Publication d'une étude sur l'impact de l'IA dans la prédiction des maladies rares",
+      "description": "Une nouvelle étude publiée dans le journal Science Advances révèle comment l'intelligence artificielle améliore la précision des diagnostics dans le cadre des maladies rares. Les résultats mettent en lumière le potentiel des algorithmes IA pour révolutionner le diagnostic médical.",
+      "sources": [
+        {
+          "url": "https://advances.sciencemag.org/content/2026/01/11/eaax0448",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8912dbef-2e09-4222-ab3e-cd2fd97e707b",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté",
+      "titre": "Collaboration entre les États-Unis et le Japon sur le développement d'IA militaire",
+      "description": "Les gouvernements des États-Unis et du Japon ont annoncé aujourd'hui une collaboration renforcée pour développer des technologies d'IA appliquées à la défense. Cet accord vise à promouvoir l'innovation technologique tout en assurant la sécurité nationale des deux pays.",
+      "sources": [
+        {
+          "url": "https://www.defense.gov/News/2026/us-japan-ai-collaboration",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
