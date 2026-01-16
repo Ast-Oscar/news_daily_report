@@ -1,0 +1,82 @@
+{
+  "date": "2026-01-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-16T09:27:48.768468+00:00",
+  "items": [
+    {
+      "id": "1-REGULATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Défense / Doctrine",
+      "titre": "Le Pentagone adopte une doctrine « IA d’abord » : déploiement en 30 jours",
+      "description": "Le département de la Guerre américain annonce qu’il évaluera et déploiera les nouveaux modèles d’IA dans un délai de 30 jours, priorisant la rapidité d’exécution sur des garde-fous exhaustifs.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/la-vitesse-plutot-que-la-perfection-le-pentagone-veut-deployer-lia-en-30-jours-488273.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-TECHNO",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Matériel / IoT",
+      "titre": "Module HAT+ 2 d’IA pour Raspberry Pi 5 débloque l’IA générative locale",
+      "description": "Le nouveau module HAT+ 2 d’IA pour le Raspberry Pi 5 permet d’exécuter des charges de travail d’IA générative et de vision (26 TOPS) en local, avec 8 Go de RAM embarquée.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/le-raspberry-pi-5-beneficie-dune-importante-mise-a-jour-en-intelligence-artificielle-grace-a-ce-nouveau-module-complementaire-488268.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Export / Souveraineté",
+      "titre": "Export de puces IA Nvidia H200 autorisé aux États-Unis, Chine riposte",
+      "description": "Washington autorise l’exportation des puces d’IA Nvidia H200 vers la Chine, mais Pékin bloque immédiatement leur importation, illustrant les tensions géotechniques autour de la souveraineté numérique.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/puces-nvidia-h200-washington-autorise-lexport-la-chine-bloque-limport-488229.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Capital‑risque",
+      "titre": "Investissements records en IA et technologies énergétiques",
+      "description": "Les tours de financement dans les secteurs de l’IA et des technologies énergétiques atteignent des niveaux records cette semaine, portés par de grands fonds comme a16z et de nouveaux fonds thématiques.",
+      "sources": [
+        {
+          "url": "https://sergeytereshkin.fr/publications/investissements-records-ia-technologies-energetiques-16-janvier-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "5-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation de l’image",
+      "titre": "Proposition de loi française : interdire les IA qui « déshabillent » les femmes",
+      "description": "Les députés Arthur Delaporte et Stéphane Vojetta proposent d’interdire les outils d’IA permettant de ‘nudifier’ virtuellement des femmes, à l’instar de Grok sur X, dans un rapport rendu public le 13 janvier.",
+      "sources": [
+        {
+          "url": "https://lcp.fr/actualites/le-depute-arthur-delaporte-propose-d-interdire-les-ia-qui-deshabillent-les-femmes-428677",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
