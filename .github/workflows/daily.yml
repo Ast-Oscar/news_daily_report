@@ -3,7 +3,7 @@ name: Daily IA Watch (Python)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 17 * * *"   # Paris en été (UTC+2)
+    - cron: "24 16 * * *"   # Paris en été (UTC+2)
 
 permissions:
   contents: write
