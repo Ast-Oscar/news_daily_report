@@ -5,7 +5,7 @@ import os
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
-
+import sys
 from openai import OpenAI
 
 from schema import VEILLE_JSON_SCHEMA, CATEGORIES
