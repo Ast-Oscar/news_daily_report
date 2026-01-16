@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-16T16:01:47.108053+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation/Infrastructure européenne",
+      "titre": "Le Conseil européen facilite la création de « gigafabriques » d’IA",
+      "description": "Le Conseil a adopté ce jour une modification du règlement régissant EuroHPC, étendant ses objectifs pour favoriser la création de gigafabriques d’intelligence artificielle en Europe et établir un pilier dédié aux technologies quantiques.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/01/16/artificial-intelligence-council-paves-the-way-for-the-creation-of-ai-gigafactories/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat IA et médicament",
+      "titre": "NVIDIA et Eli Lilly lancent un laboratoire IA de 1 milliard $",
+      "description": "NVIDIA et Eli Lilly annoncent aujourd’hui la création d’un laboratoire de co-innovation en IA dédié à la découverte de médicaments, doté d’un budget d’environ 1 milliard $.",
+      "sources": [
+        {
+          "url": "https://www.eenewseurope.com/en/nvidia-and-lilly-launch-1b-ai-lab-for-drug-discovery/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éducation/Accès IA",
+      "titre": "Drexel University adopte ChatGPT Edu pour toute sa communauté",
+      "description": "L’université Drexel a signé une licence entreprise avec OpenAI pour fournir un accès sécurisé à ChatGPT Edu à tous les membres de sa communauté universitaire, mise en œuvre prévue en janvier.",
+      "sources": [
+        {
+          "url": "https://www.thetriangle.org/news/drexel-to-integrate-chatgpt-edu/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Contenus générés par IA",
+      "titre": "Wikipedia signe des accords avec Amazon, Meta, Microsoft, Mistral AI et Perplexity",
+      "description": "Wikipedia annonce aujourd’hui des accords commerciaux avec des entreprises d’IA telles qu’Amazon, Meta Platforms, Microsoft, Mistral AI et Perplexity, marquant une évolution de sa collaboration avec le secteur IA.",
+      "sources": [
+        {
+          "url": "https://www.mediapost.com/publications/article/412089/wikipedia-secures-ai-deals-with-amazon-meta-micr.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Technologie médicale",
+      "titre": "Capteur radar‑IA détectant la fibrillation auriculaire sans contact",
+      "description": "Des scientifiques présentent aujourd’hui un système sans contact utilisant des ondes radio et de l’IA capable de détecter la fibrillation auriculaire avant même l’apparition de symptômes, potentiellement utile pour un diagnostic précoce.",
+      "sources": [
+        {
+          "url": "https://knowridge.com/2026/01/radar-like-sensor-can-detect-irregular-heart-rhythms-without-touching-the-body/#google_vignette",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Stratégie de déploiement militaire",
+      "titre": "Le Pentagone veut déployer l’IA en 30 jours",
+      "description": "Le département de la Guerre des États‑Unis adopte une nouvelle doctrine basée sur la vitesse d’exécution plutôt que la perfection, s’engageant à déployer des capacités d’intelligence artificielle en 30 jours.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/la-vitesse-plutot-que-la-perfection-le-pentagone-veut-deployer-lia-en-30-jours-488273.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
