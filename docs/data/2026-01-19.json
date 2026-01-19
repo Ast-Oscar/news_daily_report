@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-19",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-19T17:49:18.392827+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale – FDA (États-Unis)",
+      "titre": "La FDA intègre l’« Agentic AI » dans ses processus de régulation médicale",
+      "description": "En janvier 2026, la FDA (États-Unis) commence à utiliser des systèmes d’« Agentic AI » — capables de planifier et exécuter des actions avec supervision humaine — pour accélérer les examens pré-commercialisation et la surveillance post-commercialisation des dispositifs médicaux.",
+      "sources": [
+        {
+          "url": "https://aihealthcarecompliance.com/weekly-news-and-updates-jan-1-9-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariats technologiques",
+      "titre": "OpenAI, Anthropic et Google lancent de nouveaux outils d’IA pour le secteur de la santé",
+      "description": "Le 19 janvier 2026, des acteurs majeurs comme OpenAI, Anthropic et Google proposent de nouveaux outils d’intelligence artificielle spécifiquement destinés à automatiser des tâches dans le domaine médical, malgré les préoccupations persistantes liées à la confidentialité des données.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-19-01-2026-les-geants-de-l-ia-sattaquent-au-secteur-medical-une-solution-pour-securiser-w10-astuces-autonomie-android-488382.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité – Vulnérabilités IA en entreprise",
+      "titre": "Les entreprises évaluent plus les risques liés à l’IA avant déploiement",
+      "description": "Un rapport du Forum Économique Mondial et d’Accenture indique qu’en 2026, 64 % des entreprises évaluent désormais les risques liés à l’IA avant de les déployer (contre 37 % l’an passé) ; 87 % constatent une hausse des vulnérabilités, notamment deepfakes, escroqueries automatisées et failles dans les chaînes d’approvisionnement.",
+      "sources": [
+        {
+          "url": "https://www.techradar.com/pro/security/businesses-are-finally-taking-action-to-crack-down-on-ai-security-risks",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité – Changement de posture des entreprises",
+      "titre": "Les dirigeants en cybersécurité misent sur l’IA pour renforcer les défenses",
+      "description": "Les responsables de la sécurité (CISOs) adoptent de plus en plus l’IA pour améliorer les opérations de cybersécurité : automatisation des alertes, détection de bugs, gestion des mots de passe, réponse aux menaces, afin de réduire la fatigue opérationnelle et renforcer la rapidité d’intervention.",
+      "sources": [
+        {
+          "url": "https://aileaderscouncil.org/how-ai-is-reinventing-cybersecurity-for-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé – Outils d’IA en santé",
+      "titre": "Les géants de l’IA s’attaquent à l’automatisation du secteur médical",
+      "description": "Le 19 janvier 2026, ZDNET rapporte que malgré les enjeux de confidentialité et les risques d’hallucinations, OpenAI, Anthropic et Google lancent de nouveaux outils d’IA destinés à automatiser des parties du secteur de la santé.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-19-01-2026-les-geants-de-l-ia-sattaquent-au-secteur-medical-une-solution-pour-securiser-w10-astuces-autonomie-android-488382.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité nationale – Cybermenaces IA",
+      "titre": "L’espionnage IA et les infrastructures critiques sous pression en Australie",
+      "description": "Un article rapporte qu’une campagne d’espionnage dirigée par l’IA, menée par Anthropic, met en lumière l’usage croissant de l’IA pour mener des opérations autonomes contre les infrastructures critiques en Australie ; 13 % des cyberattaques en 2024‑25 ciblaient des systèmes vitaux (énergie, santé, communications).",
+      "sources": [
+        {
+          "url": "https://www.dailytelegraph.com.au/news/opinion/cyber-spooks-seeking-a-big-security-harvest-cyber-spooks-seeking-a-big-security-harvest/news-story/36e05c034bbc5a084e9eadbbd7761994",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
