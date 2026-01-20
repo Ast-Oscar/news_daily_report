@@ -1,0 +1,142 @@
+{
+  "date": "2026-01-20",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-20T17:55:08.109125+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance politique énergétique & IA",
+      "titre": "Trump agit face aux coûts énergétiques des centres de données liés à l’IA",
+      "description": "Aux États‑Unis, Donald Trump a adopté des mesures ciblant les centres de données alimentés par l’IA, afin de maîtriser les coûts énergétiques. Cela inclut une exigence fiscale et un mécanisme d’enchères sur la fiabilité énergétique.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/2026/jan/20/trump-tech-alliance-datacenters-social-media",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements & Financement IA",
+      "titre": "Capgemini envisage jusqu’à 2 400 suppressions de postes liées à une transition IA",
+      "description": "Le groupe Capgemini annonce ce 20 janvier un vaste plan de restructuration en France, justifié par un virage stratégique vers l’intelligence artificielle, avec jusqu’à 2 400 suppressions d’emplois.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/capgemini-ce-quil-faut-savoir-sur-le-plan-de-restructuration-et-le-virage-ia-488452.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Économie des grandes entreprises IA",
+      "titre": "OpenAI pourrait manquer de financements d’ici 18 mois",
+      "description": "Un article du jour indique qu’OpenAI fait face à un risque de faillite à moyen terme, évoquant un « mur de financement » menaçant la pérennité du géant de l’IA.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/openai-18-mois-avant-la-faillite-le-geant-de-lia-pourrait-manquer-de-financements-488431.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles – IA entreprise",
+      "titre": "ServiceNow intègre les modèles Frontier d’OpenAI pour renforcer les workflows IA",
+      "description": "ServiceNow étend son accès aux modèles Frontier d’OpenAI afin d’automatiser des workflows d’entreprise via des fonctions de recherche, résumé et voix pilotés par IA.",
+      "sources": [
+        {
+          "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Acceptabilité de l’IA en santé",
+      "titre": "IA pour interprétation des mammographies : une majorité de patients favorable avec supervision médicale",
+      "description": "Une étude publiée ce 20 janvier révèle que la majorité des patients soutient l’utilisation de l’IA pour lire les mammographies, à condition d’avoir un contrôle médical humain.",
+      "sources": [
+        {
+          "url": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/jan-ai-mammograms.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Formation et inclusion IA",
+      "titre": "Formation des dirigeants à l’IA : Cap sur les compétences de demain",
+      "description": "Un article du jour interroge la façon dont les futurs dirigeants d’entreprise doivent être formés aux bouleversements induits par l’IA sur le marché du travail.",
+      "sources": [
+        {
+          "url": "https://www.centre-inffo.fr/site-centre-inffo/actualites-centre-inffo/le-quotidien-de-la-formation-actualite-formation-professionnelle-apprentissage/actualites-2026/ia-penser-la-formation-des-dirigeants-dentreprises-de-demain",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Tendances globales en IA",
+      "titre": "Dentons publie ses tendances mondiales 2026 en IA",
+      "description": "Dentons publie ce 20 janvier un rapport identifiant six grandes évolutions à l’échelle mondiale, marquant le passage d’une ambition IA à son adoption concrète.",
+      "sources": [
+        {
+          "url": "https://www.dentons.com/en/insights/articles/2026/january/20/2026-global-ai-trends",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie des infrastructures IA",
+      "titre": "Ericsson dessine les réseaux intelligents du futur pour l’IA",
+      "description": "Ericsson dévoile aujourd’hui sa vision des infrastructures réseaux nécessaires pour alimenter l’intelligence artificielle dans les années à venir.",
+      "sources": [
+        {
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-01-20-ericsson-imagine-les-reseaux-intelligents-qui-alimenteront-lia-de-demain.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Technologie IA & industrie créative",
+      "titre": "Adobe présente de nouveaux outils vidéo IA et 10 M$ de subventions à Sundance",
+      "description": "Adobe annonce, à l’occasion du festival Sundance, de nouvelles innovations vidéo basées sur l’IA et un programme de subventions de 10 millions de dollars en soutien aux créateurs.",
+      "sources": [
+        {
+          "url": "https://news.adobe.com/news/2026/01/sundance-filmmakers-choose-adobe",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
