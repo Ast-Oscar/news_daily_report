@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-23",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-23T17:49:12.498655+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Politique publique internationale",
+      "titre": "FMI met en garde contre un “tsunami” de l’IA sur l’emploi à Davos",
+      "description": "Lors du Forum économique mondial à Davos le 23 janvier 2026, la directrice du FMI, Kristalina Georgieva, a averti que l’intelligence artificielle représentera un « tsunami » pour le marché du travail, affectant 60 % des emplois dans les économies avancées et 40 % au niveau mondial, avec des jeunes particulièrement exposés.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/business/live/2026/jan/23/davos-world-economic-outlook-lagarde-georgieva-ai-okonjo-iweala-ecb-imf-wto-business-live-updates",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Lobbying et politique aux États-Unis",
+      "titre": "TechNet appelle à un cadre fédéral solide pour l’IA aux États‑Unis",
+      "description": "Le 23 janvier 2026, TechNet publie ses priorités fédérales pour 2026 : création d’un cadre réglementaire national coordonné pour l’IA et un financement ambitieux de la recherche, afin de préserver la compétitivité technologique américaine et éviter la multiplication de régulations étatiques contraignantes.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/01/23/technet-2026-federal-priorities",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Menaces autonomes",
+      "titre": "Des agents d’IA autonomes identifiés comme nouvelle menace cyber",
+      "description": "Le 23 janvier 2026, Google et Fortinet alertent sur l’émergence d’agents IA autonomes capables de mener des attaques coordonnées sans intervention humaine, notamment grâce à des techniques telles que l’injection de prompts visant à contourner les défenses AI.",
+      "sources": [
+        {
+          "url": "https://fr.euronews.com/next/2026/01/12/cybersecurite-2026-des-intrusions-liees-a-lia-aux-menaces-geopolitiques-croissantes",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Davos et souveraineté technologique",
+      "titre": "AGI toujours à 5–10 ans selon DeepMind à Davos",
+      "description": "Le 23 janvier 2026, à Davos, Demis Hassabis de DeepMind a estimé que l’Intelligence Artificielle générale (AGI) reste à 5–10 ans de la réalité, les systèmes actuels n’ayant pas encore atteint une créativité et une intelligence comparables à celles des humains.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/business/live/2026/jan/23/davos-world-economic-outlook-lagarde-georgieva-ai-okonjo-iweala-ecb-imf-wto-business-live-updates",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance institutionnelle de l’IA",
+      "titre": "Proposition d'un « APC (AI Deployment Authorisation Score) » pour encadrer l’autorisation de déploiement IA",
+      "description": "Un article scientifique publié récemment propose l’AI Deployment Authorisation Score (ADAS), un cadre de gouvernance lisible par machine qui fournirait un certificat cryptographique d’autorisation de déploiement des systèmes IA, intégrant les exigences légales, les risques et l’auditabilité.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.08869",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Désinformation et gouvernance démocratique",
+      "titre": "Alerte sur les campagnes de désinformation IA en essaims",
+      "description": "Le 23 janvier 2026, *Wired* met en garde contre des campagnes de désinformation pilotées par des essaims d’agents IA capables de générer des contenus coordonnés, réalistes et adaptatifs, susceptibles d’influencer les opinions publiques et élections, et appelle à la création d’un observatoire indépendant de la désinformation IA.",
+      "sources": [
+        {
+          "url": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
