@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-24",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-24T17:44:11.422118+00:00",
+  "items": [
+    {
+      "id": "UE_biometrie_USA",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "L’Europe s’apprête à livrer les données biométriques de ses citoyens aux États‑Unis",
+      "description": "Bruxelles envisage de partager automatiquement les bases de données biométriques européennes avec les États‑Unis pour maintenir l’exemption de visa (ESTA), suscitant des interrogations sur la souveraineté numérique du continent.",
+      "sources": [
+        {
+          "url": "https://www.ia‑info.fr/.../published‑24‑janvier‑2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
