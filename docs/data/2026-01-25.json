@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-25",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-25T17:44:45.509178+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "Application opérationnelle de l’AI Act au Luxembourg",
+      "description": "Le 20 janvier 2026, une conférence intitulée « AI Act en action » organisée à Luxembourg a réuni plus de 300 participants (entreprises, régulateurs, juristes) autour de la mise en œuvre concrète du règlement européen sur l’IA (AI Act) : conformité, gouvernance nationale, maîtrise des risques et soutien à l’innovation.",
+      "sources": [
+        {
+          "url": "https://gouvernement.lu/de/actualites/agenda.gouvernement2024%2Bfr%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2026%2B01-janvier%2B20-margue-ai-act.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Rapport d’entreprise",
+      "titre": "WEF publie des cas concrets de déploiement d’IA à grande échelle",
+      "description": "Le Forum économique mondial (WEF) a publié aujourd’hui un rapport mettant en lumière des réussites d’entreprises ayant déployé l’IA à grande échelle. Parmi les exemples cités : Sanofi & OAI (France) avec plus de 1 300 cas d’usage, et ICBC (Chine) ayant mis en production un modèle financier de 100 milliards de paramètres pour 400 000 employés.",
+      "sources": [
+        {
+          "url": "https://rainvent.ai/genai-daily-january-25-2026-world-economic-forum-ai-enterprise-report-davos-ai-infrastructure-rebuild-mit-enterprise-ai-research/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements & infrastructure",
+      "titre": "Jensen Huang (Nvidia) évoque une refonte à mille milliards de dollars de l’infrastructure IA",
+      "description": "À Davos (21 janvier 2026), le PDG de Nvidia, Jensen Huang, a estimé que la transition mondiale vers le calcul accéléré nécessitera des investissements se chiffrant en milliers de milliards de dollars, marquant une phase structurelle de reconstruction industrielle autour de l’IA.",
+      "sources": [
+        {
+          "url": "https://rainvent.ai/genai-daily-january-25-2026-world-economic-forum-ai-enterprise-report-davos-ai-infrastructure-rebuild-mit-enterprise-ai-research/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement startups",
+      "titre": "Articul8 et Converge Bio lèvent des fonds pour accélérer l’IA",
+      "description": "Aujourd’hui, Articul8 (spin‑out d’Intel) a sécurisé plus de 35 M$ dans sa levée de série B (pré‑money valuation de 500 M$), et Converge Bio (drug‑discovery en IA) a levé 25 M$ en série A pour accélérer le développement de médicaments.",
+      "sources": [
+        {
+          "url": "https://rainvent.ai/genai-daily-january-25-2026-world-economic-forum-ai-enterprise-report-davos-ai-infrastructure-rebuild-mit-enterprise-ai-research/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Interopérabilité & Explicabilité",
+      "titre": "La « interpretabilité mécaniste » identifiée comme percée 2026",
+      "description": "La revue MIT Technology Review identifie aujourd’hui l’approche dite d’« interpretabilité mécaniste », permettant de cartographier les chemins internes d’un modèle IA, comme l’une des avancées majeures pour rendre les décisions des modèles auditable et explicables.",
+      "sources": [
+        {
+          "url": "https://rainvent.ai/genai-daily-january-25-2026-world-economic-forum-ai-enterprise-report-davos-ai-infrastructure-rebuild-mit-enterprise-ai-research/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Analyse macroéconomique",
+      "titre": "Impact macroéconomique des datacenters IA mis en lumière",
+      "description": "Une analyse publiée (16 janvier 2026) montre que les investissements massifs dans les datacenters IA aux États-Unis ont fortement soutenu la demande, mais leur contribution au PIB est plus modeste après prise en compte des importations de matériel.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.11196",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Stratégie souveraine",
+      "titre": "Nvidia appelle à une infrastructure de « Sovereign AI »",
+      "description": "Lors de sa prise de parole à Davos (21 janvier 2026), Jensen Huang (Nvidia) a souligné la montée en puissance de l’« IA souveraine », incitant les nations à posséder leurs propres infrastructures de données et de calcul.",
+      "sources": [
+        {
+          "url": "https://rainvent.ai/genai-daily-january-25-2026-world-economic-forum-ai-enterprise-report-davos-ai-infrastructure-rebuild-mit-enterprise-ai-research/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
