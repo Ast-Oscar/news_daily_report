@@ -1,0 +1,83 @@
+{
+  "date": "2026-01-31",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-31T17:50:07.995353+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Traités internationaux",
+      "titre": "L’Arménie signe la Convention-cadre du Conseil de l’Europe sur l’IA",
+      "description": "Le 27 janvier 2026, l’Arménie a signé la Convention‑cadre du Conseil de l’Europe relative à l’intelligence artificielle, les droits de l’homme, la démocratie et l’État de droit, portant à 19 le nombre de signataires.",
+      "sources": [
+        {
+          "url": "https://www.coe.int/fr/web/artificial-intelligence/newsroom",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Technologie appliquée",
+      "titre": "OpenAI déploie un système d’arbitrage autonome pour concilier objectifs métier",
+      "description": "OpenAI a introduit des systèmes autonomes dénommés “Objective Arbitration” qui résolvent en temps réel les conflits entre objectifs commerciaux concurrents.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-daily-digest-january-31-2026-safwan-alsebaei-7zp8f",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "3-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité industrielle",
+      "titre": "Les États‑Unis mettent en avant l’IA dans la cybersécurité au SANS Cyber Threat Intelligence Summit",
+      "description": "Du 26 janvier au 2 février 2026, à Arlington (États‑Unis), le SANS Cyber Threat Intelligence Summit met en lumière l’usage de l’IA pour la prévention des menaces et les innovations en cybersécurité.",
+      "sources": [
+        {
+          "url": "https://www.ia-info.fr/28-janvier-2026-ce-qu-il-faut-retenir-sur-l-intelligence-artificielle.html",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-science-recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche fondamentale",
+      "titre": "Modèle de contrôle par continuité réduisant l’erreur à long terme pour agents autonomes",
+      "description": "Des chercheurs du MIT ont publié un modèle de contrôle « continuity‑first » permettant une réduction de 62 % de la dérive à long terme lors de l’exécution par des agents autonomes.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-daily-digest-january-31-2026-safwan-alsebaei-7zp8f",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "5-industrie-souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure nationale IA",
+      "titre": "Les Émirats arabes unis lancent une coordination nationale IA pour les infrastructures",
+      "description": "Les Émirats arabes unis ont lancé une coordination nationale pilotée par l’IA couvrant l’énergie, les transports et la logistique.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-daily-digest-january-31-2026-safwan-alsebaei-7zp8f",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
