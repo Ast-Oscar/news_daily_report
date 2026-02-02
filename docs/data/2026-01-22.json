@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-22",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-22T17:55:10.367501+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Stratégie des entreprises & gouvernance publique",
+      "titre": "Gouvernance, cybersécurité et agents IA : trois défis clés pour 2026",
+      "description": "Le 22 janvier 2026, iTPro publie un baromètre indiquant que 91 % des décideurs considèrent l’IA comme prioritaire ou importante, et identifie trois axes majeurs à adresser : confiance, cybersécurité et gouvernance des agents IA.",
+      "sources": [
+        {
+          "url": "https://www.itpro.fr/gouvernance-cybersecurite-et-agents-ia-trois-defis-cles-a-relever-pour-reussir-la-transition-en-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Matériel & innovations industrielles",
+      "titre": "Lancement attendu des ordinateurs portables Ryzen AI 400 d’AMD le 22 janvier",
+      "description": "Une fuite d’une boutique ASUS en Chine révèle la sortie imminente, le 22 janvier 2026, de portables équipés du SoC Ryzen AI 7 445 intégrant NPU XDNA 2, marquant une étape industrielle majeure de l’IA embarquée.",
+      "sources": [
+        {
+          "url": "https://www.tomshardware.com/pc-components/cpus/amds-next-gen-ryzen-ai-400-laptops-could-launch-on-january-22-five-days-ahead-of-panther-lake-gorgon-point-release-date-leaks-through-early-asus-listing-in-china",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Urbanisme & transition écologique",
+      "titre": "IA.rbre : un service ouvert de cartographie urbaine IA pour planter des arbres",
+      "description": "Le CNIG annonce le projet IA.rbre, un outil IA open source capable d’analyser des images aériennes et d’indiquer les emplacements appropriés pour planter des arbres en ville, dans le cadre du programme DIAT et de France 2030.",
+      "sources": [
+        {
+          "url": "https://nouvelle-elettre.developpement-durable.gouv.fr/conseil-national-de-l-information-geolocalisee/annee-2026/la-lettre-d-info-du-cnig/rubrique1314.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Conférences & sensibilisation",
+      "titre": "Webconférence sur la cybersécurité à l’ère de l’IA générative",
+      "description": "Le 22 janvier 2026, le Cnam Bretagne organise une webconférence avec la professeure Esma Aïmeur sur les défis de cybersécurité et les nouvelles menaces/opportunités induites par l’IA générative.",
+      "sources": [
+        {
+          "url": "https://www.nous-vous-ille.fr/agenda/event/8760087",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche en raisonnement IA",
+      "titre": "ARC‑AGI 2025 : boucles de raffinement en IA et benchmark global renforcé",
+      "description": "Le rapport technique de l’ARC Prize 2025, publié le 15 janvier 2026, montre l’intérêt croissant pour les boucles de raffinement itératif en IA, avec 1 455 équipes inscrites et quatre laboratoires de pointe publiant leurs résultats sur le benchmark ARC‑AGI.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.10904",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Présence à Davos & robotaxis",
+      "titre": "Elon Musk annonce des robotaxis Tesla en service et des robots humanoïdes Optimus",
+      "description": "Au Forum Économique Mondial de Davos le 22 janvier 2026, Elon Musk annonce le lancement de services de robotaxis Tesla aux États‑Unis, avec une extension prévue en Europe, et la préparation de robots humanoïdes Optimus pour usage industriel puis grand public fin 2026.",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/davos-wef-live-updates-jan-22-2026-1",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-01-28",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-28T17:57:43.993233+00:00",
+  "items": [
+    {
+      "id": "gnl1_france_cnig_ia_rbre",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "projets_territoriaux",
+      "titre": "L’outil IA.rbre mis en lumière par le CNIG pour verdir les villes",
+      "description": "Le Conseil national de l’information géolocalisée (CNIG) met en avant le projet IA.rbre, un outil open‑source utilisant l’IA pour inventorier la nature en ville et identifier les lieux propices à la plantation d’arbres, dans le cadre du programme DIAT du plan France 2030.",
+      "sources": [
+        {
+          "url": "https://nouvelle-elettre.developpement-durable.gouv.fr/conseil-national-de-l-information-geolocalisee/annee-2026/la-lettre-d-info-du-cnig/rubrique1314.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "intl1_global_google_gemini3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "produits_commerciaux",
+      "titre": "Google étend son offre AI Plus à 35 nouveaux marchés à 7,99 $ par mois",
+      "description": "Google élargit la disponibilité de son plan AI Plus incluant Gemini 3 Pro à 35 nouveaux marchés à un tarif de 7,99 $ par mois.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl2_global_google_search_gemini3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "technologies_de_recherche",
+      "titre": "Gemini 3 devient le modèle par défaut des « AI Overviews » dans Google Search",
+      "description": "Google a rendu Gemini 3 le modèle par défaut pour les « AI Overviews » dans son moteur de recherche, permettant une transition plus fluide entre résultats et conversation.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl3_global_mozilla_rebel_alliance",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "investissements",
+      "titre": "Mozilla lance une 'Rebel Alliance' IA avec 1,4 milliard $",
+      "description": "Mozilla annonce un investissement de 1,4 milliard de dollars pour constituer une coalition de startups et développeurs autour d’IA ouvertes et de confiance, visant à concurrencer OpenAI et Anthropic.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl4_uk_supercomputer_zenith",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "infrastructures_supercalcul",
+      "titre": "Le Royaume‑Uni investit 36 M£ pour passer au superordinateur « Zenith » à Cambridge",
+      "description": "Le gouvernement britannique investit 36 millions de livres pour moderniser le superordinateur Dawn de Cambridge, renommé Zenith, multipliant par six sa puissance au service du NHS et de la recherche climatique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl5_us_genai_browsers_purple_teaming",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "sécurité_ai_gouvernement",
+      "titre": "Les agences fédérales américaines adoptent des « GenAI browsers » et le purple teaming autonome",
+      "description": "Les agences fédérales US mettent en place des navigateurs basés sur IA générative (« GenAI browsers ») et des stratégies de purple teaming autonomes pour renforcer la sécurité des systèmes d’IA.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl6_us_r_and_d_autonomous",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "automatisation_R&D",
+      "titre": "Des systèmes IA automatisent leurs propres processus de R&D",
+      "description": "Un rapport du CSET révèle que des entreprises utilisent des systèmes d’IA pour accélérer leurs propres activités de recherche et développement, soulevant des questions sur l’innovation, la sécurité et la gouvernance.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "intl7_us_ucsd_vascilia",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "recherche_médicale",
+      "titre": "L’UC San Diego développe VASCilia, un outil IA pour accélérer la recherche sur l’audition",
+      "description": "L’université de Californie à San Diego met au point VASCilia, un outil de deep learning permettant une visualisation 3D des cellules ciliées cochléaires, accélérant la recherche sur la perte auditive par un facteur 50.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-28/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2026-01-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-16T17:49:22.768945+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Politique / Régulation",
+      "titre": "Le Conseil de l’UE ouvre la voie aux « gigafabriques » d’IA",
+      "description": "Le Conseil de l’Union européenne a adopté aujourd’hui une modification du règlement concernant les activités de l’entreprise commune pour le calcul à haute performance, permettant de créer des infrastructures massives dédiées à l’IA (gigafabriques) à l’échelle européenne.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/01/16/artificial-intelligence-council-paves-the-way-for-the-creation-of-ai-gigafactories/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation santé",
+      "titre": "EMA et FDA établissent des principes communs pour l’IA dans les médicaments",
+      "description": "L’Agence européenne des médicaments (EMA) et la Food and Drug Administration (FDA) américaine ont défini ensemble dix principes de bonnes pratiques pour l’usage de l’IA tout au long du cycle de vie des médicaments, depuis la recherche jusqu’à la surveillance post‑commercialisation.",
+      "sources": [
+        {
+          "url": "https://www.ema.europa.eu/en/news/ema-fda-set-common-principles-ai-medicine-development-0",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie high‑tech",
+      "titre": "GIGABYTE présente AI TOP Utility au CES 2026 pour l’IA locale",
+      "description": "À l’occasion du CES 2026, GIGABYTE a dévoilé AI TOP Utility, une solution destinée à faire fonctionner l’IA localement, afin de répondre à des besoins pratiques et sécuriser les données sensibles.",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/a-loccasion-de-ces-2026-gigabyte-presente-ai-top-utility-une-solution-pratique-pour-les-applications-dia-locales-302663055.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "« AI Made in Morocco » : l’IA, enjeu de souveraineté pour le Maroc",
+      "description": "Le Maroc a lancé l’initiative « AI Made in Morocco », affirmant l’intelligence artificielle comme un enjeu stratégique de souveraineté technologique nationale.",
+      "sources": [
+        {
+          "url": "https://www.maroc-hebdo.com/article/avec-ai-made-in-morocco-rabat-fait-de-lintelligence-artificielle-un-enjeu-de-souverainete",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des plateformes IA",
+      "titre": "Permissions de sécurité sur Google Vertex AI : nouveau risque interne accru",
+      "description": "Un nouveau mécanisme d’élévation de privilèges identifiée dans Google Vertex AI pourrait amplifier les risques d’attaque de l’intérieur, mettant en lumière un problème plus large de confiance envers les solutions IA de l’entreprise.",
+      "sources": [
+        {
+          "url": "https://www.infoworld.com/article/4118094/google-vertex-ai-security-permissions-could-amplify-insider-threats-2.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé réglementaire",
+      "titre": "Vers un modèle réglementaire FDA pour l’IA santé",
+      "description": "Michael Abrams (Numerof & Associates) souligne la nécessité pour la FDA d’accélérer dans la régulation de l’IA dans la santé, en s’inspirant de son processus de validation des médicaments.",
+      "sources": [
+        {
+          "url": "https://www.healthcareitnews.com/video/developing-fda-regulatory-model-health-ai",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Coopération internationale",
+      "titre": "Israël et les États‑Unis signent une déclaration stratégique sur l’IA",
+      "description": "Israël devient le premier pays à signer avec les États‑Unis une déclaration conjointe stratégique sur l’intelligence artificielle, visant à renforcer leur coopération technologique et sécuritaire.",
+      "sources": [
+        {
+          "url": "https://www.i24news.tv/fr/actu/international/artc-israel-et-les-etats-unis-signent-une-declaration-conjointe-strategique-sur-l-intelligence-artificielle",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation locale (Etats‑Unis)",
+      "titre": "La Californie applique la Transparency in Frontier AI Act (SB‑53)",
+      "description": "La loi californienne SB‑53, Transparency in Frontier Artificial Intelligence Act, entrée en vigueur le 1ᵉʳ janvier 2026, impose aux entreprises d’IA frontalière de publier des rapports de sécurité, des documents de transparence et offre des protections pour lanceurs d’alerte.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/01/16/california-year-ai",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés financiers",
+      "titre": "Les fabricants de puces surpassent les géants logiciels dans l’investissement IA",
+      "description": "À mi‑janvier 2026, les puces « picks and shovels » dans l’IA (matériel) surpassent les géants du logiciel sur les marchés financiers, marquant une divergence notable dans les investissements liés à l’IA.",
+      "sources": [
+        {
+          "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-1-16-the-ai-great-divide-why-picks-and-shovels-chips-are-outpacing-software-giants-in-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-01-18",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-18T17:43:58.028809+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Souveraineté & usage sécurisé",
+      "titre": "Grok d’X (anciennement Twitter) accessible depuis la Malaisie malgré l’interdiction",
+      "description": "L’outil d’IA Grok reste accessible en Malaisie via VPN, ce qui complique son encadrement, notamment pour la création non consensuelle d’images explicites.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/18/all#topic-‘Still-here!’-X’s-Grok-AI-tool-accessible-in-Malaysia-despite-ban",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements publics/privés",
+      "titre": "Samsung prévoit de doubler la production de smartphones équipés d’IA Gemini",
+      "description": "Samsung entend produire 800 millions d’appareils intégrant l’IA Google Gemini en 2026, contre 400 millions en 2025.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_in_artificial_intelligence",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Analyse financière",
+      "titre": "Wolfe Research désigne Nvidia comme action IA favorite pour 2026",
+      "description": "Le courtier Wolfe Research intègre Nvidia à sa « Wolfe Alpha List » et en fait son choix privilégié sur l’IA pour 2026, malgré une hausse modérée de son cours (seulement 36 % l’année passée).",
+      "sources": [
+        {
+          "url": "https://fr.finance.yahoo.com/actualites/5-grandes-d%C3%A9cisions-d-analystes-093006729.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture numérique",
+      "titre": "Une chanteuse IA fait sensation sur Spotify",
+      "description": "Sienna Rose, artiste entièrement générée par IA, connaît un succès sur Spotify et séduit… Selena Gomez, bien qu’elle n’existe pas dans la réalité.",
+      "sources": [
+        {
+          "url": "https://www.tvanouvelles.ca/2026/01/18/artiste-ia-cette-chanteuse-cartonne-sur-spotify-et-plait-a-selena-gomez-mais-elle-nexiste-pas",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Accès non autorisé",
+      "titre": "Grok accessible via VPN malgré interdiction",
+      "description": "Le contournement par VPN de l’interdiction de Grok en Malaisie illustre les difficultés de contrôle d’accès et les risques d’usage irresponsable de l’IA.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/18/all#topic-‘Still-here!’-X’s-Grok-AI-tool-accessible-in-Malaysia-despite-ban",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "— (pas de nouvelle aujourd’hui)",
+      "titre": "— Aucun fait nouveau enregistré aujourd’hui dans cette catégorie —",
+      "description": "Aucune actualité spécifique liée à la santé ou à la recherche médicale autour de l’IA n’a été publiée le 18 janvier 2026.",
+      "sources": [
+        {
+          "url": "— aucun — ",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Consommation de services IA",
+      "titre": "Les Sud-Coréens dépensent 6,8 milliards USD dans des IA génératives",
+      "description": "Les Sud‑Coréens souscrivent pour 1 000 milliards de wons (environ 6,8 milliards USD) par an à des services d’IA générative, dépassant ainsi leurs dépenses pour Netflix.",
+      "sources": [
+        {
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202601180003",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-17",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-17T17:43:11.919905+00:00",
+  "items": [
+    {
+      "id": "1–Gouvernance_Régulation_Évaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Normes de confiance pour IA agentique",
+      "titre": "Lancement de l’« Alliance Trust in AI » par Thomson Reuters",
+      "description": "Thomson Reuters Labs a annoncé, le 14 janvier 2026, la création de l’Alliance « Trust in AI », réunissant des acteurs majeurs de l’IA (Anthropic, AWS, Google Cloud, OpenAI) pour définir des principes et méthodes en vue de garantir la fiabilité, la transparence et la responsabilité des systèmes d’IA autonomes utilisés en environnement professionnel.",
+      "sources": [
+        {
+          "url": "https://www.thomsonreuters.com/en/press-releases/2026/january/thomson-reuters-convenes-global-ai-leaders-to-advance-trust-in-the-age-of-intelligent-systems",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2–Économie_Industrie_Investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure énergétique pour IA",
+      "titre": "Meta sécurise jusqu’à 6,6 GW d’énergie nucléaire pour ses centres de données IA",
+      "description": "Meta a signé plusieurs accords, annoncés le 9 janvier 2026, avec TerraPower, Oklo et Vistra pour obtenir jusqu’à 6,6 gigawatts d’énergie nucléaire destinée à alimenter ses superclusters IA « Prometheus » (1 GW, Ohio) et futures expansions, notamment « Hyperion » en Louisiane (5 GW).",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/0eb051a9a11d96f7ce200e186ad13476",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-inks-deals-to-supply-a-staggering-6-gigawatts-in-nuclear-power-for-data-center-ambitions-enough-wattage-to-supply-5-million-homes",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3–RSE_Société_Culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Infrastructure verte & stabilité réseau",
+      "titre": "Critère de l’énergie nucléaire fiable pour soutenir la révolution IA",
+      "description": "Le directeur général de l’AIEA, Manuel Gröss‑i, a déclaré que seule l’énergie nucléaire peut répondre aux exigences de l’IA en matière de faible empreinte carbone, fiabilité 24/7, densité de puissance et stabilité du réseau, dans le contexte de la montée en charge des centres de données IA.",
+      "sources": [
+        {
+          "url": "https://www.globalissues.org/news/2026/01/17/42134",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "4–Cybersécurité_Risques_Sécurité_modèles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Aucun fait nouveau le 17 janvier",
+      "titre": "Aucune actualité IA liée à la cybersécurité n’a été publiée ce jour",
+      "description": "Aucune information vérifiable et datée du 17 janvier 2026 n’a été repérée dans la presse concernant des événements liés à la cybersécurité ou aux risques des modèles d’IA.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/17/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5–Santé_Science_Recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Aucun fait nouveau le 17 janvier",
+      "titre": "Aucune actualité IA en santé ou recherche publiée ce jour",
+      "description": "Aucune actualité IA directement liée à la santé, la science ou la recherche n’a été diffusée le 17 janvier 2026.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/17/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6–Défense_Géopolitique_Souveraineté",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Aucun fait nouveau le 17 janvier",
+      "titre": "Pas d’actualité IA en défense ou géopolitique pour ce jour",
+      "description": "Aucune actualité datée du 17 janvier 2026 n’aborde l’intelligence artificielle dans un contexte de défense, géopolitique ou souveraineté.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jan/17/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}

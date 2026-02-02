@@ -66,9 +66,46 @@ function renderCalendar(availableDates, selectedDate) {
   const firstDay = new Date(year, month - 1, 1);
   const lastDay = new Date(year, month, 0);
   const startDay = firstDay.getDay() || 7; // Lundi=1, Dimanche=7
-  // Affichage du mois/année
+  // Affichage du mois/année avec boutons navigation
   const monthNames = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
-  calendarHeader.textContent = `${monthNames[month - 1]} ${year}`;
+  calendarHeader.innerHTML = "";
+  const prevBtn = el("button", { class: "calendar-nav-btn", style: "margin-right:0.7em;", title: "Mois précédent" }, [document.createTextNode("◀")]);
+  const nextBtn = el("button", { class: "calendar-nav-btn", style: "margin-left:0.7em;", title: "Mois suivant" }, [document.createTextNode("▶")]);
+  const label = el("span", { style: "font-weight:600;font-size:1.1em;" }, [document.createTextNode(`${monthNames[month - 1]} ${year}`)]);
+  prevBtn.addEventListener("click", () => {
+    let newMonth = month - 1;
+    let newYear = year;
+    if (newMonth < 1) {
+      newMonth = 12;
+      newYear--;
+    }
+    // Trouver une date disponible dans le nouveau mois, sinon prendre le 1er
+    const newMonthStr = newMonth.toString().padStart(2, "0");
+    const newYearStr = newYear.toString().padStart(4, "0");
+    const datesInMonth = availableDates.filter(d => d.startsWith(`${newYearStr}-${newMonthStr}`));
+    let newDate = datesInMonth[datesInMonth.length - 1] || `${newYearStr}-${newMonthStr}-01`;
+    dateSelect.value = newDate;
+    loadDate(newDate);
+    renderCalendar(availableDates, newDate);
+  });
+  nextBtn.addEventListener("click", () => {
+    let newMonth = month + 1;
+    let newYear = year;
+    if (newMonth > 12) {
+      newMonth = 1;
+      newYear++;
+    }
+    const newMonthStr = newMonth.toString().padStart(2, "0");
+    const newYearStr = newYear.toString().padStart(4, "0");
+    const datesInMonth = availableDates.filter(d => d.startsWith(`${newYearStr}-${newMonthStr}`));
+    let newDate = datesInMonth[0] || `${newYearStr}-${newMonthStr}-01`;
+    dateSelect.value = newDate;
+    loadDate(newDate);
+    renderCalendar(availableDates, newDate);
+  });
+  calendarHeader.appendChild(prevBtn);
+  calendarHeader.appendChild(label);
+  calendarHeader.appendChild(nextBtn);
   // Affichage des jours de la semaine
   const daysOfWeek = ["L", "M", "M", "J", "V", "S", "D"];
   daysOfWeek.forEach(d => calendar.appendChild(el("div", { class: "calendar-day inactive" }, [document.createTextNode(d)])));

@@ -1,0 +1,67 @@
+{
+  "date": "2026-01-29",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-29T18:03:35.183993+00:00",
+  "items": [
+    {
+      "id": "1-esa-anomalies",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche spatiale IA",
+      "titre": "L’ESA découvre 800 anomalies cosmiques grâce à l’IA",
+      "description": "Un modèle d’intelligence artificielle, AnomalyMatch, développé par l’Agence spatiale européenne (ESA), a analysé près de 100 millions d’images du télescope Hubble et identifié environ 800 phénomènes cosmiques jusqu’alors inconnus.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/lesa-decouvre-800-nouvelles-anomalies-cosmiques-en-un-temps-record-489017.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-dynamic-pricing",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Vie privée & IA",
+      "titre": "Webinaire sur l’IA et les algorithmes de tarification dynamique",
+      "description": "Dans le cadre de la Data Privacy Week, un webinaire organisé le 29 janvier 2026 par la National Cybersecurity Alliance (États‑Unis) traite de l’utilisation des algorithmes d’IA pour établir des prix individualisés selon l’historique de navigation et la localisation des utilisateurs, et examine les droits des consommateurs dans ce contexte.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/your-ai-weekly-round-up-january-22-28-2026-fatih-caksen-jpcte",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-miai-conferences",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Événements académiques IA",
+      "titre": "Journée d’ateliers et conférences IA axée sur durabilité et responsabilité",
+      "description": "Le 29 janvier 2026, plusieurs conférences et ateliers, notamment à MIAI Grenoble Alpes, ont mis l’accent sur la responsabilité, la durabilité, l’impact écologique, la science ouverte et les usages professionnels de l’IA.",
+      "sources": [
+        {
+          "url": "https://www.ia-info.fr/29-janvier-2026-ce-qu-il-faut-retenir-sur-l-intelligence-artificielle.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-sovereignty-mistral-sap",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "Vers une souveraineté IA européenne : collaboration Mistral AI–SAP évoquée",
+      "description": "Lors des événements du 29 janvier 2026, la souveraineté numérique européenne a été abordée, évoquant notamment une collaboration entre Mistral AI et SAP pour proposer des solutions IA locales aux administrations publiques.",
+      "sources": [
+        {
+          "url": "https://www.ia-info.fr/29-janvier-2026-ce-qu-il-faut-retenir-sur-l-intelligence-artificielle.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

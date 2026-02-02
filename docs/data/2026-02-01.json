@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-01",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-01T17:51:56.037227+00:00",
+  "items": [
+    {
+      "id": "ia_cosmique_hubble",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche astronomique",
+      "titre": "Une IA révèle plus de 1 300 anomalies dans les archives cosmiques de Hubble",
+      "description": "Une intelligence artificielle a permis d’identifier plus de 1 300 anomalies jusque-là invisibles dans les millions d’images archivées par le télescope spatial Hubble.",
+      "sources": [
+        {
+          "url": "https://media24.fr/2026/02/01/une-ia-revele-plus-de-1-300-anomalies-dans-les-archives-cosmiques-de-hubble/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "overture_gpt4o_retire",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Produit / IA générative",
+      "titre": "OpenAI annonce l’abandon progressif de GPT‑4o",
+      "description": "OpenAI a décidé de procéder à l’abandon progressif de son modèle GPT‑4o, marquant la fin d’une version phare de l’IA générative.",
+      "sources": [
+        {
+          "url": "https://www.lebigdata.fr/openai-annonce-la-mort-de-gpt-4o-7-raisons-de-regretter-cette-version",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "metaverse_priorites_meta",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie entreprise",
+      "titre": "Meta dévoile ses priorités pour 2026, cap au‑delà de la réalité virtuelle",
+      "description": "Meta annonce ses priorités stratégiques pour 2026, incluant un fort accent sur l’intelligence artificielle, au‑delà du métavers.",
+      "sources": [
+        {
+          "url": "https://www.servicesmobiles.fr/meta-devoile-ses-priorites-pour-2026-cap-sur-un-avenir-au-dela-de-la-realite-virtuelle-109866",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "datacenters_france_hub_ia",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Infrastructure nationale",
+      "titre": "France : vers un hub de l’IA avec 28,6 GW de nouveaux datacenters",
+      "description": "Lors des premières Rencontres des centres de données à Bercy, la France a identifié 63 sites et un besoin estimé à 28,6 gigawatts pour devenir un hub de l’IA.",
+      "sources": [
+        {
+          "url": "https://www.clubic.com/actualite-598390-data-centers-ce-que-revele-la-premiere-reunion-a-bercy-sur-les-projets-en-cours-et-a-venir-en-france.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "samsung_innovation_campus_algerie",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Formation / Inclusion",
+      "titre": "Samsung Algérie lance la 3ᵉ édition de son Innovation Campus IA",
+      "description": "Samsung Algérie, en partenariat avec l’École nationale supérieure, organise la troisième édition de son Innovation Campus IA pour former aux métiers liés à l’intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://elwatan.dz/3e-edition-du-samsung-innovation-campus-preparer-les-talents-aux-metiers-de-lia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-01-30",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-30T18:00:43.548708+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Convention-cadre Europe",
+      "titre": "L’Arménie signe la Convention‑cadre du Conseil de l’Europe sur l’IA",
+      "description": "Le 27 janvier 2026, l’Arménie devient le 19ᵉ État signataire de la Convention‑cadre du Conseil de l’Europe encadrant l’intelligence artificielle, les droits de l’homme, la démocratie et l’État de droit.",
+      "sources": [
+        {
+          "url": "https://www.coe.int/fr/web/artificial-intelligence/newsroom/armenie-signe-la-convention-cadre-du-conseil-de-l-europe",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "AI Act Europe",
+      "titre": "Conférence « AI Act en action » au Luxembourg",
+      "description": "Le 20 janvier 2026, une conférence au Luxembourg a réuni plus de 300 participants pour transformer les exigences de l’AI Act en leviers opérationnels: compréhension des obligations, gouvernance nationale et soutien à l’innovation en IA.",
+      "sources": [
+        {
+          "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/01-janvier/20-margue-ai-act.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Gouvernance comparative IA",
+      "titre": "Analyse des approches réglementaires de l’IA aux États‑Unis, UE et Chine",
+      "description": "Un article académique (7 janvier 2026) démontre que, malgré un vocabulaire commun (« sécurité, responsabilité »), l’UE, les États‑Unis et la Chine appliquent des logiques institutionnelles distinctes dans la régulation de l’IA, ce qui rend difficile une gouvernance coordonnée.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.04107",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "IA responsable",
+      "titre": "Table ronde sur l’IA responsable à Bruxelles",
+      "description": "Le 29 janvier 2026, une table ronde sur l’intelligence artificielle responsable s’est tenue à Bruxelles, avec la participation de l’ancien président du Comité sur l’IA, Mario Hernández Ramos.",
+      "sources": [
+        {
+          "url": "https://www.coe.int/fr/web/artificial-intelligence/newsroom/sommet-sur-l-impact-de-l-ia-en-inde-2026–l-ancien-president-du-cai-participe-a-la-table‑ronde",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

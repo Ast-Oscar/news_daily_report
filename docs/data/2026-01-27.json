@@ -1,0 +1,172 @@
+{
+  "date": "2026-01-27",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-27T17:54:34.926665+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Cadres nationaux et internationaux",
+      "titre": "Singapour publie le premier cadre de gouvernance pour les IA agentiques",
+      "description": "Le 22 janvier 2026, Singapour a lancé le « Model AI Governance Framework » spécifiquement destiné aux IA agentiques, encadrant les risques, les limites des décisions automatisées et le maintien d’un contrôle humain responsable.",
+      "sources": [
+        {
+          "url": "https://aiagentstore.ai/ai-agent-news/topic/legal-regulatory/2026-01-27",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation aux États-Unis",
+      "titre": "L’Utah propose un projet de loi sur la transparence des IA à vocation enfantine",
+      "description": "Le 27 janvier 2026, l’État de l’Utah a avancé un projet de loi (HB 286) obligeant les développeurs majeurs d’IA à publier des plans de sécurité, signaler les incidents et protéger les lanceurs d’alerte dans des contextes liés aux enfants.",
+      "sources": [
+        {
+          "url": "https://www.techbuzznews.com/utah-extends-its-child-safety-tech-playbook-to-ai-with-new-transparency-rules-for-big-developers/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Modèles internationaux",
+      "titre": "L’Inde détaille une gouvernance « techno-légale » de l’IA",
+      "description": "Le 27 janvier 2026, un plan de gouvernance intégrant politique, suivi institutionnel et retour d’expérience a été proposé en Inde, comprenant une base de données nationale d’incidents liés à l’IA, l’identité, le consentement, l’auditabilité et l’interopérabilité.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/01/27/top-tech-news-today-january-27-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements privés",
+      "titre": "SpotDraft lève 8 M$ pour renforcer une IA juridique embarquée",
+      "description": "Le 27 janvier 2026, SpotDraft, spécialiste de l’IA juridique en entreprise axée sur la confidentialité, a obtenu une extension de Série B de 8 millions $ menée par Qualcomm Ventures pour développer son IA embarquée.",
+      "sources": [
+        {
+          "url": "https://theaiinsider.tech/2026/01/27/spotdraft-closes-8m-in-funding-from-qualcomm-ventures-to-scale-on-device-legal-ai/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Croissance infrastructure IA",
+      "titre": "Defined.ai annonce 65 % de croissance de chiffre d’affaires en 2025",
+      "description": "Le 27 janvier 2026, Defined.ai déclare une croissance de son chiffre d’affaires de 65 % en 2025, un taux de rétention nette de 143 % et une augmentation de 1 200 % des données partenaires sur sa plateforme, renforçant son rôle dans l’infrastructure des IA génératives.",
+      "sources": [
+        {
+          "url": "https://www.newswire.com/news/defined-ai-reports-65-revenue-growth-as-global-demand-for-ai-training-data",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat industriel",
+      "titre": "VinFast collabore avec Autobrains (Israël) pour la conduite autonome",
+      "description": "Le 27 janvier 2026, le constructeur vietnamien VinFast annonce un partenariat avec la société israélienne d’IA Autobrains pour améliorer ses technologies de conduite autonome.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/vietnam-vinfast-annonce-un-partenariat-avec-une-entreprise-d-ia-pour-des-voitures-autonomes-473045c241aa840d4e7718a8604a2ace",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Inclusion des personnes handicapées",
+      "titre": "L’IA ouvre de nouvelles perspectives pour les personnes en situation de handicap au Vietnam",
+      "description": "Le 27 janvier 2026, le Centre PSST (Académie de stratégie scientifique et technologique du Vietnam) souligne que l’IA crée de nouvelles opportunités pour les personnes en situation de handicap.",
+      "sources": [
+        {
+          "url": "https://www.vietnam.vn/fr/ai-mo-nhung-canh-cua-moi-cho-nguoi-khuyet-tat",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "8_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques émergents",
+      "titre": "Pressions en faveur de la confiance plutôt que du contrôle renforcé à Davos",
+      "description": "Lors du Forum économique mondial (WEF) à Davos, des experts juridiques ont affirmé que le véritable défi pour l’IA est de renforcer la confiance, la responsabilité et la transparence, non d’imposer davantage de régulation stricte.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/industry/services/consultancy-/-audit/wef-davos-real-ai-challenge-is-trust-and-alignment-not-tighter-control/articleshow/127497675.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Applications médicales",
+      "titre": "Algorithme montréalais interprète les ECG mieux qu’un humain",
+      "description": "Le 27 janvier 2026, un algorithme d’IA développé à l’Institut de cardiologie de Montréal est annoncé comme étant aussi performant, voire supérieur, à un humain pour interpréter les électrocardiogrammes (ECG).",
+      "sources": [
+        {
+          "url": "https://lactualite.com/actualites/un-algorithme-dia-de-linstitut-de-cardio-interprete-les-ecg-mieux-quun-humain/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "10_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche fondamentale",
+      "titre": "Les IA peinent à raisonner sur les propriétés physiques selon Stanford",
+      "description": "Le 27 janvier 2026, des chercheurs de Stanford révèlent via le benchmark QuantiPhy que les modèles d’IA actuels ont des difficultés majeures à raisonner sur des propriétés physiques comme vitesse, distance ou taille, frein important pour la robotique et l’autonomie.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-27/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "11_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Industrie de l’IA",
+      "titre": "Microsoft dévoile la puce IA Maia 200",
+      "description": "Le 27 janvier 2026, Microsoft présente le Maia 200, puce sur mesure gravée en 3 nm (TSMC), destinée à réduire sa dépendance à Nvidia et rivaliser avec TPUs de Google et Trainium d’Amazon pour les charges d’IA à grande échelle.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-01-27/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}

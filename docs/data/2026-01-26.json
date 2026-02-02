@@ -1,0 +1,117 @@
+{
+  "date": "2026-01-26",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-26T17:54:58.481083+00:00",
+  "items": [
+    {
+      "id": "UE_enquete_X_Grok",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Enquête réglementaire",
+      "titre": "L’Union européenne ouvre une enquête contre X (anciennement Twitter) pour contenus deepfake générés par l’IA Grok",
+      "description": "Le 26 janvier 2026, la Commission européenne a lancé une enquête visant X (réseau social d’Elon Musk) afin de déterminer si son IA Grok a violé le Digital Services Act en monétisant des images dénudées de femmes et d’enfants générées par IA.",
+      "sources": [
+        {
+          "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/2242302267487614/deepfakes-sur-x-bruxelles-lance-une-offensive-eclair-contre-l-ia-d-elon-musk",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.rfi.fr/fr/en-bref/20260126-femmes-et-enfants-d%C3%A9nud%C3%A9s-par-l-ia-grok-l-ue-ouvre-une-enqu%C3%AAte-visant-le-r%C3%A9seau-social-x",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Cisco_privacy_governance",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Étude secteur",
+      "titre": "Cisco : l’IA stimule les investissements dans la confidentialité et la gouvernance des données",
+      "description": "Selon son étude publiée le 26 janvier 2026, Cisco observe qu’avec l’accélération de l’adoption de l’IA, quasiment toutes les entreprises renforcent leurs programmes en matière de vie privée et de gouvernance des données.",
+      "sources": [
+        {
+          "url": "https://investor.cisco.com/news/news-details/2026/AI-Fuels-Surge-in-Data-Privacy-Investments-and-Redefines-Governance-Cisco-Reports/default.aspx",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Gartner_zero_trust_IA",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles IA",
+      "titre": "Gartner recommande une gouvernance zéro-trust pour protéger les modèles IA des données douteuses",
+      "description": "Le 26 janvier 2026, Gartner préconise de nouvelles mesures de gouvernance de données basées sur une approche zéro-trust pour défendre les modèles d’IA contre les données générées par IA potentiellement contaminées (‘slop’).",
+      "sources": [
+        {
+          "url": "https://www.infoworld.com/article/4122179/zero-trust-data-governance-needed-to-protect-ai-models-from-slop-2.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "AI_attacks_Google",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberattaques IA",
+      "titre": "Google signale l’usage de LLMs pour dissimuler du code malveillant en temps réel",
+      "description": "Le 26 janvier 2026, The Hacker News rapporte que le groupe Threat Intelligence de Google alerte sur l’usage de modèles de langage (LLMs) par des attaquants pour générer des scripts malveillants adaptatifs et échapper aux défenses classiques.",
+      "sources": [
+        {
+          "url": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Audiologie_recueil_IA",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Applications IA en santé",
+      "titre": "Audio 2000 publie un recueil scientifique inédit sur l’IA en audiologie",
+      "description": "Le 26 janvier 2026, Audio 2000 présente, à l’occasion des 28ᵉ Assises ORL, un nouveau recueil scientifique dédié aux enjeux et applications de l’intelligence artificielle dans le domaine de l’audiologie.",
+      "sources": [
+        {
+          "url": "https://audiologie-demain.com/ia-et-audiologie-audio-2000-eclaire-les-enjeux-du-secteur-avec-un-recueil-scientifique-inedit",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Formation_Aedvices_EU_AI_Act",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Formation réglementaire",
+      "titre": "Aedvices lance une formation dédiée à la vérification design conforme à l’EU AI Act",
+      "description": "Le 26 janvier 2026, Aedvices annonce avoir lancé la première formation spécifique à la vérification de design d’IA conforme au nouveau règlement européen EU AI Act.",
+      "sources": [
+        {
+          "url": "https://www.ecinews.fr/fr/aedvices-lance-la-premiere-formation-dediee-a-lia-en-verification-design-conforme-a-leu-ai-act/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Agent_viral_Amelia",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture numérique",
+      "titre": "« Amelia », collégienne virtuelle devenue phénomène viral hors contrôle des programmes de déradicalisation",
+      "description": "Le 26 janvier 2026, Breizh‑Info rapporte qu’une adolescente fictive nommée « Amelia », générée par IA, est devenue virale, échappant aux programmes officiels de déradicalisation.",
+      "sources": [
+        {
+          "url": "https://www.breizh-info.com/2026/01/26/256179/amelia-collegienne-virtuelle-et-phenomene-viral-quand-lia-echappe-aux-programmes-de-deradicalisation/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}

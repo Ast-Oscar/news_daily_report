@@ -1,0 +1,157 @@
+{
+  "date": "2026-01-21",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-01-21T18:09:37.234395+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation et discours politique",
+      "titre": "Appel à régulation de l’IA évoqué à Davos",
+      "description": "Lors du Forum économique mondial, le PDG de Salesforce a dénoncé les « coachs de suicide » alimentés par l’IA et appelé à une régulation renforcée du secteur.",
+      "sources": [
+        {
+          "url": "https://www.01net.com/actualites/coachs-de-suicide-le-patron-de-salesforce-appelle-a-une-regulation-de-lia.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "OpenAI déploie une fonction de prédiction d’âge dans ChatGPT",
+      "description": "OpenAI introduit une fonction pour estimer l’âge des utilisateurs de ChatGPT et appliquer automatiquement des protections accrues pour les mineurs.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/01/21/top-tech-news-today-january-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure et énergie",
+      "titre": "OpenAI sécurise un accord d’énergie renouvelable pour ses centres de données",
+      "description": "OpenAI signe un accord de fourniture d’énergie renouvelable longue durée pour alimenter ses infrastructures IA en expansion.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/01/21/top-tech-news-today-january-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Discours industriel",
+      "titre": "Nvidia décrit l’essor de l’IA comme « la plus grande construction d’infrastructures de l’histoire humaine »",
+      "description": "À Davos, Jensen Huang (CEO de Nvidia) a qualifié le développement de l’IA comme le plus vaste déploiement infrastructurel jamais entrepris.",
+      "sources": [
+        {
+          "url": "https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Usage sociétal",
+      "titre": "Au Cameroun, près de 60 % des étudiants urbains utilisent une IA",
+      "description": "Une enquête rapporte que près de 60 % des étudiants dans les zones urbaines camerounaises recourent désormais à des outils d’IA pour leurs études.",
+      "sources": [
+        {
+          "url": "https://africa24tv.com/cameroun-pres-de-60-des-etudiants-urbains-utilisent-une-ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Vulnérabilités",
+      "titre": "Attaque « Reprompt » sur Copilot met en danger les données d’entreprise",
+      "description": "Des chercheurs dévoilent une attaque « Reprompt » permettant d’exfiltrer des données sensibles depuis des chatbots d’entreprise comme Microsoft Copilot via un lien légitime, contournant les contrôles de sécurité.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/01/21/ia-cybersecurite-les-10-actus-cles-du-21-jan-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Usages IA santé",
+      "titre": "Claude for Healthcare lancé pour les abonnés américains",
+      "description": "Anthropic lance « Claude for Healthcare », permettant aux abonnés américains de donner à l’IA un accès sécurisé à leurs résultats de laboratoire et dossiers médicaux.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/01/21/ia-cybersecurite-les-10-actus-cles-du-21-jan-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Alliance stratégique",
+      "titre": "Apple annonce que Siri s’appuiera sur Google Gemini",
+      "description": "Apple et Google officialisent une collaboration pluriannuelle : la prochaine version de Siri s’appuiera sur Google Gemini et Google Cloud.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/01/21/ia-cybersecurite-les-10-actus-cles-du-21-jan-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Diagnostic médical",
+      "titre": "IA aide au dépistage précoce du cancer de la peau aux États-Unis",
+      "description": "Une IA contribue à détecter plus tôt les cancers de la peau, améliorant la capacité de diagnostic des professionnels de santé.",
+      "sources": [
+        {
+          "url": "https://showme.missouri.edu/2026/spotting-skin-cancer-sooner-with-the-help-of-artificial-intelligence/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "10_defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Géopolitique et IA",
+      "titre": "L’IA comme levier de puissance mondiale à Davos",
+      "description": "À Davos, des dirigeants comme Dario Amodei (Anthropic) et Satya Nadella (Microsoft) ont présenté l’IA comme un outil de puissance globale, comparant les puces d’IA à des armes nucléaires et soulignant l’avance technologique de certains pays.",
+      "sources": [
+        {
+          "url": "https://siecledigital.fr/2026/01/20/davos-2026-lia-entre-promesse-economique-et-rapport-de-force-mondial/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
