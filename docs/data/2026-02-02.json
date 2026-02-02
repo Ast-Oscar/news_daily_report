@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-02",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-02T17:35:57.317317+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation – consultation publique",
+      "titre": "L’Autorité de la concurrence ouvre une consultation publique sur les agents conversationnels IA",
+      "description": "Le Conseil d’État a confirmé l'interdiction de l'utilisation de la vidéosurveillance algorithmique à Nice, citant des préoccupations en matière de protection des libertés individuelles. Cette décision suit un débat intense sur l'équilibre entre sécurité publique et vie privée.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-2-fevrier-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation – vidéosurveillance algorithmique",
+      "titre": "Le Conseil d’État confirme l’interdiction de la vidéosurveillance algorithmique à Nice",
+      "description": "Le Conseil d’État a confirmé l'interdiction de l'utilisation de la vidéosurveillance algorithmique à Nice, citant des préoccupations en matière de protection des libertés individuelles. Cette décision suit un débat intense sur l'équilibre entre sécurité publique et vie privée.",
+      "sources": [
+        {
+          "url": "https://www.haas-avocats.com/reglementation/actualite-juridique/lactualite-juridique-numerique-de-la-semaine-2-fevrier-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie – sommet corporatif",
+      "titre": "Cisco AI Summit 2026 se tiendra le 3 février, en accès libre",
+      "description": "Le sommet Cisco AI 2026, prévu le 3 février, sera accessible gratuitement et vise à explorer l'avenir de l'intelligence artificielle dans le secteur des entreprises. L'événement rassemblera des experts pour discuter des innovations et des défis actuels.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/cisco-ai-summit-2026-defining-what-comes-next-for-enterprise-ai/articleshow/127854947.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Déploiement – formation",
+      "titre": "Taisei (Japon) déploie ChatGPT Enterprise pour la formation des employés",
+      "description": "Anthropic a dévoilé que Claude, leur modèle IA, a aidé un rover de la NASA sur Mars, illustrant les capacités avancées en traitement de données et prise de décision de cet outil. Cette collaboration marque une étape importante dans l'application de l'IA dans l'exploration spatiale.",
+      "sources": [
+        {
+          "url": "https://www.dailyaidigest.net/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "5_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Recherche – collaboration OpenAI",
+      "titre": "OpenAI développe un agent de données interne combinant GPT‑5, Codex et mémoire",
+      "description": "Anthropic a dévoilé que Claude, leur modèle IA, a aidé un rover de la NASA sur Mars, illustrant les capacités avancées en traitement de données et prise de décision de cet outil. Cette collaboration marque une étape importante dans l'application de l'IA dans l'exploration spatiale.",
+      "sources": [
+        {
+          "url": "https://www.dailyaidigest.net/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Société – réglementation AI Act",
+      "titre": "Application de premières mesures du règlement européen AI Act",
+      "description": "Les premières mesures du règlement européen AI Act ont été mises en application, cherchant à encadrer et réguler l'utilisation de l'intelligence artificielle au sein de l'UE. Cette mise en œuvre vise à assurer des standards élevés de sécurité et de transparence.",
+      "sources": [
+        {
+          "url": "https://myconnecting-ia.com/actualites-ia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Exploration spatiale – IA avancée",
+      "titre": "Anthropic affirme que Claude a assisté un rover NASA sur Mars",
+      "description": "Anthropic a dévoilé que Claude, leur modèle IA, a aidé un rover de la NASA sur Mars, illustrant les capacités avancées en traitement de données et prise de décision de cet outil. Cette collaboration marque une étape importante dans l'application de l'IA dans l'exploration spatiale.",
+      "sources": [
+        {
+          "url": "https://www.dailyaidigest.net/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ]
+}
