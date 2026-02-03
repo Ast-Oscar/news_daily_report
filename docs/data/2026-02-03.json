@@ -1,0 +1,127 @@
+{
+  "date": "2026-02-03",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-03T17:51:30.122645+00:00",
+  "items": [
+    {
+      "id": "ia_regulation_usa",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation",
+      "titre": "Début d’application de la loi Colorado AI Act aux États‑Unis",
+      "description": "La loi Colorado AI Act entre en application aux États-Unis, marquant une étape importante dans la régulation de l'intelligence artificielle. Ce cadre législatif vise à encadrer le développement et l'utilisation des technologies IA pour protéger les consommateurs et garantir la transparence.",
+      "sources": [
+        {
+          "url": "https://www.americanbar.org/groups/business_law/resources/business-lawyer/2024-2025-winter/ai-would-soon-be-regulated-now-it-will/?login=",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_regulation_statesurvey",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sondage législatif",
+      "titre": "Favorabilité pour un modèle hybride fédéral‑étatique de régulation de l’IA au Congrès américain",
+      "description": "Un sondage révèle que la majorité des assistants du Congrès américain soutient un modèle hybride fédéral-étatique pour la régulation de l'IA. Cette approche est perçue comme un moyen d'assurer une réglementation cohérente tout en permettant une flexibilité régionale.",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/new-survey-reveals-majority-of-congressional-aides-favor-federal-state-hybrid-for-ai-regulation-302677198.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_economie_investissement_phocus",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements IA",
+      "titre": "Accentuation des investissements en IA générative et agentique dans les secteurs du voyage",
+      "description": "Les investissements dans l'IA générative et agentique s'accentuent dans le secteur du voyage, stimulés par la demande pour des technologies innovantes. Ces avancées technologiques visent à améliorer les expériences utilisateur et optimiser les opérations des entreprises de voyage.",
+      "sources": [
+        {
+          "url": "https://www.phocuswire.com/front-line-signals-ai-investment-travel-phocuswright-research",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "ia_rse_societe_reseaux",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Usage social",
+      "titre": "Réseaux sociaux et IA : première source d’information chez les jeunes",
+      "description": "Les réseaux sociaux et l'intelligence artificielle se révèlent être la première source d'information pour les jeunes, surclassant les médias traditionnels. Cette tendance souligne un changement notable dans les habitudes de consommation d'information au sein de cette génération.",
+      "sources": [
+        {
+          "url": "https://comarketing-news.fr/les-reseaux-sociaux-et-lia-sont-la-premiere-source-dinformation-des-jeunes/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_cyber_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Attaques IA",
+      "titre": "Les cyberattaques deviennent plus intelligentes grâce à l’IA",
+      "description": "Les cyberattaques deviennent de plus en plus sophistiquées grâce à l'intelligence artificielle, posant des défis croissants en matière de cybersécurité. Les experts recommandent des mesures de protection renforcées pour contrer ces menaces évolutives.",
+      "sources": [
+        {
+          "url": "https://siecledigital.fr/2026/02/03/les-cyberattaques-gagnent-en-intelligence-comment-rester-protege/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_sante_science_montpellier",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Financement hospitalier IA",
+      "titre": "14,9 M€ pour industrialiser l’IA hospitalière au CHU de Montpellier",
+      "description": "Le CHU de Montpellier investit 14,9 millions d'euros pour industrialiser l'utilisation de l'intelligence artificielle dans le secteur hospitalier. Cet investissement vise à optimiser l'efficacité des soins et à libérer du temps pour le personnel soignant.",
+      "sources": [
+        {
+          "url": "https://www.caducee.net/actualite-medicale/16785/au-chu-de-montpellier-14-9-m-pour-industrialiser-l-ia-hospitaliere-le-temps-soignant-en-ligne-de-mire-la-preuve-attendue.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_defense_geopolitique_event",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Événement international IA",
+      "titre": "Annonce du congrès AI Everything Middle East & Africa 2026 en Égypte",
+      "description": "L'Égypte accueillera l'édition 2026 du congrès AI Everything Middle East & Africa, un événement majeur pour l'industrie de l'intelligence artificielle dans la région. Ce rassemblement s'attend à réunir un large éventail d'experts pour discuter des dernières avancées et opportunités en IA.",
+      "sources": [
+        {
+          "url": "https://french.ahram.org.eg/News/80919.aspx",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_regulation_corée",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation internationale",
+      "titre": "Corée du Sud regrette potentiellement d’être pionnière avec sa nouvelle loi IA",
+      "description": "La Corée du Sud réfléchit aux implications potentielles d'être le premier pays à adopter une loi stricte sur l'IA. Bien que pionnière, cette législation suscite des inquiétudes quant à ses effets sur l'innovation et la compétitivité nationale.",
+      "sources": [
+        {
+          "url": "https://www.techpolicy.press/south-korea-may-regret-being-first-with-new-ai-law",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ]
+}
