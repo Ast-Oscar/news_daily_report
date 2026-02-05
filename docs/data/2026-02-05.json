@@ -1,0 +1,57 @@
+{
+  "date": "2026-02-05",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-05T17:44:27.740844+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Événement / industrie",
+      "titre": "India Inc On The Move 2026 met l’IA au cœur de la transformation industrielle en Inde",
+      "description": "L'article met en lumière comment 'India Inc On The Move 2026' vise à intégrer l'intelligence artificielle pour révolutionner le secteur manufacturier en Inde. Des leaders industriels discutent des perspectives et des stratégies nécessaires pour adopter l'IA comme moteur principal de cette transformation.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/news/company/corporate-trends/india-inc-on-the-move-2026-leaders-decode-the-next-phase-of-ai-driven-manufacturing/articleshow/127940099.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Sommet / stratégie entreprise",
+      "titre": "Cisco AI Summit 2026 : l’IA d’entreprise comme nouvel actif stratégique",
+      "description": "Le Cisco AI Summit 2026 réunit des acteurs influents du domaine de l'IA pour définir les tendances futures de l'intelligence artificielle d'entreprise. L'événement se focalise sur l'importance de l'IA comme atout stratégique essentiel pour les entreprises dans les années à venir.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/cisco-ai-summit-2026-brings-the-worlds-most-influential-ai-leaders-together-to-define-what-comes-next/articleshow/127842054.cms",
+          "type": "primary"
+        },
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/cisco-ai-summit-2026-defining-what-comes-next-for-enterprise-ai/articleshow/127854947.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche académique",
+      "titre": "Rapport ‘Aiming for AI Interoperability’ : vers une gouvernance cohérente face à la fragmentation",
+      "description": "Le rapport 'Aiming for AI Interoperability' traite de l'importance de développer une gouvernance harmonisée pour surmonter la fragmentation actuelle dans le domaine de l'intelligence artificielle. Il explore des cadres potentiels pour assurer une interopérabilité efficace entre différents systèmes d'IA.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.14512",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
