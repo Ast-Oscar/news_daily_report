@@ -1,0 +1,60 @@
+{
+  "date": "2026-02-07",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-07T17:24:11.185851+00:00",
+  "items": [
+    {
+      "id": "1e0a1d0a-01",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements stratégiques",
+      "titre": "Amazon voit son investissement dans Anthropic multiplié par 7 en valeur",
+      "description": "L'investissement d'Amazon dans Anthropic a atteint une valorisation de 61 milliards de dollars, multipliant par sept sa valeur initiale. Cette augmentation reflète l'importance croissante de l'intelligence artificielle dans les stratégies de développement d'Amazon.",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/amazon-ai-bet-anthropic-soars-61-billion-valuation-2026-2",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2b6f37c4-02",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements stratégiques",
+      "titre": "Waymo lance le « World Model » basé sur Genie 3 de DeepMind",
+      "description": "Waymo introduit son 'World Model', une technologie basée sur Genie 3 de DeepMind, pour améliorer l'adaptabilité de ses robotaxis dans des situations complexes. Ce modèle d'intelligence artificielle permet d'explorer des scénarios variés et de renforcer la sécurité.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/googles-waymo-on-how-deepminds-ai-model-is-preparing-its-robotaxis-for-difficult-situations-it-allows-us-to-explore/articleshow/128014810.cms",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3c7d59d9-03",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financements",
+      "titre": "Waymo lève 16 milliards $ pour étendre ses robotaxis à Londres et Tokyo",
+      "description": "Waymo a levé 16 milliards de dollars pour soutenir l'expansion de sa flotte de robotaxis à Londres et Tokyo. Cette levée de fonds vise à accélérer le développement technologique et l'intégration des services dans ces deux nouvelles métropoles.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/58d70e116dcbc5a51ca97f37992f22c2",
+          "type": "primary"
+        },
+        {
+          "url": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
