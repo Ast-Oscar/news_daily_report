@@ -1,0 +1,22 @@
+{
+  "date": "2026-02-09",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-09T17:49:37.275443+00:00",
+  "items": [
+    {
+      "id": "1.1a8f3c",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité & IA",
+      "titre": "Rapport publié aujourd’hui sur les risques liés à l’usage malveillant de l’IA",
+      "description": "Ce rapport annuel publié le 3 février 2026, piloté par le professeur Yoshua Bengio, souligne une progression rapide et notable des capacités des IA en termes de raisonnement et de performances techniques, tout en alertant sur la prolifération inquiétante de deepfakes de plus en plus difficiles à distinguer de contenus authentiques ; il met également en garde contre l’usage croissant de ces outils par des cybercriminels à toutes les étapes de leurs attaques, de la reconnaissance à la création de malwares, ainsi que contre des risques potentiels dans le domaine des armes biologiques. ([cnews.fr](https://www.cnews.fr/vie-numerique/2026-02-03/emploi-environnement-cybersecurite-ce-quil-faut-retenir-du-dernier-rapport?utm_source=openai))",
+      "sources": [
+        {
+          "url": "https://www.cnews.fr/vie-numerique/2026-02-03/emploi-environnement-cybersecurite-ce-quil-faut-retenir-du-dernier-rapport",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
