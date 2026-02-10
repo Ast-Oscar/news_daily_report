@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-10",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-10T17:59:21.902804+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "Application progressive des obligations du AI Act en 2026",
+      "description": "L'AI Act prévoit une mise en œuvre progressive de ses obligations à partir de 2026, permettant aux entreprises d'adapter leurs systèmes d'intelligence artificielle aux nouvelles normes européennes. Cette approche graduelle vise à harmoniser les pratiques tout en tenant compte des défis techniques et économiques.",
+      "sources": [
+        {
+          "url": "https://osamformations.com/article-reglementations-ia-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements sectoriels",
+      "titre": "Google lève 20 milliards de dollars pour l’IA",
+      "description": "Google a levé 20 milliards de dollars pour financer ses investissements dans l'intelligence artificielle, marquant un engagement significatif envers le développement technologique futur. Cela souligne l'importance croissante de l'IA dans la stratégie de croissance de l'entreprise.",
+      "sources": [
+        {
+          "url": "https://www.larevuedudigital.com/google-leve-20-milliards-de-dollars-pour-financer-ses-investissements-dans-lia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Accompagnement des PME",
+      "titre": "Reconduction du programme Expertise IA au Québec",
+      "description": "Le programme Expertise IA au Québec est reconduit, permettant ainsi de continuer à soutenir les entreprises locales dans le développement de solutions innovantes en intelligence artificielle. Cette initiative renforce l'écosystème technologique québécois en stimulant l'innovation et la compétitivité.",
+      "sources": [
+        {
+          "url": "https://www.cdpq.com/fr/actualites/communiques/intelligence-artificielle-caisse-reconduit-programme-entreprises-quebecoises",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des compétences IA",
+      "titre": "OpenClaw sécurise ses « compétences » via VirusTotal",
+      "description": "OpenClaw utilise VirusTotal pour protéger ses compétences en matière de cybersécurité, augmentant ainsi sa capacité à identifier et à neutraliser les menaces potentielles. Cette mesure sécuritaire permet à l'organisation de maintenir un haut niveau de protection pour ses opérations numériques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/OpenClaw",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Analyse géopolitique",
+      "titre": "Souveraineté technologique à l’ère de l’IA",
+      "description": "L'ère actuelle de l'IA entraîne un retour du concept de souveraineté technologique, où les pays cherchent à renforcer leur autonomie numérique face à la concurrence internationale. Cette dynamique souligne les enjeux stratégiques liés à la maîtrise des technologies de pointe et à la gestion des données.",
+      "sources": [
+        {
+          "url": "https://www.numerama.com/tech/2174443-souverainete-technologique-le-retour-des-blocs-a-lere-de-lia.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
