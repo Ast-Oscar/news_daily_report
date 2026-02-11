@@ -1,0 +1,146 @@
+{
+  "date": "2026-02-11",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-11T17:54:33.521931+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance des agents IA",
+      "titre": "Microsoft plaide pour une gouvernance structurée des agents IA",
+      "description": "Microsoft appelle à une régulation claire et définie des agents d'intelligence artificielle pour garantir leur utilisation éthique et sécurisée. Cette démarche vise à établir des règles communes et une supervision adéquate pour prévenir les abus et sécuriser le déploiement de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.solutions-numeriques.com/microsoft-plaide-pour-une-gouvernance-structuree-des-agents-ia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat industriel IA",
+      "titre": "Snowflake et OpenAI signent un partenariat de 200 M$ pour intégrer une IA dans le Data Cloud",
+      "description": "Snowflake et OpenAI annoncent un partenariat d'une valeur de 200 millions de dollars pour intégrer une intelligence artificielle performante dans le Data Cloud. Ce partenariat vise à améliorer l'analytique et les capacités de prédiction pour les entreprises utilisant Snowflake.",
+      "sources": [
+        {
+          "url": "https://www.decideo.fr/Snowflake-et-OpenAI-concluent-un-partenariat-de-200-millions-de-dollars-pour-integrer-une-IA-prete-a-l-emploi-dans-le_a14544.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-economie-industrie2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Acquisition IA",
+      "titre": "Salesforce signe l’acquisition de Cimulate pour renforcer la découverte de produits pilotée par IA",
+      "description": "Salesforce acquiert Cimulate pour renforcer ses capacités en matière de découverte de produits pilotée par l'intelligence artificielle. Cette acquisition stratégique est destinée à améliorer l'efficacité et la personnalisation dans l'interaction client.",
+      "sources": [
+        {
+          "url": "https://futurumgroup.com/insights/will-salesforces-cimulate-acquisition-redefine-ai-driven-product-discovery/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-rse-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Diversité en IA",
+      "titre": "Polytechnique Montréal lance des bourses pour encourager les femmes en IA",
+      "description": "Polytechnique Montréal lance un programme de bourses pour encourager et soutenir les femmes dans le domaine de l'intelligence artificielle. L'initiative vise à réduire l'écart entre les genres et à promouvoir la diversité dans le secteur technologique.",
+      "sources": [
+        {
+          "url": "https://www.polymtl.ca/carrefour-actualite/nouvelles/faire-grandir-la-releve-feminine-en-ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des agents IA",
+      "titre": "IA « fantôme » : Microsoft met en garde contre des failles de sécurité des agents d’IA",
+      "description": "Microsoft met en garde contre les vulnérabilités de sécurité des agents d'IA et appelle à un renforcement des mesures de protection. L'entreprise souligne l'importance d'une approche proactive pour éviter les failles et garantir l'intégrité des systèmes.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/securite-des-agents-ia-microsoft-alerte-et-demande-un-virage-securitaire-489902.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé",
+      "titre": "IA pour améliorer la qualité du diagnostic optique en coloscopie",
+      "description": "L'intelligence artificielle est utilisée pour améliorer la qualité du diagnostic optique en coloscopie, augmentant ainsi la précision des détections. Cette innovation promet d'améliorer significativement les résultats cliniques et les taux de détection de polypes.",
+      "sources": [
+        {
+          "url": "https://www.gastroendonews.com/Endoscopy-Suite/Article/01-26/Colonoscopy-AI-Benefits-Evaluating-Optical-Diagnosis-Quality/79395",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7-defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Programme de recherche défense IA",
+      "titre": "DARPA lance un programme d’“assurance IA” pour fiabilité et raisonnement complexe",
+      "description": "DARPA lance un programme d'“assurance IA” visant à garantir la fiabilité et la capacité de raisonnement complexe des systèmes d'intelligence artificielle. L'initiative cherche à établir des normes de performance et de compréhension pour le développement d'algorithmes avancés.",
+      "sources": [
+        {
+          "url": "https://militaryembedded.com/ai/machine-learning/ai-assurance-the-aim-of-new-darpa-program",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8-gouvernance2",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Cockpit d’agents IA",
+      "titre": "OpenAI Frontier introduit un cockpit d’orchestration pour agents IA",
+      "description": "OpenAI Frontier introduit un cockpit d'orchestration pour simplifier la gestion et le déploiement des agents IA. Ce nouvel outil vise à optimiser les processus et à faciliter l'intégration de l'intelligence artificielle dans divers environnements professionnels.",
+      "sources": [
+        {
+          "url": "https://www.itforbusiness.fr/openai-frontier-entre-dans-larene-des-cockpits-dorchestration-de-lia-agentique-100321",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9-geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sommet international",
+      "titre": "India AI Impact Summit 2026 se tient du 16 au 20 février à New Delhi",
+      "description": "Le sommet India AI Impact 2026 se déroulera du 16 au 20 février à New Delhi, réunissant experts et leaders mondiaux du secteur. Cet événement vise à explorer les implications de l'intelligence artificielle sur divers secteurs industriels et est un rendez-vous clé pour l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://www.timesofindia.indiatimes.com/technology/tech-news/india-ai-impact-summit-2026-what-it-is-whos-coming-and-why-it-matters/articleshow/128207697.cms",
+          "type": "primary"
+        },
+        {
+          "url": "https://m.economictimes.com/ai/ai-summit/the-economic-times-joins-india-ai-impact-summit-2026-as-official-media-partner/articleshow/128190221.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
