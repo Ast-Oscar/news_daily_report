@@ -1,0 +1,38 @@
+{
+  "date": "2026-02-12",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-12T17:55:50.756312+00:00",
+  "items": [
+    {
+      "id": "openai_gpt5_3_codex",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation technologique",
+      "titre": "OpenAI présente GPT‑5.3‑Codex, premier modèle d’IA « auto‑construit »",
+      "description": "OpenAI a dévoilé GPT‑5.3‑Codex, un modèle révolutionnaire d'IA capable de se reconstruire par lui-même, marquant une avancée significative dans le domaine de l'intelligence artificielle. Cette innovation pourrait transformer les approches en automatisation et apprentissage autonome des systèmes complexes.",
+      "sources": [
+        {
+          "url": "https://atlantico.fr/article/decryptage/et-si-le-mois-de-fevrier-2026-venait-de-marquer-un-tournant-determinant-dans-lhistoire-de-lia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "google_investissements_ia",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie d’entreprise",
+      "titre": "Google double ses investissements dans l’IA en 2026",
+      "description": "Google a annoncé une augmentation substantielle de ses investissements dans l'intelligence artificielle pour 2026, soulignant son engagement continu à innover dans ce secteur stratégique. Cette décision vise à renforcer sa position face à la concurrence croissante et à développer de nouvelles technologies pour divers secteurs.",
+      "sources": [
+        {
+          "url": "https://fr.news.yahoo.com/news/intelligence-artificielle-google-aujourdhui-acteur-213916682.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
