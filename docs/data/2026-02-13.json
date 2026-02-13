@@ -1,0 +1,128 @@
+{
+  "date": "2026-02-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-13T17:38:22.391226+00:00",
+  "items": [
+    {
+      "id": "ONU_groupe_scientifique_recherche_IA",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Structures internationales",
+      "titre": "L’ONU approuve la création d’un groupe scientifique de recherche sur l’IA",
+      "description": "L'ONU a approuvé la création d'un groupe scientifique dédié à la recherche sur l'intelligence artificielle pour évaluer ses implications globales. Cette initiative vise à permettre une meilleure compréhension et à guider les décisions politiques internationales sur l’innovation en IA.",
+      "sources": [
+        {
+          "url": "https://lactualite.com/actualites/lonu-approuve-la-creation-dun-groupe-scientifique-de-recherche-sur-lia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Egypt_plateforme_nationale_IA",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation nationale",
+      "titre": "Égypte : lancement d’une plateforme nationale dopée à l’IA pour structurer l’innovation et l’entrepreneuriat",
+      "description": "L'Égypte a lancé une plateforme nationale enrichie par l'intelligence artificielle pour dynamiser l'innovation et l'entrepreneuriat dans le pays. Ce projet a pour but d'encadrer les initiatives locales en réunissant les chercheurs, entrepreneurs et investisseurs.",
+      "sources": [
+        {
+          "url": "https://www.digitalbusiness.africa/egypte-une-plateforme-nationale-dopee-a-lia-pour-structurer-linnovation-et-lentrepreneuriat/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Investissements_US_technologie_IA",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements privés",
+      "titre": "Les géants technologiques américains prévoient d’investir massivement dans l’IA et les centres de données",
+      "description": "Les géants technologiques des États-Unis prévoient d'investir massivement, à hauteur de 670 milliards de dollars, dans l'intelligence artificielle et les centres de données. Ce vaste investissement illustre leur ambition de consolider et d'élargir leurs capacités technologiques globales.",
+      "sources": [
+        {
+          "url": "https://www.aa.com.tr/en/live/us-tech-giants-expect-to-spend-670b-primarily-in-artificial-intelligence-data-centers/3828935",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "AI_Twin_personal_assistant",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Vie quotidienne",
+      "titre": "AI Twin lance un assistant numérique personnalisé respectueux de la vie privée",
+      "description": "AI Twin a dévoilé un nouvel assistant numérique personnalisé, axé sur le respect de la vie privée. Ce produit espère offrir une vie plus intelligente et améliorer la productivité de ses utilisateurs tout en préservant leurs données personnelles.",
+      "sources": [
+        {
+          "url": "https://www.tradingview.com/news/reuters.com%2C2026-02-13%3Anewsml_NFC6Jvc81%3A0-ai-twin-introduces-personalized-digital-assistant-for-smarter-living-and-enhanced-productivity/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Cégep_Lanaudiere_formations_IA",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éducation",
+      "titre": "Le Cégep de Lanaudière lance sept nouvelles formations en intelligence artificielle",
+      "description": "Le Cégep de Lanaudière a annoncé la création de sept nouvelles formations dédiées à l'intelligence artificielle. Ces programmes visent à répondre à la demande croissante de compétences spécialisées dans ce domaine en pleine expansion.",
+      "sources": [
+        {
+          "url": "https://ameqenligne.com/article/education/niveau/collegial/2/1184673/le-cegep-lance-7-nouvelles-formations-en-intelligence-artificielle.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Journée_radio_UNESCO_IA",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Média",
+      "titre": "UNESCO : « l’IA comme outil, pas comme voix » à l’occasion de la Journée mondiale de la radio",
+      "description": "Lors de la Journée mondiale de la radio, l'UNESCO a mis en avant l'intelligence artificielle comme un outil précieux, mais a insisté sur le fait qu'elle ne devait pas remplacer les voix humaines. Cette position souligne l'importance de l'IA dans l'innovation tout en préservant l'authenticité humaine.",
+      "sources": [
+        {
+          "url": "https://www.radiookapi.net/2026/02/13/actualite/societe/journee-mondiale-de-la-radio-lia-comme-outil-pas-comme-voix-selon",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Bourse_IT_Indienne_craintes_IA",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Marchés financiers",
+      "titre": "Les craintes liées à l’IA effacent 50 milliards de dollars de la capitalisation boursière des services IT en Inde",
+      "description": "Les inquiétudes autour de l'intelligence artificielle ont entraîné une perte de 50 milliards de dollars en capitalisation boursière pour les services informatiques en Inde. Ces craintes reflètent les tensions économiques et les risques perçus liés à l'évolution rapide de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/bourse/actualites/les-craintes-liees-a-l-ia-ont-fait-disparaitre-50-milliards-de-dollars-des-actions-indiennes-du-secteur-des-technologies-de-l-information-en-fevrier-a572c40299ea5242a5e5a232ea2dae3f",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Retrait_GPT_models_OpenAI",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Retraits de modèles",
+      "titre": "OpenAI retire aujourd’hui plusieurs modèles GPT‑4, dont GPT‑4o",
+      "description": "OpenAI a annoncé le retrait imminent de plusieurs modèles GPT-4, dont le modèle GPT-4o. Cette décision intervient dans le cadre d'une révision stratégique de ses offres de produits.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_in_artificial_intelligence",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
