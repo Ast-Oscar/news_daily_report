@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-14T17:24:01.744646+00:00",
+  "items": [
+    {
+      "id": "news1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Opérations militaires",
+      "titre": "L’IA « Claude » au service du Pentagone dans l’opération contre Maduro",
+      "description": "L'intelligence artificielle \"Claude\" est utilisée par le Pentagone dans une opération visant à cibler le régime de Maduro. Cette technologie joue un rôle central dans le traitement et l'analyse des informations nécessaires à la mission.",
+      "sources": [
+        {
+          "url": "https://www.i24news.tv/fr/actu/international/artc-claude-au-service-du-pentagone-l-ia-au-centre-de-l-operation-contre-maduro",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "news2_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés actions",
+      "titre": "L’IA perturbe les marchés actions, notamment dans la logistique et l’immobilier aux États-Unis",
+      "description": "L'impact de l'intelligence artificielle perturbe significativement les marchés actions, surtout dans les secteurs de la logistique et de l'immobilier aux États-Unis. Ces perturbations sont dues à des mouvements rapides et imprévisibles causés par des technologies basées sur l'IA.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/news/economie-marches/lia-disrupte-les-marches-actions",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "news3_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Analyse financière",
+      "titre": "Trois mille milliards d’investissements en attente de retour sur investissement selon Kairos",
+      "description": "Selon Kairos, trois mille milliards d'investissements sont en attente de retour sur investissement en raison des incertitudes liées à l'intelligence artificielle. L'analyse souligne les craintes des investisseurs face aux risques associés à ces technologies.",
+      "sources": [
+        {
+          "url": "https://www.firstonline.info/fr/Les-march%C3%A9s-boursiers-et-les-craintes-li%C3%A9es-%C3%A0-l%27intelligence-artificielle%C2%A0%3A-trois-mille-milliards-d%E2%80%99investissements-en-attente-de-retours-sur-investissement--analyse-par-Alessandro-Fugnoli-Kairos/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "news4_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Réseaux sociaux",
+      "titre": "Meta ajoute « Dear Algo » pour personnaliser l’IA de recommandation sur Threads",
+      "description": "Meta introduit \"Dear Algo\" sur Threads pour permettre aux utilisateurs de personnaliser l'algorithme de recommandation. Cette innovation vise à offrir une expérience plus adaptée et contrôlée par l'utilisateur de l'application.",
+      "sources": [
+        {
+          "url": "https://www.clubic.com/actualite-600253-avec-dear-algo-threads-vous-donne-la-main-sur-son-ia-de-recommandation.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "news5_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Applications grand public",
+      "titre": "Créer une app iOS sans coder grâce à l’IA avec Xcode et codage agentique",
+      "description": "Grâce à Xcode et au codage agentique, il est désormais possible de créer une application iOS sans compétences en programmation. Cette avancée rend le développement accessible à un public plus large, simplifiant considérablement le processus de création d'applications.",
+      "sources": [
+        {
+          "url": "https://www.macg.co/intelligence-artificielle/2026/02/jai-cree-une-app-ios-sans-savoir-coder-grace-lia-une-experience-enivrante-306755",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "news6_sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Applications médicales",
+      "titre": "L’IA s’invite dans la prise de rendez-vous médicaux au Québec avec Bonjour‑santé",
+      "description": "Bonjour-santé déploie une IA pour optimiser la prise de rendez-vous médicaux au Québec, combinant l'efficacité de ChatGPT avec les fonctionnalités du 811. Cette initiative vise à améliorer l'accessibilité et l'efficacité des services de santé.",
+      "sources": [
+        {
+          "url": "https://www.journaldemontreal.com/2026/02/07/un-hybride-entre-chatgpt-et-le-811--bonjour-sante-se-lance-dans-lintelligence-artificielle-pour-la-prise-de-rendez-vous-medicaux",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "news7_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Géopolitique",
+      "titre": "Baidu intègre l’agent IA OpenClaw dans son application mobile pour 700 millions d’utilisateurs",
+      "description": "Baidu a intégré l'agent d'intelligence artificielle OpenClaw dans son application mobile, touchant ainsi 700 millions d'utilisateurs. Cette intégration marque une étape significative dans l'amélioration des services grâce à des interactions plus intelligentes et personnalisées.",
+      "sources": [
+        {
+          "url": "https://fr.businessam.be/geant-technologique-chinois-baidu-integre-lagent-ia-openclaw-dans-son-application/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
