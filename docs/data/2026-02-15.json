@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-15T17:23:23.054771+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sommet mondial / Gouvernance",
+      "titre": "India AI Impact Summit 2026 s’ouvre à New Delhi",
+      "description": "Le sommet India AI Impact 2026 s'est ouvert à New Delhi, réunissant des leaders technologiques tels que Sundar Pichai, Sam Altman et Dario Amodei. L'événement met l'accent sur l'impact de l'IA en Inde, avec des discussions centrées sur l'innovation et le futur de la technologie.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/india-ai-impact-summit-2026-sundar-pichai-sam-altman-dario-amodei-and-full-list-of-ceos-attending-the-summit-in-delhi/articleshow/128373872.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements / Impact économique",
+      "titre": "L’Andhra Pradesh se positionne comme « capitale de l’IA »",
+      "description": "L'État de l'Andhra Pradesh en Inde a annoncé son ambition de devenir un hub de l'intelligence artificielle, se positionnant comme une capitale mondiale dans le domaine. Cette initiative vise à attirer des investissements et à stimuler l'économie locale grâce aux technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/bourse/actualites-amp/en-inde-l-etat-de-l-andhra-pradesh-se-reve-en-capitale-de-l-ia-8d33de0a3c451bb08a4512f7292fca7a",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "3-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Emploi / Traduction / Travail",
+      "titre": "Impact de l’IA générative sur le secteur de la traduction à Bruxelles",
+      "description": "À Bruxelles, l'impact de l'IA générative se fait sentir dans le secteur de la traduction, transformant le métier par l'introduction de nouveaux outils et méthodes. Des inquiétudes émergent concernant la qualité et l'emploi, bien que l'efficacité et la rapidité soient considérablement améliorées.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/article/intelligence-artificielle-dans-les-romans-d-amour-harlequin-ou-a-bruxelles-au-c-ur-des-mutations-du-secteur-de-la-traduction_240620",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques / Sécurité des modèles",
+      "titre": "Alerte sur les risques de l’IA dominent les appels aux investisseurs",
+      "description": "Les discussions autour des risques liés à l'IA dominent les appels aux investisseurs, alors que de nombreuses sociétés technologiques voient leurs actions chuter. L'inquiétude se concentre sur les implications éthiques et sécuritaires de l'utilisation accrue de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2026-02-15/ai-risk-is-dominating-conference-calls-as-investors-dump-stocks",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Innovation / R&D en santé",
+      "titre": "Sanofi mise sur l’IA pour son profil stratégique 2026",
+      "description": "Sanofi intègre l'intelligence artificielle dans son plan stratégique 2026, cherchant à optimiser ses processus de recherche et développement. Cette démarche s'inscrit dans une volonté d'améliorer l'efficacité et le modèle économique de l'entreprise pharmaceutique.",
+      "sources": [
+        {
+          "url": "https://www.webmanagercenter.com/2026/02/15/561836/entreprises-sanofi-profil-strategie-et-actualites-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Géopolitique / Sommet",
+      "titre": "Sommet mondial de l’IA : second rapport international sur la sécurité publié",
+      "description": "Le second rapport international sur la sécurité de l'IA a été publié lors du Sommet mondial de l'IA, abordant les enjeux critiques liés à l'éthique et à la sûreté des technologies d'IA. Le rapport souligne la nécessité de régulations renforcées et d'une collaboration mondiale pour mitiger les risques potentiels.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/International_AI_Safety_Report",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
