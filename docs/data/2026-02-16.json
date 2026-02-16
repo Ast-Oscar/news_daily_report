@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-16T17:35:44.430780+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sommet mondial / Gouvernance",
+      "titre": "Ouverture du sommet mondial sur l’IA à New Delhi",
+      "description": "Aucune actualité de défense ou de géopolitique liée à l'intelligence artificielle n'a été rapportée lors de l'ouverture du sommet à New Delhi. Les discussions se sont concentrées sur les impacts économiques et technologiques de l'IA.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-impact-summit-2026-kicks-off-at-bharat-mandapam-at-10-am-prime-minister-narendra-modi-to-inaugurate-the-expo/articleshow/128405687.cms",
+          "type": "primary"
+        },
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/prime-minister-narendra-modi-inaugurates-india-ai-impact-expo-2026-at-bharat-mandapam-new-delhi-artificial-intelligence/articleshow/128420514.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Économie globale",
+      "titre": "Le sommet prend une dimension économique majeure",
+      "description": "Le sommet de l'impact de l'IA en Inde met en lumière son rôle crucial dans la stimulation de l'économie technologique mondiale. L'accent est mis sur la croissance inclusive et le développement durable grâce à l'innovation en IA.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/indias-ai-impact-summit-2026-steering-the-global-tech-economy-toward-inclusive-growth/articleshow/128412630.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Non",
+      "titre": "Aucune actualité RSE / société liée à l’IA aujourd’hui",
+      "description": "Le sommet mondial sur l'IA ne présente aucune nouveauté significative dans le domaine de la responsabilité sociétale des entreprises ou des enjeux sociaux liés à l'IA aujourd'hui. Cela marque une journée sans annonces RSE spécifiques malgré l'ampleur de l'événement.",
+      "sources": [
+        {
+          "url": "https://www.latribune.fr/article/economie/52690896164721/sommet-mondial-sur-lia-croissance-japonaise-nucleaire-iranien-lessentiel-de-lactualite-ce-lundi-16-fevrier?id=52690896164721",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "4-cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des environnements IA agentiques",
+      "titre": "Proofpoint acquiert Acuvity pour sécuriser les environnements IA agents",
+      "description": "Proofpoint a annoncé l'acquisition d'Acuvity pour renforcer la sécurisation des environnements liés à l'intelligence artificielle et aux agents autonomes. Cette acquisition vise à améliorer la protection contre les cybermenaces dans les systèmes IA.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/proofpoint-acquiert-acuvity-et-se-positionne-sur-la-securisation-des-environnements-ia-agentiques/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Non",
+      "titre": "Aucune actualité scientifique ou médicale IA aujourd’hui",
+      "description": "Aucune actualité scientifique ou médicale majeure liée à l'intelligence artificielle n'a été rapportée aujourd'hui. Les développements dans ces domaines restent stables et sans nouvelles annonces récentes.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-02-16",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6-defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Non",
+      "titre": "Aucune actualité défense ou géopolitique liée à l’IA aujourd’hui",
+      "description": "Aucune actualité de défense ou de géopolitique liée à l'intelligence artificielle n'a été rapportée lors de l'ouverture du sommet à New Delhi. Les discussions se sont concentrées sur les impacts économiques et technologiques de l'IA.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-impact-summit-2026-kicks-off-at-bharat-mandapam-at-10-am-prime-minister-narendra-modi-to-inaugurate-the-expo/articleshow/128405687.cms",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
