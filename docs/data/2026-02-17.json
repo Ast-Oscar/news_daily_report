@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-17",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-17T17:53:51.726786+00:00",
+  "items": [
+    {
+      "id": "1-gouv_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale et institutions",
+      "titre": "L’Inde envisage des restrictions d’accès des mineurs aux réseaux sociaux durant le sommet IA",
+      "description": "Lors du sommet sur l'intelligence artificielle, l'Inde envisage de nouvelles réglementations pour limiter l'accès des mineurs aux réseaux sociaux afin de les protéger des contenus inappropriés. Cette décision intervient dans un contexte de promesses d'investissements massifs dans le secteur de l'IA.",
+      "sources": [
+        {
+          "url": "https://information.tv5monde.com/economie/sommet-sur-lia-des-regles-en-vue-pour-les-mineurs-en-inde-et-une-pluie-de-promesses-dinvestissements-2810074?amp=",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Sommet international & investissements",
+      "titre": "India AI Impact Summit met en avant le déploiement concret de l’IA et des promesses d’investissement",
+      "description": "L'India AI Impact Summit 2026 met en lumière les initiatives de l'Inde pour le déploiement concret de l'IA dans divers secteurs industriels. Des promesses d'investissements significatifs ont été faites pour renforcer la position de l'Inde dans le domaine de l'intelligence artificielle à l'échelle mondiale.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/ai/ai-insights/ai-impact-summit-2026-showcases-indias-push-for-real-world-deployment/articleshow/128464511.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-industrie_technologie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Lancements de modèles IA",
+      "titre": "Alibaba, ByteDance et Zhipu lancent de nouveaux modèles d’IA avant le Nouvel An lunaire",
+      "description": "Alibaba, ByteDance et Zhipu ont lancé de nouveaux modèles d'IA visant à améliorer les performances technologiques avant le Nouvel An lunaire. Ces lancements s'inscrivent dans une stratégie plus large de la Chine pour renforcer sa compétitivité dans le domaine de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://fr.euronews.com/next/2026/02/17/les-nouveaux-modeles-dia-lances-par-la-chine-avant-le-nouvel-an-lunaire",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Créativité et souveraineté culturelle",
+      "titre": "L’IA transforme le secteur créatif et peut servir les cultures autochtones",
+      "description": "L'intelligence artificielle révolutionne le secteur créatif en offrant de nouvelles possibilités pour la création artistique et l'expression culturelle. Elle peut également jouer un rôle important dans la préservation et la promotion des cultures autochtones, en leur fournissant des outils technologiques adaptés.",
+      "sources": [
+        {
+          "url": "https://francopresse.ca/arts-et-culture/2026/02/17/lia-transforme-le-secteur-creatif-et-peut-servir-les-cultures-autochtones/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques des agents IA",
+      "titre": "Tentative d’extraction de raisonnements via prompts sur Gemini détectée",
+      "description": "Un incident a été détecté impliquant l'extraction de raisonnements via des prompts sur le modèle Gemini, soulevant des questions sur la sécurité et la gestion des données dans les systèmes d'IA. Cet événement souligne l'importance de renforcer la sûreté et l'éthique dans le développement des technologies d'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://medium.com/%40danielquinteros/ai-pulse-key-ai-news-edition-25-february-17-2026-a497763518a4",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche multimodale audio",
+      "titre": "Interspeech 2026 lance un challenge sur le raisonnement audio en IA",
+      "description": "Lors de l'Interspeech 2026, un défi a été lancé autour du raisonnement audio en IA, visant à améliorer les capacités de compréhension et d'analyse des systèmes intelligents. Ce challenge invite les participants à développer des solutions innovantes pour explorer de nouvelles avenues dans le domaine de l'intelligence artificielle audio.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Festival IA et soft power",
+      "titre": "Premier festival de films IA en Inde au Sommet AI Impact",
+      "description": "Delhi accueillera le premier festival de films consacrés à l'intelligence artificielle lors du Sommet India AI Impact, mettant en avant des œuvres explorant les multiples facettes de l'IA. Cet événement symbolise l'intégration croissante de la technologie dans le domaine culturel et artistique, offrant une plateforme pour des échanges créatifs.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/delhi-to-host-first-ai-film-festival-during-india-ai-impact-summit/articleshow/128378077.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
