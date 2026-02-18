@@ -1,0 +1,67 @@
+{
+  "date": "2026-02-18",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-18T17:51:19.915230+00:00",
+  "items": [
+    {
+      "id": "1‐cybersécurité",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Usage militaire & cybermenaces",
+      "titre": "Usage militaire et cyberattaques tirant parti de modèles d’IA",
+      "description": "Cet article aborde l'utilisation croissante des modèles d'IA dans les cyberattaques et les applications militaires, soulignant l'évolution des menaces numériques complexes. Le texte met en lumière les défis sécuritaires posés par ces technologies, ainsi que les mesures nécessaires pour contrer ces risques.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/02/18/ia-cybersecurite-les-10-actus-cles-du-18-fev-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2‐gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Conformité & régulation",
+      "titre": "Présentation du guide « IA de Confiance » par la FnTC",
+      "description": "La FnTC a présenté son guide « IA de Confiance », qui vise à définir des normes et des pratiques pour garantir une utilisation éthique et responsable des intelligences artificielles. Lors de la conférence, les experts ont discuté des enjeux liés à la transparence et à la sécurité des technologies IA.",
+      "sources": [
+        {
+          "url": "https://fntc-numerique.com/ia-de-confiance-conference-de-la-fntc-le-18-fevrier-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3‐economie_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Impact sur l’emploi",
+      "titre": "Microsoft anticipe l’automatisation des emplois de bureau sous 18 mois",
+      "description": "Microsoft prévoit que l'automatisation des emplois de bureau par l'IA pourrait se concrétiser d'ici 18 mois, transformant radicalement le marché du travail. L'article explore les implications économiques et sociales de cette prévision, incitant à une adaptation rapide des entreprises et travailleurs.",
+      "sources": [
+        {
+          "url": "https://lenergeek.com/2026/02/18/dans-18-mois-votre-job-sera-t-il-confie-a-lia-microsoft-lache-une-bombe/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4‐science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Évaluation Explainable AI",
+      "titre": "Défi Interspeech 2026 sur le raisonnement audio transparent",
+      "description": "Le Défi Interspeech 2026 se concentre sur le raisonnement audio transparent, visant à améliorer la compréhension des décisions prises par les modèles d'IA en traitement du son. L'événement cherche à favoriser des avancées techniques pour une interprétation plus précise et fiable des signaux audio par les machines.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
