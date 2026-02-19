@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-19",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-19T17:47:58.635641+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sommet international & positions stratégiques",
+      "titre": "Ouverture du Leaders’ Plenary du AI Impact Summit en Inde",
+      "description": "Le AI Impact Summit a établi un record mondial Guinness pour le nombre d'engagements pris en faveur de l'IA responsable. Cette reconnaissance souligne la volonté collective des participants d'adopter des pratiques éthiques et durables dans le développement et l'utilisation de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèles IA indiens & investissements internationaux",
+      "titre": "Lancement de modèles IA indiens et annonce d’investissement",
+      "description": "Le AI Impact Summit a établi un record mondial Guinness pour le nombre d'engagements pris en faveur de l'IA responsable. Cette reconnaissance souligne la volonté collective des participants d'adopter des pratiques éthiques et durables dans le développement et l'utilisation de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Engagements citoyens et record responsable",
+      "titre": "Record mondial Guinness pour des engagements en faveur de l’IA responsable",
+      "description": "Le AI Impact Summit a établi un record mondial Guinness pour le nombre d'engagements pris en faveur de l'IA responsable. Cette reconnaissance souligne la volonté collective des participants d'adopter des pratiques éthiques et durables dans le développement et l'utilisation de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Indépendance stratégique & investissements",
+      "titre": "L’Inde promeut une « troisième voie » en IA face aux blocs États‑Unis/Chine",
+      "description": "L'Inde propose une approche alternative en matière d'intelligence artificielle, distincte des modèles développés par les États-Unis et la Chine. Cette « troisième voie » met l'accent sur l'innovation inclusive et la régulation équilibrée pour favoriser un développement équitable et sécurisé de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/en/economy/article/2026/02/18/ai-summit-in-india-pushes-a-third-way-between-us-and-china_6750615_19.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
