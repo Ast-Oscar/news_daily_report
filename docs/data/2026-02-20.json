@@ -1,0 +1,157 @@
+{
+  "date": "2026-02-20",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-20T17:35:54.712807+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance mondiale",
+      "titre": "Appel de l’ONU à la création d’un Fonds mondial pour l’IA",
+      "description": "L'ONU appelle à la création d'un Fonds mondial pour réguler et soutenir le développement éthique de l'intelligence artificielle. Cette initiative vise à combler les disparités entre pays et assurer que l'IA bénéficie à toute l'humanité.",
+      "sources": [
+        {
+          "url": "https://qna.org.qa/fr-FR/News-Area/News/2026-2/20/lonu-appelle-a-la-creation-dun-fonds-mondial-pour-lintelligence-artificielle",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Position des États-Unis",
+      "titre": "Les États‑Unis rejettent une gouvernance mondiale de l’IA au sommet de New Delhi",
+      "description": "Lors du sommet de New Delhi, les États-Unis ont exprimé leur opposition à une gouvernance mondiale de l'intelligence artificielle. Ils préfèrent privilégier des approches nationales et des partenariats bilatéraux pour le développement de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/intelligence-artificielle-les-etats-unis-ne-veulent-pas-entendre-parler-d-une-gouvernance-mondiale-d4231ed632afeb2c3f5087791206a6c9",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-économie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements en Inde",
+      "titre": "Inde : investissements massifs dans l’IA annoncés à New Delhi",
+      "description": "L'Europe cherche à établir une « troisième voie » pour le développement de l'IA entre la domination technologique des États-Unis et de la Chine. Cette stratégie vise à promouvoir une approche centrée sur des valeurs éthiques et une régulation équilibrée.",
+      "sources": [
+        {
+          "url": "https://www.ladepeche.fr/2026/02/20/intelligence-artificielle-entre-les-etats-unis-et-la-chine-leurope-cherche-sa-voie-a-new-delhi-13234871.php",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat éducatif Inde‑France",
+      "titre": "CentraleSupélec et Orange Business India lancent un bachelor en IA",
+      "description": "CentraleSupélec et Orange Business India s'associent pour lancer un bachelor en intelligence artificielle en Inde. Ce programme vise à former une nouvelle génération d'ingénieurs spécialisés dans l'IA, répondant ainsi à la demande croissante de compétences technologiques avancées.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/sommet-ai-impact-en-inde-centralesupelec-et-orange-business-india-sallient-pour-former-des-ingenieurs-en-ia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité et IA",
+      "titre": "L’IA déplace le risque cyber vers l’humain",
+      "description": "L'évolution de l'intelligence artificielle déplace le risque cyber vers les utilisateurs humains, nécessitant une vigilance accrue. Les experts soulignent l'importance de renouveler régulièrement les formations en cybersécurité pour maintenir une protection efficace.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/former-une-fois-ne-suffit-pas-il-faut-renouveler-les-formats-pour-maintenir-lattention-jean-baptiste-artignan-ceo-de-bluesecure/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles open source",
+      "titre": "Attaque sur la chaîne d’approvisionnement d’un assistant IA open‑source",
+      "description": "Une attaque a ciblé la chaîne d'approvisionnement de l'assistant IA open-source Cline, compromettant son intégrité. Les pirates ont réussi à injecter du code malveillant, mettant en lumière la vulnérabilité des systèmes open-source aux menaces cyber.",
+      "sources": [
+        {
+          "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie / métavers",
+      "titre": "EDAG intègre l’IA et le métavers industriel",
+      "description": "Le groupe EDAG intègre l'intelligence artificielle et le métavers industriel pour révolutionner les pratiques industrielles. Cette initiative vise à optimiser les processus de production et à développer des environnements de travail interactifs et immersifs.",
+      "sources": [
+        {
+          "url": "https://www.tradingview.com/news/eqs%3A4acd7813b094b%3A0-edag-group-brings-artificial-intelligence-ai-and-industrial-metaverse-to-industry/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8-regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Normes techniques US",
+      "titre": "Le NIST lance l’initiative de normes pour agents IA",
+      "description": "Le NIST a lancé une initiative pour établir des normes concernant les agents d'intelligence artificielle. Ce projet vise à harmoniser les pratiques et assurer la sécurité et l'efficacité des systèmes basés sur l'IA.",
+      "sources": [
+        {
+          "url": "https://www.hpcwire.com/aiwire/2026/02/20/nists-caisi-announces-ai-agent-standards-initiative/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9-culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Agriculture",
+      "titre": "L’IA au cœur des exploitations agricoles au Salon de l’agriculture",
+      "description": "Au Salon de l'agriculture, l'IA est mise en avant pour sa capacité à transformer les exploitations agricoles. Elle permet d'optimiser les rendements et d'améliorer la gestion des ressources, contribuant ainsi à une agriculture plus durable.",
+      "sources": [
+        {
+          "url": "https://www.lexpress.fr/environnement/salon-de-lagriculture-comment-lintelligence-artificielle-transforme-nos-fermes-3A4GHQJJXFCFRBK6HQDWYIQIGY/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "10-gouvernance_regulation",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Position de l’Europe",
+      "titre": "L’Europe veut une « troisième voie » de l’IA à New Delhi",
+      "description": "L'Europe cherche à établir une « troisième voie » pour le développement de l'IA entre la domination technologique des États-Unis et de la Chine. Cette stratégie vise à promouvoir une approche centrée sur des valeurs éthiques et une régulation équilibrée.",
+      "sources": [
+        {
+          "url": "https://www.ladepeche.fr/2026/02/20/intelligence-artificielle-entre-les-etats-unis-et-la-chine-leurope-cherche-sa-voie-a-new-delhi-13234871.php",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
