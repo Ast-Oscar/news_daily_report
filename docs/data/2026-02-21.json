@@ -1,0 +1,52 @@
+{
+  "date": "2026-02-21",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-21T17:23:02.526847+00:00",
+  "items": [
+    {
+      "id": "1','GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance internationale",
+      "titre": "86 pays et deux organisations internationales signent la déclaration du AI Impact Summit",
+      "description": "Lors de l'AI Impact Summit, 86 pays et deux organisations internationales ont signé une déclaration visant à promouvoir la collaboration globale pour un développement éthique et responsable de l'intelligence artificielle. Cette initiative souligne l'importance d'établir des standards internationaux pour les technologies émergentes, tout en assurant une utilisation équitable pour le bien-être de la société.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/business/india-business/ai-impact-summit-declaration-secures-support-of-86-nations-two-global-bodies-ashwini-vaishnaw/articleshow/128640425.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2','ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements publics",
+      "titre": "Inde dévoile un cadre volontaire pour une diffusion démocratique de l’IA",
+      "description": "L'Inde a présenté un cadre volontaire lors du sommet de New Delhi pour encourager une diffusion équitable et démocratique des technologies d'intelligence artificielle. Cette démarche vise à renforcer la coopération internationale tout en s'assurant que l'IA profite à l'ensemble de la population et non à une élite restreinte.",
+      "sources": [
+        {
+          "url": "https://m.economictimes.com/tech/artificial-intelligence/india-calls-for-democratic-diffusion-of-ai-at-new-delhi-summit/articleshow/128647002.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3','SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche et évaluation de modèles audio",
+      "titre": "Interspeech 2026 lance le Audio Reasoning Challenge pour évaluer l’IA audio explicable",
+      "description": "Le Audio Reasoning Challenge a été lancé par Interspeech 2026 afin d'évaluer les capacités d'explicabilité des systèmes d'intelligence artificielle dans le domaine audio. Cette initiative vise à améliorer la transparence et la compréhension des processus décisionnels des IA audio, soutenant ainsi leur adoption dans des contextes critiques.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
