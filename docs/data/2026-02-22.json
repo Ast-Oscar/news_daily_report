@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-22",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-22T17:23:02.231652+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance internationale",
+      "titre": "Sommet India AI Impact promeut une « troisième voie » indépendante des États‑Unis et de la Chine",
+      "description": "L'Inde ambitionne de générer un investissement de 200 milliards de dollars dans les centres de données en approuvant simultanément des projets de semi-conducteurs d'une valeur de 18 milliards de dollars. Ces développements représentent une étape clé dans la stratégie technologique du pays visant à renforcer son infrastructure numérique.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/en/economy/article/2026/02/18/ai-summit-in-india-pushes-a-third-way-between-us-and-china_6750615_19.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements internationaux",
+      "titre": "Inde cherche à attirer 200 milliards $ en data centers, approuve 18 milliards $ en projets semi‑conducteurs",
+      "description": "L'Inde ambitionne de générer un investissement de 200 milliards de dollars dans les centres de données en approuvant simultanément des projets de semi-conducteurs d'une valeur de 18 milliards de dollars. Ces développements représentent une étape clé dans la stratégie technologique du pays visant à renforcer son infrastructure numérique.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/en/economy/article/2026/02/18/ai-summit-in-india-pushes-a-third-way-between-us-and-china_6750615_19.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture et médias",
+      "titre": "Premier India AI Film Festival organisé à Delhi pendant le sommet",
+      "description": "Le premier India AI Film Festival se déroulera à Delhi, offrant une vitrine à l'impact créatif et culturel de l'intelligence artificielle pendant le sommet. Cet événement unique explorera la convergence des technologies modernes et de l'art à travers des expositions et des projections innovantes.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/delhi-to-host-first-ai-film-festival-during-india-ai-impact-summit/articleshow/128378077.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité et transparence des modèles",
+      "titre": "Publication du deuxième International AI Safety Report avant le sommet India AI",
+      "description": "Le deuxième International AI Safety Report a été publié en amont du sommet India AI, soulignant les enjeux et les recommandations pour une utilisation sécurisée de l'intelligence artificielle. Le rapport s'attache à évaluer les risques potentiels et à proposer des cadres de régulation adaptés aux technologies émergentes.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/International_AI_Safety_Report",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche audio explicable",
+      "titre": "Interspeech 2026 lance un défi sur la qualité du raisonnement des modèles audio",
+      "description": "Interspeech 2026 a lancé un défi axé sur l'amélioration de la qualité du raisonnement des modèles audio, visant à pousser les limites de l'analyse et de l'interprétation auditives. Cette initiative cherche à stimuler la recherche et à encourager le développement de technologies audio plus intelligentes et efficaces.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté technologique",
+      "titre": "Inde fait le pari d’une infrastructure IA souveraine avec +20 000 GPUs supplémentaires",
+      "description": "L'Inde investit dans une infrastructure IA souveraine en ajoutant plus de 20 000 GPUs à ses capacités existantes. Ce développement s'inscrit dans une stratégie plus large visant à renforcer l'autonomie technologique du pays face aux enjeux mondiaux de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
