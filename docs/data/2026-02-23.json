@@ -1,0 +1,200 @@
+{
+  "date": "2026-02-23",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-23T17:59:56.821988+00:00",
+  "items": [
+    {
+      "id": "IA‑summit‑New‑Delhi‑governance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sommet international",
+      "titre": "Déclaration commune de 86 pays au AI Impact Summit de New Delhi",
+      "description": "Lors du AI Impact Summit de New Delhi, une déclaration commune a été signée par 86 pays, mais elle a été critiquée pour son manque de mesures concrètes. Cette déclaration visait à promouvoir une approche collaborative pour réguler l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/ia-le-sommet-de-new-delhi-accouche-dune-souris-490697.htm",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.mac4ever.com/ia/194824-sommet-de-new-delhi-que-prevoit-la-declaration-sur-l-ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "AI‑Act‑France‑guide‑FnTC",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Encadrement national",
+      "titre": "La FnTC publie un guide de mise en conformité à l’AI Act avec autorités françaises",
+      "description": "La FnTC, avec plusieurs autorités françaises, a publié un guide pour aider à se conformer à l'AI Act. Ce guide vise à structurer une mise en conformité harmonisée au niveau national en réunissant les secteurs à risque et les organismes de réglementation.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/la-fntc-reunit-la-cnil-lanssi-lacpr-et-la-dinum-pour-lancer-un-guide-de-mise-en-conformite-a-lai-act/",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.decideo.fr/AI-Act-la-FnTC-rassemble-les-autorites-de-regulation-francaises-et-les-secteurs-a-risque-pour-structurer-une-IA-de_a14574.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Banque‑governance‑IA",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance d’entreprise",
+      "titre": "La gouvernance bancaire reste inadaptée face à l’IA autonome",
+      "description": "La gouvernance dans le secteur bancaire est jugée obsolète par rapport aux avancées de l'intelligence artificielle autonome. Elle manque de stratégies adaptées pour intégrer ces technologies tout en assurant la gestion des risques associés.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/news/banque-assurance/la-gouvernance-bancaire-ignore-encore-la-mutation-systemique-de-lia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Cyberguerre‑Fortinet‑IA",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberattaque assistée par l’IA",
+      "titre": "Plus de 600 pare‑feu Fortinet piratés via IA générative",
+      "description": "Plus de 600 pare-feu Fortinet ont été compromis par un acteur malveillant utilisant une IA générative, soulignant la vulnérabilité des systèmes de cybersécurité actuels. Cette attaque a été réalisée en seulement cinq semaines, montrant l'efficacité accrue des cyberattaques assistées par l'IA.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/un-acteur-malveillant-assiste-par-lia-a-pirate-600-pare-feu-fortinet-en-5-semaines/",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.cybersecbrief.com/news/cybersec/cybersec-2026-02-23",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "Cybersécurité‑malware‑genAI",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Malware IA",
+      "titre": "Un malware Android persistant s’appuie sur la GenAI",
+      "description": "Un malware Android persistant utilise des capacités avancées de GenAI pour contourner les systèmes de sécurité. Ce logiciel malveillant représente une nouvelle génération de menaces représentant un défi pour la cybersécurité mobile.",
+      "sources": [
+        {
+          "url": "https://www.linformaticien.com/magazine/cybersecurite/64502-un-malware-android-persistant-grace-a-la-genai.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑santé‑limitations‑conseils",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Conseils de santé",
+      "titre": "Les chatbots IA fournissent souvent des conseils santé trompeurs",
+      "description": "Les chatbots IA sont souvent à l'origine de conseils de santé trompeurs, selon une étude récente. Cela pose des préoccupations quant à la confiance et à l'utilisation sûre de ces outils par le public.",
+      "sources": [
+        {
+          "url": "https://www.vietnam.vn/fr/nghien-cuu-chatbot-ai-thuong-dua-loi-khuyen-suc-khoe-sai-lech",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑santé‑tournant‑2026",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche clinique",
+      "titre": "2026 pourrait marquer un tournant pour l’IA en santé",
+      "description": "2026 est pressenti comme une année charnière pour l'intégration de l'IA dans le secteur de la santé, en raison des avancées technologiques et des changements règlementaires anticipés. Cette période pourrait voir une transformation notable de la façon dont les services de santé sont fournis.",
+      "sources": [
+        {
+          "url": "https://www.maddyness.com/2026/02/23/ia-en-sante-pourquoi-2026-pourrait-marquer-un-tournant/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑santé‑progrès‑défis‑réglementaires",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Évaluation hospitalière",
+      "titre": "Progrès mesurables et défis réglementaires de l’IA en santé",
+      "description": "Les progrès de l'IA en santé sont notables mais s'accompagnent de défis réglementaires majeurs. Trouver un équilibre entre innovation et sécurité des patients demeure une priorité cruciale pour les prochaines années.",
+      "sources": [
+        {
+          "url": "https://francais.medscape.com/viewarticle/lactu-progr%C3%A8s-mesurables-et-d%C3%A9fis-2026a100058z",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑santé‑longévité‑coûts",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Économie de la santé",
+      "titre": "L’IA ne suffira pas à contenir l’explosion des coûts de santé",
+      "description": "Malgré les avancées de l'IA dans le domaine de la santé, celle-ci ne suffira pas à contenir la hausse des coûts selon les experts. L'intégration technologique doit être accompagnée de réformes structurelles pour garantir une gestion efficace des dépenses.",
+      "sources": [
+        {
+          "url": "https://www.allnews.ch/partenaires/content/long%C3%A9vit%C3%A9-l%E2%80%99ia-peut-elle-contrer-l%E2%80%99explosion-des-co%C3%BBts-de-sant%C3%A9",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑industrie‑Orange‑R&D",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie R&D",
+      "titre": "Orange articule IA, cybersécurité et réseaux dans sa recherche",
+      "description": "Orange articule ses efforts de recherche autour de l'IA, de la cybersécurité et des réseaux futurs pour renforcer ses capacités technologiques. Cette stratégie vise à anticiper les besoins du marché tout en sécurisant les infrastructures numériques.",
+      "sources": [
+        {
+          "url": "https://www.lyon-entreprises.com/actualites/article/comment-orange-structure-sa-recherche-ia-cybersecurite-et-reseaux-du-futur",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑cyber‑Vietnam‑investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements publics",
+      "titre": "Le Vietnam priorise l’IA dans ses investissements en cybersécurité",
+      "description": "Le Vietnam priorise l'intelligence artificielle dans ses investissements en cybersécurité pour accroître la protection nationale. Cette démarche vise à adopter des technologies avancées pour contrer efficacement les menaces croissantes.",
+      "sources": [
+        {
+          "url": "https://lecourrier.vn/lia-en-tete-des-investissements-en-cybersecurite-au-vietnam/1341961.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA‑société‑Mistral‑enquête",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éthique et propriété intellectuelle",
+      "titre": "Enquête sur Mistral AI pour pillage massif d’œuvres protégées",
+      "description": "L'enquête sur Mistral AI a révélé un pillage massif d'œuvres protégées par le droit d'auteur. Cette situation soulève des préoccupations sur l'éthique et la légalité de l'utilisation de l'IA dans le domaine de la création.",
+      "sources": [
+        {
+          "url": "https://www.clubic.com/actualite-601714-mistral-ai-l-enquete-qui-revele-un-pillage-massif-d-uvres-protegees.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
