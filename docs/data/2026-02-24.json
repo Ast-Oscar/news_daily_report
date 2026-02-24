@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-24",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-24T17:54:24.398821+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Économie & marchés financiers",
+      "titre": "Des inquiétudes autour de l’IA pèsent sur les marchés financiers aujourd’hui",
+      "description": "Les marchés financiers sont perturbés par des préoccupations croissantes concernant l'impact de l'intelligence artificielle sur l'économie. Ces inquiétudes se manifestent alors que des tensions commerciales, notamment sur les droits de douane, persistent.",
+      "sources": [
+        {
+          "url": "https://www.lagazettefrance.fr/article/wall-street-cherche-a-rebondir-malgre-les-tensions-sur-l-ia-et-les-droits-de-douane",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements stratégiques",
+      "titre": "Meta (Facebook) signe un accord massif d’achat de puces IA avec AMD",
+      "description": "Meta a conclu un accord majeur avec AMD, prévoyant d'acheter des puces d'intelligence artificielle pour une valeur pouvant atteindre 100 milliards de dollars. Ce partenariat stratégique vise à renforcer les capacités technologiques de Meta dans le domaine de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.ksat.com/business/2026/02/24/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_RSE_SOCIETE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture / société",
+      "titre": "4000 artistes sonnent l’alerte face à l’IA aux César 2026",
+      "description": "Lors des César 2026, 4000 artistes ont exprimé leurs préoccupations concernant l'impact de l'intelligence artificielle sur la création artistique. Ils craignent notamment que l'IA ne menace les métiers artistiques traditionnels et l'authenticité de l'art.",
+      "sources": [
+        {
+          "url": "https://www.europe1.fr/emissions/les-journaux-de-la-redaction/cesar-2026-4000-artistes-tirent-la-sonnette-dalarme-face-a-lintelligence-artificielle-902985",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_CYBERSECURITE",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques & cyberattaques",
+      "titre": "Rapport CrowdStrike 2026 : les attaques IA réduisent le « breakout time » à 29 minutes",
+      "description": "Le rapport de CrowdStrike pour 2026 révèle que l'utilisation de l'intelligence artificielle dans les cyberattaques a réduit le temps de percée à seulement 29 minutes. Cette vitesse accrue pose de nouveaux défis pour la sécurité des systèmes informatiques.",
+      "sources": [
+        {
+          "url": "https://techmaniacs.com/2026/02/24/ai-security-daily-briefing-february-24-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_SANTE_SCIENCE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche scientifique",
+      "titre": "IA pour suivre la dérive des icebergs par les scientifiques britanniques",
+      "description": "Des scientifiques britanniques utilisent l'intelligence artificielle pour surveiller les mouvements des icebergs, améliorant ainsi la précision des prévisions de dérive. Cette technologie contribue à la sécurité maritime en permettant une meilleure anticipation des trajectoires.",
+      "sources": [
+        {
+          "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-flash/2026-02-24/85557-des-scientifiques-utilisent-l-ia-pour-suivre-les-icebergs",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_DEFENSE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Géopolitique de l’IA",
+      "titre": "Anthropic au cœur des tensions technologiques sino‑américaines",
+      "description": "Anthropic se trouve au centre des tensions entre la Chine et les États-Unis, notamment en raison de son rôle dans le développement de technologies d'intelligence artificielle. La société devient un point focal des enjeux géopolitiques et économiques liés à l'IA.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/economie/article/2026/02/24/chine-pentagone-et-vieille-tech-anthropic-a-l-epicentre-de-la-revolution-de-l-ia_6668007_3234.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
