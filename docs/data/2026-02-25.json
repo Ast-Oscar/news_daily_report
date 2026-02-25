@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-25",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-25T17:55:20.138244+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "gouvernance",
+      "titre": "Blocage des outils IA sur les appareils des élus au Parlement européen",
+      "description": "Anthropic annonce le déploiement en préversion de Claude Code Security, une solution axée sur la sécurité des modèles d'intelligence artificielle. Cette initiative reflète l'engagement de l'entreprise à renforcer la protection contre les vulnérabilités de ses systèmes IA.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/02/25/ia-cybersecurite-les-12-actus-cles-du-25-fev-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "industrie",
+      "titre": "Lancement de la plateforme Agentic Search par Nimble avec 47 M$ de Série B",
+      "description": "Nimble annonce le lancement de sa nouvelle plateforme Agentic Search après avoir levé 47 millions de dollars lors d'un financement de Série B. Ce développement marque une expansion stratégique dans le domaine de la recherche assistée par l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-02-25",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "culture",
+      "titre": "India AI Film Festival lancé dans le cadre du sommet India AI Impact",
+      "description": "Le India AI Film Festival est inauguré à Delhi dans le cadre du sommet India AI Impact, mettant en avant l'impact de l'intelligence artificielle dans le cinéma. Ce festival vise à explorer les intersections entre technologie et narration visuelle.",
+      "sources": [
+        {
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/delhi-to-host-first-ai-film-festival-during-india-ai-impact-summit/articleshow/128378077.cms",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "sécurité des modèles",
+      "titre": "Anthropic déploie Claude Code Security en préversion",
+      "description": "Anthropic annonce le déploiement en préversion de Claude Code Security, une solution axée sur la sécurité des modèles d'intelligence artificielle. Cette initiative reflète l'engagement de l'entreprise à renforcer la protection contre les vulnérabilités de ses systèmes IA.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/02/25/ia-cybersecurite-les-12-actus-cles-du-25-fev-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "recherche",
+      "titre": "Défi Audio Reasoning à Interspeech 2026 sur la qualité du raisonnement audio",
+      "description": "Le défi Audio Reasoning à Interspeech 2026 porte sur l'amélioration de la qualité du raisonnement audio et la compréhension des signaux sonores complexes. Ce défi incite les chercheurs à développer de nouvelles approches pour traiter et analyser des données audio.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "géopolitique",
+      "titre": "Anthropic accuse des laboratoires chinois d’avoir distillé ses modèles Claude",
+      "description": "Anthropic accuse certains laboratoires chinois d'avoir illégalement distillé ses modèles Claude, provoquant des tensions dans le secteur de l'intelligence artificielle. Cette accusation souligne les enjeux de propriété intellectuelle et de concurrence internationale dans le domaine technologique.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/posts/paul-young-055632b_here-is-the-ai-rundown-forwednesday-february-activity-7432357614493274112-IImp",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
