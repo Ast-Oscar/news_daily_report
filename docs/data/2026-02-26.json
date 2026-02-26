@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-26",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-26T17:55:30.299089+00:00",
+  "items": [
+    {
+      "id": "1_Gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sommet international / Gouvernance",
+      "titre": "Clôture du India AI Impact Summit 2026 à New Delhi",
+      "description": "Le sommet a établi un nouveau record mondial en recueillant d'importants pledges concernant la responsabilité et l'éthique de l'intelligence artificielle. Cet engagement global vise à promouvoir un développement technologique responsable et durable.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructures & Stratégie nationale",
+      "titre": "Investissements indiens en IA et engagement de Microsoft",
+      "description": "Le sommet a établi un nouveau record mondial en recueillant d'importants pledges concernant la responsabilité et l'éthique de l'intelligence artificielle. Cet engagement global vise à promouvoir un développement technologique responsable et durable.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_RSE_Societe_Culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Engagement citoyen",
+      "titre": "Record mondial de pledges pour la responsabilité IA",
+      "description": "Le sommet a établi un nouveau record mondial en recueillant d'importants pledges concernant la responsabilité et l'éthique de l'intelligence artificielle. Cet engagement global vise à promouvoir un développement technologique responsable et durable.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_Sante_Science_Recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Publication académique",
+      "titre": "Challenge Audio Reasoning à Interspeech 2026",
+      "description": "Le Challenge Audio Reasoning à Interspeech 2026 a mis en avant les avancées en matière d'analyse et de compréhension des indices audio par les intelligences artificielles. Cette compétition a permis de démontrer des innovations majeures dans le traitement intelligent des sons.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.14224",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_Sante_Science_Recherche_Index",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Publication académique / Transparence",
+      "titre": "Publication du 2025 AI Agent Index",
+      "description": "La publication du 2025 AI Agent Index offre une analyse détaillée de la performance et de l'évolution des agents intelligents dans divers domaines. Ce rapport est devenu une référence essentielle pour suivre l'impact des agents sur les industries contemporaines.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.17753",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_Cybersecurite_Risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des agents IA",
+      "titre": "Critiques sur la fiabilité du réseau Moltbook et réponse de Wiz",
+      "description": "Le réseau Moltbook, critiqué pour sa fiabilité, a suscité des réponses de la part de Wiz, qui entend corriger les problèmes tout en maintenant ses objectifs de sécurité et d'efficacité. Ce débat met en lumière les défis actuels concernant la confiance dans les infrastructures numériques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/OpenClaw",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_Defense_Geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Usage militaire",
+      "titre": "Claude d’Anthropic retenu pour les missions classifiées américaines",
+      "description": "La société Anthropic a été sélectionnée pour fournir son intelligence artificielle, Claude, dans des missions classifiées américaines, soulignant sa capacité à gérer des tâches sensibles. Cette décision souligne la confiance des autorités américaines dans les avancées technologiques d'Anthropic.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anthropic",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
