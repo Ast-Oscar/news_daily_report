@@ -1,0 +1,142 @@
+{
+  "date": "2026-02-27",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-27T17:33:10.273791+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale",
+      "titre": "Le Sénat français confirme la structure de régulation de l’IA dans le projet de loi DDADUE",
+      "description": "Le Sénat français a validé la structure de régulation de l'Intelligence Artificielle dans le cadre du projet de loi DDADUE, visant à mettre en place un cadre légal pour encadrer le développement et l'utilisation de l'IA. Cette règlementation s'inscrit dans une démarche européenne plus large visant à garantir l'équilibre entre innovation technologique et protection des droits fondamentaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/R%C3%A8glement_sur_l%27intelligence_artificielle",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Levée de fonds",
+      "titre": "OpenAI lève 110 milliards de dollars, un record",
+      "description": "OpenAI a réalisé une levée de fonds record de 110 milliards de dollars, marquant un tournant significatif dans le domaine de l'intelligence artificielle. Cette opération financière sans précédent reflète la confiance des investisseurs dans le potentiel disruptif et l'avenir prometteur de l'IA développée par l'entreprise.",
+      "sources": [
+        {
+          "url": "https://fr.tradingview.com/news/afp%3Aed8708c5460d1%3A0/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie / partenariat",
+      "titre": "Accenture choisit Mistral AI pour compléter son offre d’IA souveraine en Europe",
+      "description": "Accenture a sélectionné Mistral AI pour enrichir son offre d'intelligence artificielle souveraine en Europe, visant à développer des solutions technologiques adaptables aux besoins régionaux. Ce partenariat stratégique souligne l'engagement d'Accenture à renforcer ses capacités en matière d'IA tout en répondant aux exigences de souveraineté numérique.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/contenus/actualites/intelligence-artificielle-actualites-contenus/accenture-choisit-mistral-ai-pour-adresser-le-marche-souverain-en-europe/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie / semi-conducteurs",
+      "titre": "Amazon intensifie son développement de puces IA",
+      "description": "Amazon a intensifié ses efforts dans le développement de puces destinées à l'intelligence artificielle, ce qui marque une étape cruciale dans sa stratégie technologique. Cette expansion vise à améliorer les capacités de calcul et l’efficacité énergétique de ses infrastructures, renforçant ainsi sa position sur le marché des technologies avancées.",
+      "sources": [
+        {
+          "url": "https://www.tvanouvelles.ca/2026/02/27/la-poussee-damazon-dans-les-puces-ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés / titres boursiers",
+      "titre": "Block remplace 40 % de ses employés par l’IA, le titre s’envole",
+      "description": "Block a annoncé son intention de remplacer 40 % de ses employés par des systèmes d'intelligence artificielle, une décision qui a provoqué une envolée de son titre en bourse. Cette stratégie s'inscrit dans une tendance croissante d'automatisation au sein des entreprises cherchant à optimiser leurs opérations et coûts.",
+      "sources": [
+        {
+          "url": "https://www.tvanouvelles.ca/2026/02/27/cette-entreprise-remplacera-40-de-ses-employes-par-lia-et-son-titre-en-bourse-senvole",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Inclusion numérique",
+      "titre": " débat sur l’IA en Afrique : fuite des talents ou recomposition stratégique ?",
+      "description": "Le débat sur l'intelligence artificielle en Afrique se concentre sur la question de la fuite des talents face à une recomposition stratégique du marché. Les experts s'interrogent sur la capacité du continent à retenir ses talents tout en développant des solutions d'IA adaptées aux spécificités locales et aux marchés internationaux.",
+      "sources": [
+        {
+          "url": "https://cio-mag.com/intelligence-artificielle-en-afrique-fuite-des-talents-ou-recomposition-strategique/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "Anthropic refuse la demande du Pentagone de supprimer ses garde-fous IA",
+      "description": "Anthropic a refusé une demande du Pentagone visant à supprimer les garde-fous de son intelligence artificielle, soulignant son engagement envers l'éthique et la sécurité. Cette décision met en avant les tensions entre les préoccupations de défense nationale et les principes de conception responsables des technologies IA.",
+      "sources": [
+        {
+          "url": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/february/Anthropic-Refusal/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberattaques IA",
+      "titre": "Forte hausse des cyberattaques alimentées par l’IA, FortiGate particulièrement visée",
+      "description": "Une forte hausse des cyberattaques utilisant l'intelligence artificielle a été constatée, avec FortiGate en tant que cible principale. Cette augmentation met en lumière les défis croissants en matière de cybersécurité, appelant à des mesures renforcées pour protéger l'infrastructure numérique.",
+      "sources": [
+        {
+          "url": "https://www.integrity360.com/cyber-news-roundup-february-27th-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Emploi d’agents IA",
+      "titre": "G42 recrute aujourd’hui des agents IA pour ses fonctions internes",
+      "description": "G42 recrute désormais des agents d'intelligence artificielle pour remplir diverses fonctions internes, symbolisant une avancée dans l'intégration de l'IA au sein des opérations d'entreprise. Cette initiative reflète l'essor des technologies AI et leur potentiel à transformer les structures organisationnelles traditionnelles.",
+      "sources": [
+        {
+          "url": "https://www.g42.ai/resources/news/ai-agents-can-now-apply-jobs-g42",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
