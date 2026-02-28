@@ -1,0 +1,158 @@
+{
+  "date": "2026-02-28",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-02-28T17:17:53.990836+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Conflit État–entreprise / usages militaires",
+      "titre": "Le Pentagone rompt avec Anthropic et signe avec OpenAI",
+      "description": "Le Pentagone a mis fin à sa collaboration avec la société Anthropic, l'accusant de trahison, et a signé un nouvel accord avec OpenAI. Cette décision marque un tournant dans la gestion des partenariats technologiques du ministère de la Défense américain.",
+      "sources": [
+        {
+          "url": "https://www.7sur7.be/tech/le-pentagone-accuse-anthropic-de-trahison-et-signe-un-accord-avec-openai~a5e0dc7c/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Levé de fonds",
+      "titre": "OpenAI lève 110 milliards $",
+      "description": "OpenAI a réalisé une levée de fonds spectaculaire de 110 milliards de dollars, démontrant une confiance immense des investisseurs dans les capacités de l'entreprise. Cet afflux de capitaux devrait permettre à OpenAI d'accélérer ses projets en intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/weekend-buzz-28-february-1-march-2026-pk8vw7an",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.financialsamurai.com/newsletter-for-feb-28-2026-ppi-anthropic-openai-mass-layoffs/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Marchés financiers / risques système",
+      "titre": "Rapport Citrini suscite une tempête sur les marchés",
+      "description": "Le rapport Citrini a provoqué une grande agitation sur les marchés en soulignant les risques liés à l'intelligence artificielle. L'analyse a révélé des vulnérabilités de systèmes financiers influencées par des modèles IA, suscitant des inquiétudes parmi les investisseurs.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_2028_Artificial_Intelligence_Crisis",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.kq2.com/cnn-business-consumer/2026/02/28/the-week-when-ai-changed-everything/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés / dispositifs financiers",
+      "titre": "Block licencie 4 000 personnes, l’IA citée comme cause",
+      "description": "Le rapport Citrini a ébranlé les marchés financiers en mettant en lumière des problèmes critiques liés à l'intelligence artificielle. Ce document a déclenché des réactions en chaîne dans l'industrie financière, perturbant les stratégies d'investissement.",
+      "sources": [
+        {
+          "url": "https://www.kq2.com/cnn-business-consumer/2026/02/28/the-week-when-ai-changed-everything/",
+          "type": "primary"
+        },
+        {
+          "url": "https://mlq.ai/news/block-layoffs-fuel-ai-disruption-fears-in-software-sector/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture / divertissement",
+      "titre": "Macha Méril recrée la voix de Michel Legrand via IA",
+      "description": "Macha Méril a utilisé l'intelligence artificielle pour recréer la voix du compositeur Michel Legrand, une innovation technologique impressionnante. Cette réalisation montre les avancées significatives dans le domaine de la reconstitution vocale par l'IA.",
+      "sources": [
+        {
+          "url": "https://www.diverto.tv/actualites/tele/telematin-c-est-extraordinaire-macha-meril-recree-la-voix-de-michel-legrand-grace-a-l-ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Technologies éducatives / IA raisonnement",
+      "titre": "Metilience lance un moteur de raisonnement IA pour préparation LSAT",
+      "description": "Metilience a lancé un moteur de raisonnement basé sur l'intelligence artificielle pour aider à la préparation de l'examen LSAT. Le nouvel outil promet d'améliorer l'efficacité des stratégies d'apprentissage pour les candidats de cet examen.",
+      "sources": [
+        {
+          "url": "https://www.einpresswire.com/calendar/2026/02/28",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Performance sociétés tech",
+      "titre": "Nvidia profite du boom IA malgré le recul des ventes RTX",
+      "description": "Nvidia a bénéficié d'une augmentation significative de ses revenus liés à l'intelligence artificielle, malgré la baisse des ventes de ses cartes graphiques RTX. Cette stratégie diversifiée a permis à Nvidia de tirer parti du boom de l'IA pour compenser ce recul.",
+      "sources": [
+        {
+          "url": "https://s2pmag.ch/nvidia-les-revenus-ia-explosent-les-ventes-de-cartes-graphiques-rtx-reculent/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Predictions / géopolitique",
+      "titre": "Un modèle IA « Grok » avait prédit les frappes sur l’Iran",
+      "description": "Le modèle d'IA \"Grok\" a anticipé les frappes en Iran grâce à son analyse avancée de données complexes. Cette prédiction souligne la puissance croissante des technologies d'IA dans le domaine militaire.",
+      "sources": [
+        {
+          "url": "https://www.jpost.com/middle-east/iran-news/article-888274",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.yahoo.com/news/articles/elon-musk-factor-grok-predicted-135757635.html",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Usage intérieur / États-Unis",
+      "titre": "Trump demande l’arrêt immédiat de l’usage des technologies Anthropic",
+      "description": "Donald Trump a demandé l'arrêt immédiat de l'utilisation des technologies développées par Anthropic, évoquant des préoccupations majeures. Cette injonction reflète des tensions croissantes autour de la gouvernance et de la sécurité des innovations en IA.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/feb/28/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
