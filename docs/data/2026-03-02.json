@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-02",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-02T17:42:44.393960+00:00",
+  "items": [
+    {
+      "id": "1_Governance_Regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Protection des mineurs",
+      "titre": "Appel international lancé sur les usages de l’IA générative sur les mineurs",
+      "description": "À l’occasion de l’événement « Protéger les enfants à l’âge de l’IA » du 18 février 2026 à New Delhi, Anne Le Hénanff, ministre déléguée à l’IA et au Numérique, a lancé un appel international à contributions scientifiques visant à analyser les risques que l’IA générative fait peser sur les mineurs, dans le cadre de la présidence française du G7 ; les résultats viendront nourrir une commission d’experts et alimenter des recommandations sur la régulation et la protection de l’enfance en ligne. Les enjeux débattus portaient sur la responsabilité des concepteurs et des plateformes, les outils développés par la société civile et les fondations, ainsi que la nécessité d’instaurer des normes communes pour sécuriser l’usage de l’IA par et pour les enfants.",
+      "sources": [
+        {
+          "url": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/actualites-du-g7/article/effets-des-usages-de-l-ia-generative-sur-les-mineurs-lancement-d-un-appel",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
