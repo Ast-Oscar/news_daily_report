@@ -1,0 +1,142 @@
+{
+  "date": "2026-03-04",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-04T17:37:02.301816+00:00",
+  "items": [
+    {
+      "id": "1_aIA_Gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Droit d’auteur",
+      "titre": "Aux États‑Unis, la Cour suprême confirme qu’une création purement générée par IA ne peut pas être protégée par le copyright",
+      "description": "La Cour suprême des États-Unis a statué que les créations générées exclusivement par une intelligence artificielle ne pouvaient bénéficier de la protection du droit d'auteur. Cette décision repose sur le principe que le droit d'auteur nécessite une contribution humaine pour être applicable.",
+      "sources": [
+        {
+          "url": "https://www.01net.com/actualites/pas-dhumain-pas-de-copyright-aux-etats-unis-la-cour-supreme-exclut-les-ia-du-copyright.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_aIA_Economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat contenu – médias",
+      "titre": "Meta signe un accord jusqu’à 150 M $ avec News Corp pour alimenter ses IA en contenu",
+      "description": "Meta a conclu un accord de 150 millions de dollars avec News Corp pour l'utilisation de contenu dans le développement de ses intelligences artificielles. Cet accord vise à enrichir les modèles d'IA de Meta grâce à du contenu journalistique de qualité fourni par News Corp.",
+      "sources": [
+        {
+          "url": "https://siecledigital.fr/2026/03/04/meta-scelle-un-accord-ia-a-150-millions-avec-news-corp/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_aIA_Economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements publics France",
+      "titre": "La France lance l’appel à projets « Pionniers de l’IA », 10 M € attribués à 23 lauréats",
+      "description": "La France a lancé l'appel à projets « Pionniers de l'IA », attribuant un total de 10 millions d'euros à 23 lauréats pour encourager l'innovation dans le domaine de l'intelligence artificielle. Cet investissement vise à positionner le pays comme un leader en matière d'IA aux applications variées.",
+      "sources": [
+        {
+          "url": "https://www.techniques-ingenieur.fr/actualite/articles/la-france-soutient-financierement-les-pionniers-de-lia-156261/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_aIA_Economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Formation professionnelle",
+      "titre": "La University of Kentucky lance une formation en littératie IA pour son personnel",
+      "description": "L'Université du Kentucky lance un programme de formation en littératie IA destiné à son personnel enseignant et administratif. Ce cours vise à renforcer les compétences en intelligence artificielle au sein de l'établissement pour mieux intégrer ces technologies dans l'enseignement.",
+      "sources": [
+        {
+          "url": "https://uknow.uky.edu/campus-news/uk-alt-hub-launches-new-ai-literacy-course-faculty-and-staff",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_aIA_RSE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Égalité / inclusion",
+      "titre": "Tchad : formation « IA générative pour les femmes leaders » au CNOU",
+      "description": "Au Tchad, le Centre National d'Orientation Universitaire (CNOU) a organisé une formation intitulée « IA générative pour les femmes leaders ». Cette initiative vise à renforcer les compétences des femmes dans le domaine de l'intelligence artificielle, notamment dans ses applications génératives.",
+      "sources": [
+        {
+          "url": "https://tchadinfos.com/2026/03/04/senafet-les-femmes-du-cnou-outillees-en-intelligence-artificielle-generative/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_aIA_Industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie européenne",
+      "titre": "SAP estime que l’Europe peut se différencier via l’IA industrielle sectorielle",
+      "description": "SAP estime que l'Europe dispose d'une opportunité unique pour se démarquer globalement en utilisant l'IA appliquée à l'industrie et aux logiciels sectoriels. Cette stratégie permettrait à l'Europe de capitaliser sur ses atouts industriels en intégrant des solutions d'IA spécialisées.",
+      "sources": [
+        {
+          "url": "https://jai-un-pote-dans-la.com/europe-une-carte-a-jouer-applications-ia-industrie-logiciels-sap/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_aIA_Technique",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modèles – légèreté et fiabilité",
+      "titre": "OpenAI lance GPT‑5.3 Instant : moins d’hallucinations, plus de précision",
+      "description": "OpenAI a lancé GPT-5.3 Instant, une version qui améliore la précision et réduit les hallucinations par rapport aux précédentes itérations. Cette mise à jour vise à offrir des interactions plus fiables et précises avec l'utilisateur.",
+      "sources": [
+        {
+          "url": "https://fr.tradingview.com/news/cointribune%3A41ef1ad45b858%3A0/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_aIA_Defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité / fournisseurs",
+      "titre": "Lockheed Martin supprime les technologies IA d’Anthropic sur ordre du Pentagone",
+      "description": "Lockheed Martin a retiré les technologies d'IA d'Anthropic conformément à une directive du Pentagone. Cette décision s'inscrit dans un contexte de réévaluation des partenariats technologiques en matière de défense.",
+      "sources": [
+        {
+          "url": "https://thedailyrecord.com/2026/03/04/lockheed-defense-contractors-trump-ban-anthropic-ai/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9_aIA_Sante",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Imagerie médicale",
+      "titre": "FDA approuve « Claire » : système IA intra‑opératoire pour évaluer les marges du cancer du sein",
+      "description": "La FDA a approuvé « Claire », un système IA intra-opératoire destiné à évaluer les marges chirurgicales lors du traitement du cancer du sein. Cette approbation marque une avancée majeure dans l'amélioration des diagnostics en temps réel durant les interventions chirurgicales.",
+      "sources": [
+        {
+          "url": "https://www.targetedonc.com/view/fda-grants-premarket-approval-to-ai-enabled-system-for-breast-cancer-margin-assessment",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
