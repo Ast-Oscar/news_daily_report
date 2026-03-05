@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-05",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-05T18:47:34.270559+00:00",
+  "items": [
+    {
+      "id": "1‑gouvernance‑regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Rapport sécurité internationale",
+      "titre": "Publication de la deuxième édition du « International AI Safety Report »",
+      "description": "La deuxième édition du « International AI Safety Report » aborde les principaux enjeux de sécurité liés au développement et à l'implémentation de l'intelligence artificielle. Le rapport met l'accent sur la nécessité d'intégrer des mesures de sûreté à toutes les étapes de développement des technologies IA pour minimiser les risques.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/International_AI_Safety_Report",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2‑gouvernance‑regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation d'État, Etats‑Unis",
+      "titre": "Entrée en vigueur de la Texas Responsible Artificial Intelligence Governance Act (TRAIGA)",
+      "description": "La Texas Responsible Artificial Intelligence Governance Act (TRAIGA) est entrée en vigueur, établissant des règlements stricts pour l'utilisation responsable de l'intelligence artificielle au Texas. Cette loi vise à garantir que les systèmes d'IA utilisés dans l'État respectent des normes éthiques et transparentes pour protéger les citoyens.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TRAIGA",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3‑economie‑industrie‑investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements mondiaux",
+      "titre": "Les investissements mondiaux en IA devraient atteindre 571 milliards € en 2026",
+      "description": "Les investissements mondiaux en intelligence artificielle devraient atteindre 571 milliards d'euros d'ici 2026, selon les prévisions. Ce boom économique est attribué à l'augmentation rapide de l'adoption de technologies IA dans divers secteurs industriels pour améliorer l'efficacité et l'innovation.",
+      "sources": [
+        {
+          "url": "https://fr.finance.yahoo.com/actualites/l-ia-peut-propulser-march%C3%A9-142350905.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4‑sante‑science‑recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche sécurité IA",
+      "titre": "Nouvelle standardisation machine‑readable pour la gouvernance des IA à haut risque (ADAS)",
+      "description": "La nouvelle standardisation machine-readable pour la gouvernance des IA à haut risque, connue sous le nom d'ADAS, vise à créer des protocoles uniformisés pour gérer ces technologies. Cette norme facilite l'évaluation et la réduction des risques inhérents aux applications d'IA susceptibles d'impacter significativement la société.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.08869",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5‑defense‑geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sommet international",
+      "titre": "Clôture du India AI Impact Summit 2026 à New Delhi",
+      "description": "Le India AI Impact Summit 2026 s'est clôturé à New Delhi, rassemblant des leaders du secteur pour discuter des implications économiques et sociales de l'IA en Inde. L'événement a souligné l'importance de développer des politiques alignées sur la croissance rapide et l'impact potentiel de ces technologies sur le pays.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
