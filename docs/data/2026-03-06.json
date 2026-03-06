@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-06",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-06T17:32:31.042975+00:00",
+  "items": [
+    {
+      "id": "1_AI_evaluation_pedagogique_OpenAI",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Éducation / Apprentissage",
+      "titre": "OpenAI lance un cadre d’évaluation des effets de ChatGPT sur l’apprentissage à long terme",
+      "description": "Alibaba a publié une série de modèles d’IA compacts et open source dotés de capacités avancées en raisonnement et multimodalité, tout en étant conçus pour fonctionner efficacement sur des ressources matérielles réduites.",
+      "sources": [
+        {
+          "url": "https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-the-past-week",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Alibaba_modeles_ouverts",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèles open source",
+      "titre": "Alibaba publie des modèles d’IA compacts et open source aux capacités avancées",
+      "description": "Alibaba a publié une série de modèles d’IA compacts et open source dotés de capacités avancées en raisonnement et multimodalité, tout en étant conçus pour fonctionner efficacement sur des ressources matérielles réduites.",
+      "sources": [
+        {
+          "url": "https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-the-past-week",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
