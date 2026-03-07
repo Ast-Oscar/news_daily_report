@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-07",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-07T17:18:54.583713+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sécurité & Gouvernance",
+      "titre": "Publication de l’AI Weekly Update par le Boston Institute of Analytics",
+      "description": "Le Boston Institute of Analytics a publié son AI Weekly Update, mettant en avant les percées récentes et les tendances du secteur de l'IA du 28 février au 6 mars 2026. Le rapport souligne les avancées en intelligence artificielle générative et agentique, reflétant l'état actuel des innovations et développements.",
+      "sources": [
+        {
+          "url": "https://bostoninstituteofanalytics.org/blog/generative-ai-agentic-ai-weekly-update-28-feb-6-mar-2026-latest-news-breakthroughs-industry-trends/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA industrielle",
+      "titre": "Boom des robots Physical AI en opérations réelles selon NVIDIA",
+      "description": "Des robots humanoïdes ont commencé à être déployés dans l'industrie automobile en Allemagne, marquant un tournant vers l'automatisation avancée du secteur. Ces robots sont censés améliorer l'efficacité des lignes de production tout en offrant des solutions innovantes aux problématiques industrielles.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/weekly-market-intelligence-bulletin-edition-march-06-13-stefan-xhunga-78qqf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Éducation IA",
+      "titre": "Lancement attendu d’un cours master IA global aujourd’hui",
+      "description": "Le lancement d'un master IA ouvert au grand public débute aujourd'hui, permettant à un public large d'acquérir des compétences en intelligence artificielle. Ce cours est conçu pour démocratiser l'accès à une formation spécialisée, répondant à un besoin croissant de professionnels formés dans ce secteur.",
+      "sources": [
+        {
+          "url": "https://www.greatandhra.com/articles/news/ai-master-course-starting-from-sat-mar-7-2026-153110",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "GPT‑5.4 intègre un cadre de cybersécurité renforcé",
+      "description": "La version GPT-5.4 a introduit un cadre de cybersécurité amélioré, augmentant la sécurité des applications s'appuyant sur cette technologie. Cette mise à jour est cruciale pour protéger les données sensibles et renforcer la confiance des utilisateurs.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-digest-march-6-2026-edward-wong-ndqrc",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Applications IA physiques",
+      "titre": "Robots humanoïdes déployés dans l’industrie automobile en Allemagne",
+      "description": "Des robots humanoïdes ont commencé à être déployés dans l'industrie automobile en Allemagne, marquant un tournant vers l'automatisation avancée du secteur. Ces robots sont censés améliorer l'efficacité des lignes de production tout en offrant des solutions innovantes aux problématiques industrielles.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/weekly-market-intelligence-bulletin-edition-march-06-13-stefan-xhunga-78qqf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Entry-level formation",
+      "titre": "Formation ouverte au grand public : master IA dès aujourd’hui",
+      "description": "Le lancement d'un master IA ouvert au grand public débute aujourd'hui, permettant à un public large d'acquérir des compétences en intelligence artificielle. Ce cours est conçu pour démocratiser l'accès à une formation spécialisée, répondant à un besoin croissant de professionnels formés dans ce secteur.",
+      "sources": [
+        {
+          "url": "https://www.greatandhra.com/articles/news/ai-master-course-starting-from-sat-mar-7-2026-153110",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
