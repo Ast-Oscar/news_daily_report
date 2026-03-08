@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-08",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-08T17:20:40.555251+00:00",
+  "items": [
+    {
+      "id": "1-Gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Rapports scientifiques",
+      "titre": "Lancement du rapport « AI+HW 2035 : Shaping the Next Decade »",
+      "description": "Le rapport « AI+HW 2035 : Shaping the Next Decade » explore l'évolution future de l'intelligence artificielle et du matériel technologique jusqu'en 2035. Il présente des projections sur les avancées potentielles des technologies intégrant IA et matériel, visant à transformer divers secteurs industriels.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2603.05225",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-Economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements privés",
+      "titre": "Dyna.Ai lève une série A pour accélérer l’IA agentique en finance",
+      "description": "GPT-5.4 inclut désormais un cadre de cybersécurité visant à protéger contre les menaces potentielles liées à son utilisation. Ce cadre renforce les mesures de sécurité pour limiter les abus et sécuriser les interactions avec le modèle.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-digest-march-6-2026-edward-wong-ndqrc",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Technologies éducatives",
+      "titre": "OpenAI lance GPT‑5.4 avec volet pédagogique et sécurité renforcée",
+      "description": "GPT-5.4 inclut désormais un cadre de cybersécurité visant à protéger contre les menaces potentielles liées à son utilisation. Ce cadre renforce les mesures de sécurité pour limiter les abus et sécuriser les interactions avec le modèle.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-digest-march-6-2026-edward-wong-ndqrc",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-Cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité intégrée",
+      "titre": "Intégration d’un cadre de cybersécurité dans GPT‑5.4",
+      "description": "GPT-5.4 inclut désormais un cadre de cybersécurité visant à protéger contre les menaces potentielles liées à son utilisation. Ce cadre renforce les mesures de sécurité pour limiter les abus et sécuriser les interactions avec le modèle.",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/ai-digest-march-6-2026-edward-wong-ndqrc",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-Defence",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure et agents autonomes",
+      "titre": "Modèle de prévision des saturations d’infrastructure face à l’explosion des agents IA",
+      "description": "Un nouveau modèle de prévision analyse la saturation des infrastructures face à la prolifération des agents d'intelligence artificielle. Cette approche vise à anticiper et gérer les limitations des infrastructures pour maintenir l'efficacité des systèmes IA.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2511.07265",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
