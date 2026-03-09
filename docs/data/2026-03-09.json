@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-09",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-09T17:45:08.734946+00:00",
+  "items": [
+    {
+      "id": "eco_investissements_jpmorgan",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements",
+      "titre": "JPMorgan intensifie ses investissements en IA",
+      "description": "MIT présente AlterEgo, appareil de « télépathie » silencieuse — Le MIT dévoile AlterEgo, un dispositif portable qui capte les signaux neuromusculaires de la mâchoire et du visage pour interpréter la pensée intérieure, permettant une communication « télépathique » avec des systèmes informatiques ou d’intelligence artificielle, sans articulation vocale ([aiforum.org.uk](https://aiforum.org.uk/ai-news-roundup-march-09-2026/))",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/ai-news-roundup-march-09-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_surveillance_pentagone_anthropic",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Surveillance et sécurité",
+      "titre": "Débat relancé sur l’usage de l’IA par le Pentagone pour surveiller les Américains",
+      "description": "MIT présente AlterEgo, appareil de « télépathie » silencieuse — Le MIT dévoile AlterEgo, un dispositif portable qui capte les signaux neuromusculaires de la mâchoire et du visage pour interpréter la pensée intérieure, permettant une communication « télépathique » avec des systèmes informatiques ou d’intelligence artificielle, sans articulation vocale ([aiforum.org.uk](https://aiforum.org.uk/ai-news-roundup-march-09-2026/))",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/ai-news-roundup-march-09-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_modeles_openai_gtp5_4",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Technologie",
+      "titre": "OpenAI lance GTP‑5.4 avec capacités natives d’usage informatique",
+      "description": "MIT présente AlterEgo, appareil de « télépathie » silencieuse — Le MIT dévoile AlterEgo, un dispositif portable qui capte les signaux neuromusculaires de la mâchoire et du visage pour interpréter la pensée intérieure, permettant une communication « télépathique » avec des systèmes informatiques ou d’intelligence artificielle, sans articulation vocale ([aiforum.org.uk](https://aiforum.org.uk/ai-news-roundup-march-09-2026/))",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/ai-news-roundup-march-09-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "sante_science_mit_alterego",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Interfaces cerveau-machine",
+      "titre": "MIT présente AlterEgo, appareil de « télépathie » silencieuse",
+      "description": "MIT présente AlterEgo, appareil de « télépathie » silencieuse — Le MIT dévoile AlterEgo, un dispositif portable qui capte les signaux neuromusculaires de la mâchoire et du visage pour interpréter la pensée intérieure, permettant une communication « télépathique » avec des systèmes informatiques ou d’intelligence artificielle, sans articulation vocale ([aiforum.org.uk](https://aiforum.org.uk/ai-news-roundup-march-09-2026/))",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/ai-news-roundup-march-09-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
