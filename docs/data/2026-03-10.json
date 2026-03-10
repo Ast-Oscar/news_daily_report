@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-10",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-10T17:43:48.494939+00:00",
+  "items": [
+    {
+      "id": "ia_financement_lecun",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement & recherche fondamentales",
+      "titre": "AMI Labs (Yann LeCun) lève 1,03 milliard $ pour développer des « world models »",
+      "description": "AMI Labs, dirigée par Yann LeCun, a levé 1,03 milliard de dollars pour développer des 'world models'. Ces modèles sont conçus pour simuler et prédire des environnements complexes, visant à améliorer l'intelligence artificielle générale.",
+      "sources": [
+        {
+          "url": "https://skynetcountdown.com/news/2026-03-10",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_gouvernance_anthropic",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Juridique & Etats",
+      "titre": "Anthropic porte plainte contre le Pentagone pour contester son blacklisting",
+      "description": "Apple annonce le lancement du MacBook Air M5, une machine dotée de capacités optimisées pour l'intelligence artificielle. Cette nouvelle version sera disponible dès demain, offrant une performance accrue pour des applications AI-friendly.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/%40ai-news-daily/ai-news-daily-march-10-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_developpeurs_anthropic",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Outils pour développeurs",
+      "titre": "Anthropic lance un système multi‑agent de revue de code (Claude Code)",
+      "description": "Apple annonce le lancement du MacBook Air M5, une machine dotée de capacités optimisées pour l'intelligence artificielle. Cette nouvelle version sera disponible dès demain, offrant une performance accrue pour des applications AI-friendly.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/%40ai-news-daily/ai-news-daily-march-10-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_hardware_apple",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Matériel & appareils",
+      "titre": "MacBook Air M5 (Apple) : nouvelle machine AI‑friendly dès demain",
+      "description": "Apple annonce le lancement du MacBook Air M5, une machine dotée de capacités optimisées pour l'intelligence artificielle. Cette nouvelle version sera disponible dès demain, offrant une performance accrue pour des applications AI-friendly.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/%40ai-news-daily/ai-news-daily-march-10-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_protection_meta",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité & confidentialité",
+      "titre": "Meta met au point une protection anti‑malware IA compatible avec le chiffrement de Messenger",
+      "description": "OpenAI a acquis Promptfoo, une startup spécialisée dans les tests de sécurité pour l'intelligence artificielle. Cette acquisition devrait renforcer la capacité d'OpenAI à sécuriser ses modèles contre diverses vulnérabilités.",
+      "sources": [
+        {
+          "url": "https://dailyaidigest.net/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_openai_promptfoo",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité & vulnérabilités",
+      "titre": "OpenAI acquiert Promptfoo, startup spécialisée en tests de sécurité pour IA",
+      "description": "OpenAI a acquis Promptfoo, une startup spécialisée dans les tests de sécurité pour l'intelligence artificielle. Cette acquisition devrait renforcer la capacité d'OpenAI à sécuriser ses modèles contre diverses vulnérabilités.",
+      "sources": [
+        {
+          "url": "https://dailyaidigest.net/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_gabon_jia",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Événement & coopération",
+      "titre": "Le Gabon accueillera les Journées de l’intelligence artificielle (JIA) du 8 au 10 avril",
+      "description": "Le Gabon accueillera les Journées de l'intelligence artificielle du 8 au 10 avril, un événement majeur qui réunira des experts en technologie et en innovation. Ces journées visent à promouvoir le développement de l'IA en Afrique et à encourager les partenariats internationaux.",
+      "sources": [
+        {
+          "url": "https://www.gabonreview.com/ia-et-innovation-libreville-va-abriter-les-journees-de-lintelligence-artificielle-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_conference_agentic_defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité nationale & agents autonomes",
+      "titre": "Conférence ACG NEXT (USA) aujourd’hui sur l’impact des systèmes IA agents en défense",
+      "description": "La conférence ACG NEXT aux États-Unis se tiendra aujourd'hui pour discuter de l'impact des systèmes IA agents dans le secteur de la défense. Des experts se pencheront sur les implications stratégiques et sécuritaires de ces technologies émergentes.",
+      "sources": [
+        {
+          "url": "https://www.acg.org/sites/default/files/2026-02/GRVTY_ACG%20NXT%20Final.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
