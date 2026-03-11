@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-11",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-11T17:46:44.792264+00:00",
+  "items": [
+    {
+      "id": "gouvernance-luxembourg",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance nationale",
+      "titre": "Le Luxembourg organise une réunion trilatérale sur l’IA",
+      "description": "Le Luxembourg a organisé une réunion trilatérale consacrée à l'intelligence artificielle, réunissant des représentants spécialisés de différents pays. L'objectif de la réunion était d'échanger sur les innovations technologiques et de renforcer la coopération internationale dans le domaine de l'IA.",
+      "sources": [
+        {
+          "url": "https://gouvernement.lu/fr/actualites/agenda/2026/03-mars/12-gouvernement-ki-desch.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie-mistral-ai",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "Mistral AI annonce un méga-investissement en Suède",
+      "description": "Mistral AI a annoncé un investissement majeur en Suède pour le développement de ses capacités technologiques. Cette décision vise à renforcer la position de l'entreprise sur le marché européen grâce à des avancées en intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mistral_AI",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "productivite-google-gemini",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Applications IA",
+      "titre": "Gemini déployé au cœur des documents Google",
+      "description": "Google a intégré Gemini au cœur de ses services de documents, facilitant l'utilisation de l'IA dans la gestion et la création de contenu. Ce déploiement vise à optimiser l'expérience utilisateur grâce à des fonctionnalités avancées d'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.zdnet.fr/actualites/zdnet-morning-11-03-2026-gemini-au-coeur-de-vos-documents-google-roaming-le-piege-a-50-000-euros-une-microsd-qui-survit-a-20-000-heures-de-stress-491606.htm",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "etatsunis-sondage-ia",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Opinions publiques",
+      "titre": "Usage en hausse de l’IA aux États‑Unis malgré la défiance",
+      "description": "L'utilisation de l'intelligence artificielle progresse aux États-Unis, même si la méfiance envers ces technologies reste prédominante parmi la population. Les secteurs privés continuent d'intégrer ces outils pour améliorer l'efficacité opérationnelle malgré les préoccupations sur l'éthique et la sécurité.",
+      "sources": [
+        {
+          "url": "https://www.cointribune.com/lusage-de-lia-progresse-aux-etats-unis-mais-la-defiance-reste-majoritaire/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "rse-vatican-seminaire",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture / formation",
+      "titre": "Séminaire en ligne du Vatican : IA pour l’animation missionnaire",
+      "description": "Le Vatican a organisé un séminaire en ligne pour discuter de l'utilisation de l'intelligence artificielle dans l'animation missionnaire. L'événement a exploré comment l'IA peut soutenir la formation et l'expansion des missions ecclésiastiques à l'ère numérique.",
+      "sources": [
+        {
+          "url": "https://www.fides.org/fr/news/77447-VATICAN_Animation_et_formation_missionnaire_a_l_ere_de_l_intelligence_artificielle_seminaire_en_ligne_le_11_mars",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cyber-west-data-festival",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "Conférence : renforcer la fiabilité des IA génératives",
+      "description": "Une conférence a été tenue pour discuter du renforcement de la fiabilité des systèmes d'intelligence artificielle générative. Les experts ont exploré diverses approches pour assurer la robustesse et la confiance dans ces technologies émergentes.",
+      "sources": [
+        {
+          "url": "https://www.westdatafestival.fr/wp-content/uploads/2026/03/Programme.PDF.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "sante-compass-ai",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "IA en santé",
+      "titre": "COMPASS AI : consultation UE sur l’IA en santé jusqu’au 11 mars",
+      "description": "La Commission européenne a lancé une consultation sur l'utilisation de l'intelligence artificielle dans le secteur de la santé, accessible jusqu'au 11 mars. Cette initiative a pour but de recueillir des avis sur l'impact potentiel de l'IA sur les soins de santé et d'élaborer des réglementations adaptées.",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=COM:2025:835:FIN",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.unms-cfecgc.org/storage/2026/01/Veille-novembre-decembre-2025.pdf",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
