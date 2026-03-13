@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-13T17:32:55.392378+00:00",
+  "items": [
+    {
+      "id": "IA1_Cybersecurite_Risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Lancement retardé d’un modèle d’IA par Meta",
+      "titre": "Meta reporte le lancement prévu à mi‑mars de son nouveau modèle d’IA",
+      "description": "Selon un message publié aujourd’hui, Meta a repoussé au moins à mai le lancement de son nouveau modèle d’intelligence artificielle, initialement prévu pour mi‑mars, afin de procéder à des ajustements supplémentaires.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1rsfy98/meta_retarde_le_lancement_dun_nouveau_mod%C3%A8le/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    }
+  ],
+  "meta": {}
+}
