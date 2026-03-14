@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-14T17:24:42.828333+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sécurité & Gouvernance de l’IA",
+      "titre": "Le Texas applique sa loi TRAIGA sur la gouvernance de l’IA depuis le 1er janvier 2026",
+      "description": "La loi TRAIGA du Texas, en vigueur depuis le 1er janvier 2026, impose un cadre réglementaire strict pour gouverner l'intelligence artificielle. Cette législation vise à garantir l'éthique et la transparence dans le développement et l'utilisation des technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TRAIGA",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Capex hyperscalers IA",
+      "titre": "Hyperscalers (Alphabet, Amazon, Microsoft) projettent 495 milliards USD de capex en 2026, majoritairement pour l’IA",
+      "description": "En 2026, les hyperscalers Alphabet, Amazon et Microsoft prévoient d'investir 495 milliards USD principalement dans le domaine de l'intelligence artificielle. Cet investissement massif reflète leur stratégie d'expansion et de domination technologique, avec un focus sur l'amélioration des capacités IA.",
+      "sources": [
+        {
+          "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/hyperscaler-earnings-quarterly-what-price-inference",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité opérationnelle de l’IA",
+      "titre": "F5 renforce son soutien au cadre ARMOR pour sécuriser les déploiements d’IA",
+      "description": "F5 a renforcé son soutien au cadre ARMOR pour améliorer la sécurité des déploiements d'IA dans les entreprises. Cette initiative vise à protéger mieux les systèmes IA contre les cybermenaces et à garantir l'intégrité des données.",
+      "sources": [
+        {
+          "url": "https://www.businesswire.com/news/home/20260303147551/en/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Infrastructure IA pour la recherche",
+      "titre": "CoreWeave lance ARENA, un laboratoire pour évaluer la performance IA à l’échelle production",
+      "description": "CoreWeave a lancé ARENA, un laboratoire dédié à tester et évaluer la performance des applications d'intelligence artificielle à une échelle de production. Ce laboratoire offre un environnement contrôlé pour simuler des charges de travail complexes et optimiser les performances IA.",
+      "sources": [
+        {
+          "url": "https://www.businesswire.com/news/home/20260205676969/en/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Genre et reconnaissance historique en IA",
+      "titre": "Alice Recoque, pionnière française de l’IA, parmi les femmes retenues pour figurer sur la tour Eiffel",
+      "description": "Alice Recoque, pionnière de l'informatique et de l'intelligence artificielle en France, est honorée en étant choisie pour figurer sur la tour Eiffel. Elle est reconnue pour ses contributions significatives au développement des systèmes informatiques en France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alice_Recoque",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Interopérabilité réglementaire IA",
+      "titre": "Rapport propose une approche nuancée de l’ouverture des modèles IA (open-weight)",
+      "description": "Un rapport propose une approche nuancée pour l'ouverture des modèles d'intelligence artificielle, en mettant l'accent sur des \"poids ouverts\". Cette perspective vise à équilibrer l'innovation avec la sécurité et la confidentialité dans le partage des ressources IA.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.19682",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
