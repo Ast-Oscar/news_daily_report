@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-15T17:24:42.414493+00:00",
+  "items": [
+    {
+      "id": "1-Vietnam-AI-law",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale",
+      "titre": "Entrée en vigueur de la première loi sur l’IA au Vietnam",
+      "description": "Le Vietnam met en œuvre sa première loi sur l'intelligence artificielle, visant à réglementer l'utilisation et le développement de cette technologie dans le pays. Cette législation fait partie d'un ensemble de six nouvelles lois entrées en vigueur, marquant un changement important dans le cadre juridique vietnamien.",
+      "sources": [
+        {
+          "url": "https://vietnamlawmagazine.vn/six-new-laws-take-effect-on-march-1-78835.html",
+          "type": "primary"
+        },
+        {
+          "url": "https://vietnam-briefing.com/news/vietnams-ai-law-regulatory-milestone-business-implications.html/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
