@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-16T17:58:06.401825+00:00",
+  "items": [
+    {
+      "id": "1–IA_POLITIQUE_US_superPAC",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Influence politique",
+      "titre": "Anthropic finance un super PAC pour faire avancer la régulation de l’IA aux États‑Unis",
+      "description": "Anthropic a lancé un super PAC, intitulé 'Public First Action', afin de soutenir la régulation de l'intelligence artificielle aux États-Unis. Cette initiative vise à influencer les politiques publiques et à garantir un développement sécurisé et éthique des technologies de l'IA.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Public_First_Action",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2–IA_REGULATION_ETATS_US_COLORADO",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation étatique",
+      "titre": "Le Colorado se prépare à l’entrée en vigueur de sa loi sur l’IA en juin 2026",
+      "description": "Le Colorado se prépare à mettre en œuvre une nouvelle loi sur l'intelligence artificielle qui entrera en vigueur en juin 2026. Cette législation obligera les entreprises à se conformer à des normes strictes concernant l'utilisation éthique et sécurisée de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/SaaS/comments/1ro54t7/the_ai_compliance_deadline_everyone_is_ignoring/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "3–IA_INTEROPERABILITE",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Recherche & standards",
+      "titre": "Publication d’un rapport sur l’interopérabilité technique et réglementaire de l’IA",
+      "description": "Un nouveau rapport a été publié sur l'interopérabilité technique et réglementaire de l'intelligence artificielle, soulignant les défis et les opportunités dans ce domaine. Le document analyse les pratiques actuelles et propose des recommandations pour améliorer la collaboration entre différentes juridictions et standards technologiques.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.14512",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
