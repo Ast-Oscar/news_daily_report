@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-17",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-17T17:55:47.050311+00:00",
+  "items": [
+    {
+      "id": "IA-Cybersecurite-2026fr",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Menaces IA malveillantes",
+      "titre": "L’IA identifiée comme principale menace en cybersécurité pour 2026",
+      "description": "Les experts en cybersécurité prévoient que l'intelligence artificielle deviendra la principale menace d'ici 2026, avec des capacités accrues pour contourner les mesures de sécurité existantes. La montée en puissance des technologies d'IA permettrait aux cybercriminels de lancer des attaques plus sophistiquées et automatisées.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1pvzydk/cybers%C3%A9curit%C3%A9_ce_%C3%A0_quoi_il_faut_sattendre_pour/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "IA-Industrie-Meta",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Développement de modèles IA",
+      "titre": "Meta reporte le lancement de son nouveau modèle IA",
+      "description": "Meta a annoncé qu'elle reportait le lancement de son nouveau modèle d'IA en raison de la nécessité d'améliorations supplémentaires pour garantir la sécurité et l'efficacité. Ce retard montre l'importance croissante accordée à la précision et à l'éthique dans le développement des technologies d'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1rsfy98/meta_retarde_le_lancement_dun_nouveau_mod%C3%A8le/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
