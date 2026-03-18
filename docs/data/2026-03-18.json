@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-18",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-18T17:59:06.114059+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation nationale",
+      "titre": "Le Vietnam : entrée en vigueur de la loi sur l’intelligence artificielle",
+      "description": "La loi sur l'intelligence artificielle au Vietnam est entrée en vigueur le 1er mars. Cette législation vise à réguler le développement et l'application de l'IA tout en garantissant sa conformité avec les normes éthiques et la protection des données.",
+      "sources": [
+        {
+          "url": "https://www.vietnam.vn/fr/luat-tri-tue-nhan-tao-chinh-thuc-co-hieu-luc-tu-1-3",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_investissement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Levée de fonds",
+      "titre": "Levée de fonds de 890 millions d’euros pour une start‑up d’IA française fondée par Yann Le Cun",
+      "description": "La start-up française d'intelligence artificielle fondée par Yann Le Cun a réussi à lever 890 millions d’euros lors de son dernier tour de financement. Cet investissement vise à soutenir l'expansion des projets de recherche et développement en IA.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/vosfinances/comments/1rqmu00/yann_le_cun_l%C3%A8ve_900_millions_deuros_pour_sa/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "3_rse_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Pas d’actualité aujourd’hui",
+      "titre": "Aucune actualité RSE / Société / Culture liée à l’IA identifiée aujourd’hui.",
+      "description": "Aucune information fraîche publiée le 18 mars 2026 concernant l’intersection IA / responsabilité sociale, société ou culture n’a été trouvée.",
+      "sources": [
+        {
+          "url": "N/A – aucune source datée du 18 mars 2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Recherche / Vulnérabilité",
+      "titre": "Avancées dans l’évaluation des agents IA sur des scénarios d’attaques cyber multi‑étapes",
+      "description": "De nouvelles avancées ont été réalisées dans l'évaluation des agents d'intelligence artificielle sur des scénarios d'attaques cyber multi-étapes. Ces travaux permettent de mieux comprendre et anticiper les comportements des IA face à des menaces complexes en cybersécurité.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2603.11214",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Pas d’actualité aujourd’hui",
+      "titre": "Aucune actualité Santé / Science / Recherche liée à l’IA identifiée aujourd’hui.",
+      "description": "Aucune information fraîche publiée le 18 mars 2026 concernant l’IA appliquée à la santé, la science ou la recherche n’a été trouvée.",
+      "sources": [
+        {
+          "url": "N/A – aucune source datée du 18 mars 2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Pas d’actualité aujourd’hui",
+      "titre": "Aucune actualité Défense / Géopolitique / Souveraineté liée à l’IA identifiée aujourd’hui.",
+      "description": "Aucune information fraîche publiée le 18 mars 2026 concernant l’IA dans le domaine de la défense, géopolitique ou souveraineté n’a été trouvée.",
+      "sources": [
+        {
+          "url": "N/A – aucune source datée du 18 mars 2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
