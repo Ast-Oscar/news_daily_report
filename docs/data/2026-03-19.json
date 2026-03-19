@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-19",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-19T17:51:53.450813+00:00",
+  "items": [
+    {
+      "id": "emploi_menaces_france",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Emploi",
+      "titre": "L’IA menace 5 millions de salariés en France selon une étude",
+      "description": "Une étude conjointe de Coface et de l’Observatoire des emplois menacés et émergents indique qu’aujourd’hui 3,8 % des emplois sont fragilisés par l’IA générative, mais que ce chiffre pourrait atteindre 16,3 % d’ici 2 à 5 ans, soit environ cinq millions de salariés concernés. Les secteurs les plus vulnérables incluent l’architecture/ingénierie, les sciences informatiques/mathématiques, les arts/design/médias ainsi que l’administratif et le juridique, tandis que les métiers peu ou moyennement rémunérés comme le nettoyage, la restauration ou l’agriculture semblent moins exposés, avec seulement 5 % à 8 % de risque. Plusieurs chercheurs (Palier, Verdugo) relativisent toutefois ces projections en soulignant que l’adoption de l’IA reste pour l’instant très faible en France et que les discours alarmistes sont en partie portés par les promoteurs de cette technologie.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/conseilboulot/comments/1rxu456/lia_est_une_menace_pour_5_millions_de_salari%C3%A9s_en/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    }
+  ],
+  "meta": {}
+}
