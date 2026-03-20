@@ -1,0 +1,42 @@
+{
+  "date": "2026-03-20",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-20T17:33:53.755512+00:00",
+  "items": [
+    {
+      "id": "ia_gouvernance_usa",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Cadre législatif fédéral (États-Unis)",
+      "titre": "La Maison‑Blanche publie un cadre législatif fédéral pour l’IA",
+      "description": "La Maison-Blanche a dévoilé un cadre législatif destiné à réguler l'intelligence artificielle à l'échelle fédérale, visant à assurer la transparence et la responsabilité des systèmes d'IA. Ce cadre inclut des directives sur la protection des données personnelles et les biais algorithmiques afin de garantir une utilisation éthique et sécurisée de l'IA.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/479eb3d0a50fe7237678a9bfb146ac7a",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_science_recherche_workshop_tom",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche fondamentale (Théorie de l’esprit)",
+      "titre": "Publication des actes du 2e atelier Theory of Mind et IA",
+      "description": "Les actes du deuxième atelier Theory of Mind et IA ont été publiés, explorant les avancées dans la capacité des intelligences artificielles à comprendre et prédire les états mentaux des humains. Ces recherches soulignent les défis et les opportunités dans l'intégration de la théorie de l'esprit au sein des systèmes d'IA pour améliorer leur interaction avec les utilisateurs.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2603.18786",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
