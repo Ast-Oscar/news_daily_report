@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-21",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-21T17:23:06.214702+00:00",
+  "items": [
+    {
+      "id": "1-meta-lancement_avocado",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie / Modèles IA",
+      "titre": "Meta reporte le lancement de son modèle Avocado",
+      "description": "Meta a annoncé que le lancement du modèle d’IA générative « Avocado », initialement prévu à la mi-mars 2026, est repoussé d’au moins deux mois, soit vers mai 2026, en raison de performances jugées insuffisantes.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1rsfy98/meta_retarde_le_lancement_dun_nouveau_mod%C3%A8le/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "2-mistral_armées",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Défense / Partenariats",
+      "titre": "Mistral AI signe un accord-cadre avec le ministère des Armées français",
+      "description": "L’agence ministérielle de l’intelligence artificielle de défense (AMIAD) a signé le 8 janvier 2026 un accord‑cadre avec Mistral AI pour garantir la souveraineté technologique de la défense française. Cet accord facilite l’accès des armées, du CEA et de l’Onera aux services d’IA générative hébergés en France, pour des usages allant de la traduction à l’analyse documentaire, en passant par l’aide au guidage des obus et la guerre acoustique.",
+      "sources": [
+        {
+          "url": "https://www.lejdd.fr/Societe/defense-mistral-ai-signe-un-partenariat-avec-le-ministere-des-armees-165725",
+          "type": "secondary"
+        },
+        {
+          "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/Communiqu%C3%A9_A_le%20minist%C3%A8re%20des%20Arm%C3%A9es%20et%20des%20Anciens%20combattants%20notifie%20un%20accord-cadre%20%C3%A0%20Mistral%20AI%20pour%20renforcer%20la%20souverainet%C3%A9%20technologique%20de%20la%20d%C3%A9fense.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberattaques / Défenses IA",
+      "titre": "Nouvel état des lieux des menaces IA en cybersécurité",
+      "description": "Cette étude récente (soumise le 6 janvier 2026) dresse un état des lieux des menaces émergentes en cybersécurité liées à l’IA — deepfakes, attaques adversariales, maliciels automatisés et ingénierie sociale assistée par IA —, en proposant une taxonomie des risques et des stratégies défensives. Elle souligne l’urgence de développer des systèmes de défense explicables, multidisciplinaires et conformes aux régulations pour préserver la confiance dans les écosystèmes numériques.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.03304",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
