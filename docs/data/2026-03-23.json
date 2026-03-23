@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-23",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-23T17:50:16.836788+00:00",
+  "items": [
+    {
+      "id": "GOUVERNANCE_REGULATION_EVALUATION_001",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation fédérale États-Unis",
+      "titre": "Cadre politique national sur l’IA dévoilé à la Maison-Blanche",
+      "description": "La Maison-Blanche a révélé un cadre législatif national sur l'intelligence artificielle visant à renforcer l'innovation et la compétitivité des États-Unis dans le domaine de l'IA. Ce plan met l'accent sur l'investissement dans la recherche, la formation de la main-d'œuvre et le développement de partenariats public-privé.",
+      "sources": [
+        {
+          "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS_002",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Analyse financière",
+      "titre": "Morgan Stanley prévient d’une percée transformative imminente en IA",
+      "description": "Le 13 mars 2026, Morgan Stanley a mis en garde contre une avancée majeure de l’IA dans la première moitié de 2026, alimentée par une accumulation sans précédent de puissance de calcul dans les principaux laboratoires américains, et souligne que le monde n’y est pas prêt.",
+      "sources": [
+        {
+          "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026//",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
