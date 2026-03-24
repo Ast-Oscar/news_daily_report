@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-24",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-24T17:54:13.340432+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Étude Impact Emploi",
+      "titre": "L’IA menace 5 millions d’emplois en France d’ici à 2030",
+      "description": "D'ici 2030, l'intelligence artificielle pourrait menacer jusqu'à 5 millions d'emplois en France selon des études. Les secteurs les plus touchés seraient ceux de l'industrie manufacturière, de la comptabilité et de l'administration.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1s1p60y/lia_menace_5_millions_demplois_en_france_dici_%C3%A0/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    },
+    {
+      "id": "2_sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Prévention médicale",
+      "titre": "L’IA identifie 5,4 millions de Français non couverts par le dépistage colorectal",
+      "description": "L'intelligence artificielle a permis d'identifier 5,4 millions de Français qui ne participent pas au dépistage colorectal, malgré l'importance de ce test pour la prévention du cancer. Cette découverte souligne l'importance d'améliorer la sensibilisation et l'accès aux soins pour ces populations non dépistées.",
+      "sources": [
+        {
+          "url": "https://toute-la.veille-acteurs-sante.fr/files/2026/03/Communique%CC%81-de-presse_-ARTICS.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
