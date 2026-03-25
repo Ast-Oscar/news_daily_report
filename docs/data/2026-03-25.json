@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-25",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-25T17:56:29.823584+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Politique publique nationale (États-Unis)",
+      "titre": "Le cadre législatif national sur l’IA dévoilé par la Maison‑Blanche",
+      "description": "La Maison-Blanche a présenté un cadre législatif national pour l'intelligence artificielle visant à garantir le développement éthique et sécurisé de la technologie. Ce cadre met l'accent sur la protection de la vie privée, l'innovation responsable et la création de normes internationales.",
+      "sources": [
+        {
+          "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Arrêt de produit / stratégie d’entreprise",
+      "titre": "OpenAI met fin à Sora, son outil de génération vidéo",
+      "description": "OpenAI a annoncé la fin de Sora, son outil de génération vidéo, en raison des défis techniques et éthiques rencontrés. L'organisation se concentre désormais sur d'autres projets d'IA plus prometteurs et alignés sur ses priorités actuelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/OpenAI",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles / extraction de données",
+      "titre": "Anthropic dénonce une attaque de distillation orchestrée par Moonshot AI",
+      "description": "Anthropic a accusé Moonshot AI d'avoir orchestré une attaque de distillation pour extraire des technologies et secrets commerciaux. Cette attaque soulève des préoccupations sur la sécurité et la confidentialité des modèles développés par Anthropic face aux menaces concurrentielles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moonshot_AI",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
