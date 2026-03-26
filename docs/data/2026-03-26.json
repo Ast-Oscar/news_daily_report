@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-26",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-26T17:59:14.157987+00:00",
+  "items": [
+    {
+      "id": "regulation_us_state_preemption",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation fédérale vs. étatique",
+      "titre": "Débats sur la préservation de la régulation IA au niveau des États aux États-Unis",
+      "description": "Les États-Unis débattent de la nécessité de préserver la capacité des États à réguler l'IA indépendamment, en soutenant que la Constitution devrait protéger ce droit. Cette discussion intervient dans un contexte de pressions fédérales croissantes pour harmoniser les régulations à travers tout le pays.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/03/26/axios-aidc-summit-the-us-constitution-should-protect-state-level-ai-regulation-rep-ross-says",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "us_national_ai_framework",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Framework législatif fédéral",
+      "titre": "Publication d’un cadre national de politique sur l’IA à la Maison‑Blanche",
+      "description": "La Maison-Blanche a publié un cadre de politique national sur l'intelligence artificielle visant à établir des lignes directrices claires pour le développement et l'utilisation de l'IA aux États-Unis. Ce cadre s'efforce d'équilibrer l'innovation technologique avec des considérations éthiques et de sécurité.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_National_Policy_Framework_for_Artificial_Intelligence",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ai_interoperability_report",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Interoperabilité technique et réglementaire",
+      "titre": "Rapport sur les défis d’interopérabilité de l’IA",
+      "description": "Un rapport récent met en lumière les défis d'interopérabilité auxquels fait face l'intelligence artificielle, soulignant l'importance de normes communes pour garantir que différents systèmes d'IA puissent communiquer efficacement. Le rapport propose des pistes pour améliorer cette interopérabilité essentielle à l'efficacité des technologies d'IA multiples dans divers secteurs.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2601.14512",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "ai_research_risks",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Risques liés à l’automatisation de la recherche IA",
+      "titre": "Avis de chercheurs sur l’automatisation de la recherche en IA",
+      "description": "Des chercheurs ont exprimé des opinions variées sur l'impact de l'automatisation sur la recherche en intelligence artificielle, certains estimant qu'elle pourrait accélérer les découvertes tandis que d'autres craignent une diminution de l'innovation. Le rapport associé met en avant les implications potentielles de cette automatisation pour la communauté scientifique.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2603.03338",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "startup_launches_reddit",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux produits IA",
+      "titre": "Multiples lancements de produits IA en entreprise",
+      "description": "Le 26 mars 2026 a été marqué par le lancement de multiples produits d'IA par diverses entreprises, reflétant une accélération des offres technologiques sur le marché. Ces lancements incluent des innovations dans les domaines de l'analyse de données, de l'automatisation des tâches et des solutions personnalisées pour les entreprises.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1s4dfst/ai_product_launches_today_26_march_2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    }
+  ],
+  "meta": {}
+}
