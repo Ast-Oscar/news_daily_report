@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-27",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-27T17:47:38.889403+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation étatique vs fédérale",
+      "titre": "La Constitution américaine doit protéger la régulation étatique de l’IA, selon la représentante Deborah Ross",
+      "description": "La représentante Deborah Ross affirme que la Constitution américaine devrait garantir la capacité des États à réguler l'intelligence artificielle. Elle soutient que cette protection est cruciale pour assurer des normes éthiques et des pratiques sûres à travers le pays.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/03/26/axios-aidc-summit-the-us-constitution-should-protect-state-level-ai-regulation-rep-ross-says",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Normes techniques & interopérabilité",
+      "titre": "Le NIST lance une initiative pour des standards sécurisés et interopérables pour agents IA autonomes",
+      "description": "Le NIST prépare l'élaboration de protocoles destinés à renforcer la sécurité de l'authentification des agents IA. Ces protocoles visent à protéger contre les accès non autorisés et à garantir l'intégrité des systèmes basés sur l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.beneschlaw.com/wp-content/uploads/2026/03/AI_March-2026.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Transparence des modèles IA",
+      "titre": "Le projet de loi CLEAR Act exige la transparence sur les données d’entraînement des modèles génératifs",
+      "description": "Le NIST prépare l'élaboration de protocoles destinés à renforcer la sécurité de l'authentification des agents IA. Ces protocoles visent à protéger contre les accès non autorisés et à garantir l'intégrité des systèmes basés sur l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.beneschlaw.com/wp-content/uploads/2026/03/AI_March-2026.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éthique en médecine de laboratoire",
+      "titre": "L’ADLM alerte sur les biais des IA en médecine de laboratoire et demande des régulations adaptées",
+      "description": "Le NIST prépare l'élaboration de protocoles destinés à renforcer la sécurité de l'authentification des agents IA. Ces protocoles visent à protéger contre les accès non autorisés et à garantir l'intégrité des systèmes basés sur l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.beneschlaw.com/wp-content/uploads/2026/03/AI_March-2026.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Usage responsable d’agents IA",
+      "titre": "Le NIST prépare aussi des protocoles pour authentification sécurisée des agents IA",
+      "description": "Le NIST prépare l'élaboration de protocoles destinés à renforcer la sécurité de l'authentification des agents IA. Ces protocoles visent à protéger contre les accès non autorisés et à garantir l'intégrité des systèmes basés sur l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.beneschlaw.com/wp-content/uploads/2026/03/AI_March-2026.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Préemption fédérale des lois étatiques",
+      "titre": "Cadre politique fédéral propose de supplanter les régulations d’États sur l’IA aux États-Unis",
+      "description": "Un cadre politique fédéral est proposé pour remplacer les réglementations des États en matière d'intelligence artificielle aux États-Unis. Ce cadre vise à unifier les directives et à concilier les différences entre les régulations étatiques afin de créer un système plus cohérent au niveau national.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_National_Policy_Framework_for_Artificial_Intelligence",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
