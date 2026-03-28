@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-28",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-28T17:26:16.378057+00:00",
+  "items": [
+    {
+      "id": "1_regulation_USA",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Politique nationale - États-Unis",
+      "titre": "Cadre législatif de l’IA aux États‑Unis recommandé par la Maison‑Blanche",
+      "description": "La Maison-Blanche a proposé un cadre législatif pour la régulation de l'intelligence artificielle aux États-Unis, insistant sur la nécessité d'équilibrer innovation et éthique. Ce cadre recommande la mise en place de normes fédérales pour protéger les droits des citoyens et garantir la transparence des algorithmes.",
+      "sources": [
+        {
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_recherche_agentic",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Évaluation des capacités AI",
+      "titre": "Nouveau benchmark ARC‑AGI‑3 souligne la supériorité humaine",
+      "description": "Le nouveau benchmark ARC-AGI-3, conçu pour évaluer l'intelligence artificielle générale, a démontré que les performances humaines restent inégalées dans plusieurs domaines critiques. Les tests révèlent des limitations significatives des systèmes actuels d'IA, notamment en termes de compréhension contextuelle et de raisonnement complexe.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2603.24621",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_science_safety",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Rapport international sur la sûreté de l’IA",
+      "titre": "Publication du rapport 2026 sur la sécurité de l’IA",
+      "description": "Le rapport 2026 sur la sécurité de l'IA souligne les progrès réalisés dans la sécurisation des systèmes d'intelligence artificielle tout en identifiant des vulnérabilités persistantes liées à la cybersécurité. Il propose des solutions pour renforcer les protocoles de sécurité afin de prévenir les manipulations malveillantes des technologies émergentes.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.21012",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_industrie_moonshot",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Exploitation de données / litige",
+      "titre": "Anthropic accuse Moonshot AI d’extraction illégale de données",
+      "description": "Anthropic accuse Moonshot AI d'avoir extrait illégalement des données protégées, prétendant que cette entreprise a enfreint les règles de collecte et d'utilisation de données. Ce conflit met en lumière les enjeux juridiques et éthiques entourant le traitement des données dans le développement de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moonshot_AI",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
