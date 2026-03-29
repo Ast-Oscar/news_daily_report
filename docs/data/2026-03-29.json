@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-29",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-29T17:27:31.398736+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Cybersécurité – sécurité des modèles",
+      "titre": "Anthropic alerte sur les capacités cyber offensives de Mythos, modèle IA inédit",
+      "description": "Anthropic met en garde les autorités françaises et internationales contre son modèle inédit \"Mythos\", non encore publié, qu’elle juge capable de faciliter grand‑escalade les cyberattaques à grande échelle via des agents IA autonomes. Ce modèle serait « loin devant tout autre modèle IA » dans ses capacités offensives, en permettant à des agents de pénétrer avec précision des systèmes corporatifs, gouvernementaux ou municipaux sans supervision humaine, ce qui en fait une arme redoutable pour les hackers.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
