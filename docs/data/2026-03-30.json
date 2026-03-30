@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-30",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-30T17:52:15.408883+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "cadre volontaire sécurité IA",
+      "titre": "Anthropic publie la version 3.0 de son Responsible Scaling Policy",
+      "description": "Anthropic a publié la version 3.0 de sa politique de mise à l'échelle responsable, soulignant leurs engagements renouvelés pour le développement de l'intelligence artificielle dans des limites sûres. Cette politique met en avant des stratégies pour gérer les risques associés aux technologies d'IA avancées.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anthropic%27s_Responsible_Scaling_Policy",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "adoption sectorielle IA",
+      "titre": "38 % des entrepreneurs du bâtiment rapportent un impact mesurable de l’IA",
+      "description": "Selon une étude, 38 % des entrepreneurs dans le secteur du bâtiment ressentent un impact tangible de l'intelligence artificielle sur leurs opérations. L'adoption de l'IA dans ce secteur a plus que doublé, améliorant l'efficacité et la précision des projets.",
+      "sources": [
+        {
+          "url": "https://www.stocktitan.net/news/TTAN/service-titan-report-finds-ai-adoption-more-than-doubles-among-gi0j3a7bbmel.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "IA dans la guerre",
+      "titre": "L’IA devient l’arbitre invisible des décisions de guerre modernes",
+      "description": "L'intelligence artificielle joue un rôle de plus en plus central dans la prise de décisions stratégiques militaires modernes. Elle agit en coulisses pour analyser des données massives, influençant ainsi les stratégies de guerre.",
+      "sources": [
+        {
+          "url": "https://dailyasianage.com/news/349725/ai-is-now-the-invisible-controller-of-war",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "4-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "découverte astronomique IA",
+      "titre": "Une IA confirme 118 exoplanètes dont 31 nouvelles",
+      "description": "Une intelligence artificielle a permis de confirmer l'existence de 118 exoplanètes grâce à l'analyse des données de la NASA, dont 31 sont nouvellement découvertes. Cette avancée démontre le potentiel de l'IA pour accélérer les découvertes astronomiques.",
+      "sources": [
+        {
+          "url": "https://unn.ua/en/news/artificial-intelligence-found-dozens-of-hidden-planets-in-nasa-data/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "désinformation visuelle IA",
+      "titre": "Des images de catastrophes naturelles générées par IA diffusées comme réelles",
+      "description": "Des images générées par intelligence artificielle, imitant des catastrophes naturelles, ont été partagées en ligne comme étant authentiques. Ce phénomène soulève des préoccupations quant à la diffusion de fausses informations visuelles sur les réseaux sociaux.",
+      "sources": [
+        {
+          "url": "https://factcheck.afp.com/doc.afp.com.A3WH3WE",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
