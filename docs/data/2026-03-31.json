@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-31",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-03-31T17:54:41.310758+00:00",
+  "items": [
+    {
+      "id": "1-regulation-national-us",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – cadre législatif fédéral",
+      "titre": "Divulgation d’un cadre fédéral recommandé par la Maison‑Blanche pour réguler l’IA",
+      "description": "La Maison-Blanche a divulgué un cadre fédéral visant à réguler l'intelligence artificielle, soulignant l'importance de garantir la transparence, l'équité et le respect des droits civiques. Ce cadre sert de point de départ pour l'élaboration de politiques nationales destinées à coordonner les efforts de réglementation autour des technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_National_Policy_Framework_for_Artificial_Intelligence",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-nist-standards-agents-autonomes",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Normes pour agents autonomes",
+      "titre": "Lancement d’une initiative NIST pour des standards sécurisés et interopérables sur les agents IA autonomes",
+      "description": "Le NIST a lancé une initiative pour établir des standards sécurisés et interopérables pour les agents d'IA autonomes, afin d'assurer leur fiabilité et leur cohérence à l'échelle nationale. Ce projet vise à harmoniser les pratiques développées pour la gestion de ces technologies avancées tout en renforçant la protection contre les risques potentiels.",
+      "sources": [
+        {
+          "url": "https://www.beneschlaw.com/wp-content/uploads/2026/03/AI_March-2026.pdf",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
