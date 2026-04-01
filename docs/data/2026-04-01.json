@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-01",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-01T17:46:58.267997+00:00",
+  "items": [
+    {
+      "id": "1-oracle-licenciements-ai",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie d’entreprise",
+      "titre": "Oracle licencie des milliers de salariés au profit de l’intelligence artificielle",
+      "description": "Oracle a entrepris un vaste plan de licenciement touchant plusieurs milliers de salariés pour investir davantage dans des technologies d'intelligence artificielle. Ce choix stratégique vise à renforcer sa compétitivité en automatisant des fonctions et en développant de nouvelles solutions AI.",
+      "sources": [
+        {
+          "url": "https://www.generation-nt.com/actualites/oracle-licenciement-intelligence-artificielle-email-2073390",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-eu-ai-act-readiness-report",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Conformité réglementaire",
+      "titre": "78% des entreprises non prêtes au Règlement européen sur l’IA",
+      "description": "Un rapport révèle que 78 % des entreprises ne sont pas prêtes pour se conformer au Règlement européen sur l'intelligence artificielle de 2026. Ce constat met en lumière un manque de préparation significatif face aux nouvelles obligations légales et techniques imposées par cette régulation.",
+      "sources": [
+        {
+          "url": "https://www.einnews.com/pr_news/903074846/vision-compliance-releases-2026-eu-ai-act-readiness-report-finds-78-of-enterprises-unprepared-for-obligations",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-nyaya-setu-india",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Accès à la justice",
+      "titre": "Inde : lancement du chatbot juridique multilingue Nyaya Setu",
+      "description": "L'Inde a lancé Nyaya Setu, un chatbot juridique multilingue, destiné à faciliter l'accès à la justice pour ses citoyens. Ce projet innovant permet de consulter et d'obtenir des réponses légales en plusieurs langues, réduisant ainsi les barrières linguistiques dans le système juridique.",
+      "sources": [
+        {
+          "url": "https://www.insightsonindia.com/2026/04/01/upsc-current-affairs-1-april-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-alphabet-ai-native-conglomerate",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Transformation stratégique",
+      "titre": "Alphabet devient un conglomérat « IA‑natif »",
+      "description": "Alphabet se transforme pour devenir un conglomérat \"IA-natif\", intégrant l'intelligence artificielle au cœur de son modèle d'affaires. Cette évolution stratégique a pour but de renforcer sa position dominante tout en naviguant dans un paysage réglementaire en pleine mutation.",
+      "sources": [
+        {
+          "url": "https://money.mymotherlode.com/clarkebroadcasting.mymotherlode/article/finterra-2026-4-1-alphabet-googl-the-ai-native-conglomerate-navigating-a-new-era-of-dominance-and-regulation",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-ia-modeles-nouveaux",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Modèles d’IA",
+      "titre": "De nouveaux modèles IA de pointe publiés en avril 2026",
+      "description": "En avril 2026, plusieurs modèles d'intelligence artificielle de pointe ont été dévoilés, promettant des avancées en matière de performance et d'efficacité. Ces nouveaux développements sont conçus pour répondre à des besoins complexes dans divers secteurs technologiques.",
+      "sources": [
+        {
+          "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-energy-ai-converge",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Infrastructure énergétique",
+      "titre": "Convergence entre énergie et IA au CERAWeek 2026",
+      "description": "La convergence entre l'énergie et l'intelligence artificielle a été au centre des discussions lors du CERAWeek 2026. Les participants ont exploré comment les technologies AI peuvent optimiser la production et la consommation d'énergie, en promouvant des solutions durables à long terme.",
+      "sources": [
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-apr-1-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
