@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-03",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-03T17:31:47.304830+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Conseil de l’Europe – recommandations égalité et IA",
+      "titre": "Nouvelles recommandations du Conseil de l’Europe sur l’égalité et l’IA",
+      "description": "Le Conseil de l’Europe a émis de nouvelles recommandations visant à garantir que l'intelligence artificielle soit utilisée de manière à promouvoir l'égalité, en particulier en éliminant les biais sexistes dans les algorithmes. Ces recommandations s’inscrivent dans un effort plus large pour aligner le développement technologique avec les droits humains fondamentaux.",
+      "sources": [
+        {
+          "url": "https://www.coe.int/fr/web/artificial-intelligence/newsroom",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Climat & IA – webinaire France 2030",
+      "titre": "IA au service de l’adaptation au changement climatique – webinaire",
+      "description": "Un webinaire a été organisé pour explorer comment l'intelligence artificielle peut contribuer à l'adaptation au changement climatique, en mettant en avant des cas pratiques et des solutions innovantes. Les experts ont discuté de l'utilisation de l'IA pour modéliser les impacts climatiques et optimiser la gestion des ressources naturelles.",
+      "sources": [
+        {
+          "url": "https://infolettre.developpement-durable.gouv.fr/cgdd-sri/annee-2025/avril-2025/rubrique941.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
