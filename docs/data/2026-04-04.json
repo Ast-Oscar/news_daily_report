@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-04",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-04T17:27:14.151323+00:00",
+  "items": [
+    {
+      "id": "1-github-prompts-leak",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "industrie logiciels IA",
+      "titre": "Fuite de prompts systèmes pour GPT‑5.4, Claude 4.6, Gemini 3.1, et autres",
+      "description": "Fidji Simo, dirigeante d'OpenAI, a annoncé son départ temporaire en congé médical. Cette absence soulève des questions sur la direction future de l'entreprise lors de cette période de transition.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-anthropic-openclaw-limitation",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "industrie stratégies d'accès IA",
+      "titre": "Anthropic limite l’intégration OpenClaw pour Claude",
+      "description": "Fidji Simo, dirigeante d'OpenAI, a annoncé son départ temporaire en congé médical. Cette absence soulève des questions sur la direction future de l'entreprise lors de cette période de transition.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-genspark-financement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "investissements startups IA",
+      "titre": "Genspark lève 385 M $ en Série B élargie",
+      "description": "Fidji Simo, dirigeante d'OpenAI, a annoncé son départ temporaire en congé médical. Cette absence soulève des questions sur la direction future de l'entreprise lors de cette période de transition.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-anthropic-acquisition-coefficient-bio",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "fusions acquisitions IA",
+      "titre": "Anthropic acquiert Coefficient Bio pour ≈ 400 M $ en actions",
+      "description": "Fidji Simo, dirigeante d'OpenAI, a annoncé son départ temporaire en congé médical. Cette absence soulève des questions sur la direction future de l'entreprise lors de cette période de transition.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-openai-fidji-simo-congé-maladie",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "gouvernance entreprises IA",
+      "titre": "Fidji Simo (OpenAI) en congé médical temporaire",
+      "description": "Fidji Simo, dirigeante d'OpenAI, a annoncé son départ temporaire en congé médical. Cette absence soulève des questions sur la direction future de l'entreprise lors de cette période de transition.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-bull-500-emplois-ia",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "industrie européenne IA",
+      "titre": "Bull crée 500 emplois en IA",
+      "description": "Bull a annoncé la création de 500 nouveaux emplois dans le secteur de l'intelligence artificielle pour l'année 2026. Cette initiative vise à renforcer sa capacité d'innovation et à répondre à la demande croissante en compétences IA dans divers secteurs.",
+      "sources": [
+        {
+          "url": "https://lecourrier.vn/supercalculateurs-et-ia-bull-annonce-la-creation-de-500-emplois-en-2026/1344739.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7-xai-grok-4-1-deploiement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "produits IA",
+      "titre": "xAI déploie Grok 4.1 sur ses interfaces consommateurs et API",
+      "description": "Arcee a lancé un modèle open source nommé Trinity‑Large‑Thinking sous licence Apache 2.0. Ce modèle est conçu pour permettre une plus grande accessibilité et favoriser l'innovation dans la recherche et le développement de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/@ai-news-daily/ai-news-daily-2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8-arcee-trinity-large-thinking",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "open models IA",
+      "titre": "Arcee lance Trinity‑Large‑Thinking (modèle open source Apache 2.0)",
+      "description": "Arcee a lancé un modèle open source nommé Trinity‑Large‑Thinking sous licence Apache 2.0. Ce modèle est conçu pour permettre une plus grande accessibilité et favoriser l'innovation dans la recherche et le développement de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/@ai-news-daily/ai-news-daily-2026-04-04",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
