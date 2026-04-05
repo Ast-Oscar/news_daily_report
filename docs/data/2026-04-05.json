@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-05",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-05T17:27:52.854481+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Emploi & Société",
+      "titre": "Une profession sur huit en France fortement transformée par l’IA",
+      "description": "Selon une étude récente, une profession sur huit en France pourrait être profondément transformée par l'intelligence artificielle dans les prochaines années. Cette évolution concerne particulièrement les secteurs comme la finance, la santé, et la logistique, où l'IA pourrait automatiser des tâches complexes.",
+      "sources": [
+        {
+          "url": "https://www.tf1info.fr/vie-pro/intelligence-artificielle-une-profession-sur-huit-devrait-subir-une-transformation-profonde-selon-une-etude-2433856.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Trafic et bots IA",
+      "titre": "Les bots IA dominent désormais le trafic Internet",
+      "description": "Les bots d'intelligence artificielle représentent désormais plus de la moitié du trafic sur Internet, dépassant ainsi le trafic généré par les humains. Cette prédominance des bots est particulièrement marquée dans les domaines du commerce en ligne et de l'analyse de données.",
+      "sources": [
+        {
+          "url": "https://infosia.fr/bots-ia-depassent-humains-internet/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
