@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-06",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-06T17:41:53.409407+00:00",
+  "items": [
+    {
+      "id": "ia_chatbot_traffic",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Adoption IA",
+      "titre": "Trafic des chatbots IA en croissance sept fois plus rapide que les réseaux sociaux",
+      "description": "Les conditions générales d'utilisation de Microsoft Copilot le qualifient comme étant destiné à un usage \"à des fins de divertissement uniquement\". Cette classification surprend par sa prudence, compte tenu des applications professionnelles potentielles du Copilot.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cursor3_lancement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux produits IA",
+      "titre": "Lancement de Cursor 3, plateforme de codage IA orientée agents",
+      "description": "Les conditions générales d'utilisation de Microsoft Copilot le qualifient comme étant destiné à un usage \"à des fins de divertissement uniquement\". Cette classification surprend par sa prudence, compte tenu des applications professionnelles potentielles du Copilot.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "japon_robots_physiques",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Robots physiques",
+      "titre": "Déploiement de robots physiques IA au Japon pour pallier les pénuries de main‑d’œuvre",
+      "description": "Les conditions générales d'utilisation de Microsoft Copilot le qualifient comme étant destiné à un usage \"à des fins de divertissement uniquement\". Cette classification surprend par sa prudence, compte tenu des applications professionnelles potentielles du Copilot.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybercapacites_offensives",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Capacités offensives IA",
+      "titre": "Les capacités offensives en cybersécurité par IA doublent tous les six mois",
+      "description": "Les conditions générales d'utilisation de Microsoft Copilot le qualifient comme étant destiné à un usage \"à des fins de divertissement uniquement\". Cette classification surprend par sa prudence, compte tenu des applications professionnelles potentielles du Copilot.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "microsoft_copilot_tos",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Conditions d’usage IA",
+      "titre": "Microsoft Copilot qualifié « à des fins de divertissement uniquement » dans les CGU",
+      "description": "Les conditions générales d'utilisation de Microsoft Copilot le qualifient comme étant destiné à un usage \"à des fins de divertissement uniquement\". Cette classification surprend par sa prudence, compte tenu des applications professionnelles potentielles du Copilot.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "isae_supaero_forum",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Événement IA Défense",
+      "titre": "Forum Future Intelligence à l’ISAE‑SUPAERO sur l’IA pour la défense et la sécurité",
+      "description": "Le Forum Future Intelligence à l'ISAE-SUPAERO aborde les applications de l'IA dans les domaines de la défense et de la sécurité. Cet événement rassemble des experts pour discuter des innovations et des implications stratégiques des technologies d'IA dans ce secteur.",
+      "sources": [
+        {
+          "url": "https://www.isae-supaero.fr/isae-supaero-6/notre-newsroom/toutes-nos-actualites/lisae-supaero-au-coeur-des-enjeux-de-lia-pour-la-defense-et-la-securite",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cag_agent_architecture",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "Nouveaux patrons d’infrastructure pour agents IA : context managers, fichiers, gateways",
+      "description": "Gemma 4 est désormais disponible sur iPhone, tandis que Qwen-3.6 est capable de traiter plus d'un trillion de tokens par jour. Ces avancées démontrent la progression continue des capacités des plateformes d'intelligence artificielle mobile et de traitement de données.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-04-06-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_fondamentale_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement IA fondation",
+      "titre": "Doublement des financements dans les startups d’IA fondamentale au T1 2026",
+      "description": "Gemma 4 est désormais disponible sur iPhone, tandis que Qwen-3.6 est capable de traiter plus d'un trillion de tokens par jour. Ces avancées démontrent la progression continue des capacités des plateformes d'intelligence artificielle mobile et de traitement de données.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-04-06-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "physical_ai_startups",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Start‑ups IA physique",
+      "titre": "Essor des start‑ups d’IA physique : robots, navires autonomes, assistants vocaux",
+      "description": "Gemma 4 est désormais disponible sur iPhone, tandis que Qwen-3.6 est capable de traiter plus d'un trillion de tokens par jour. Ces avancées démontrent la progression continue des capacités des plateformes d'intelligence artificielle mobile et de traitement de données.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-04-06-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "gemma4_qwen36",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèles IA avancés",
+      "titre": "Gemma 4 sur iPhone et Qwen‑3.6 capable de traiter plus d’un trillion de tokens par jour",
+      "description": "Gemma 4 est désormais disponible sur iPhone, tandis que Qwen-3.6 est capable de traiter plus d'un trillion de tokens par jour. Ces avancées démontrent la progression continue des capacités des plateformes d'intelligence artificielle mobile et de traitement de données.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-04-06-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "gllm_1bit",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Modèles efficients",
+      "titre": "Ouverture des modèles LLM 1‑bit, très économes en énergie",
+      "description": "Les modèles nativement multimodaux avec contextes illimités deviennent une réalité, offrant des capacités d'intégration avancées entre texte, image et audio. Ces innovations renforcent l'interopérabilité et la flexibilité des systèmes intelligents dans des applications variées.",
+      "sources": [
+        {
+          "url": "https://www.switas.com/articles/the-future-of-agi-5-breakthroughs-defining-april-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_multimodalite_contexte",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Modèles multimodaux",
+      "titre": "Modèles nativement multimodaux avec contextes illimités",
+      "description": "Les modèles nativement multimodaux avec contextes illimités deviennent une réalité, offrant des capacités d'intégration avancées entre texte, image et audio. Ces innovations renforcent l'interopérabilité et la flexibilité des systèmes intelligents dans des applications variées.",
+      "sources": [
+        {
+          "url": "https://www.switas.com/articles/the-future-of-agi-5-breakthroughs-defining-april-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
