@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-07",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-07T17:56:48.979655+00:00",
+  "items": [
+    {
+      "id": "france_negociation_sociale_Ia",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Administration française",
+      "titre": "Négociation sociale sur l’usage de l’IA dans la fonction publique française",
+      "description": "Une négociation sociale a débuté en France pour encadrer l’utilisation de l’intelligence artificielle dans le secteur public. Les discussions abordent la régulation des technologies IA afin de garantir transparence et protection des données.",
+      "sources": [
+        {
+          "url": "https://www.arcep.fr/actualites/la-revue-de-presse/2026/avril/les-titres-de-la-presse-du-mardi-7-avril-2026.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "maroc_fusion_AI",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "Lancement de « Fusion AI », première plateforme marocaine unifiée d’IA",
+      "description": "Le Maroc a lancé « Fusion AI », sa première plateforme unifiée d'intelligence artificielle, visant à intégrer diverses applications IA dans un cadre unique. Ce projet ambitieux incarne une étape clé dans l'innovation technologique du pays.",
+      "sources": [
+        {
+          "url": "https://lareleve.ma/186905/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "canada_AI_fabrication_investissement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie manufacturière",
+      "titre": "AI dans la fabrication canadienne : 79 M$ de financement pour 20 projets",
+      "description": "Le gouvernement canadien a alloué 79 millions de dollars pour soutenir 20 projets qui utilisent l'intelligence artificielle dans le secteur manufacturier. Cette initiative vise à stimuler l'innovation et la compétitivité de l'industrie manufacturière au Canada.",
+      "sources": [
+        {
+          "url": "https://edmonton.taproot.news/roundups/tech/2026/04/07",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "datavault_AI_tokenisation_japon",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Finance & IA",
+      "titre": "Présentation d’une technologie de tokenisation IA au Japon",
+      "description": "Une nouvelle technologie de tokenisation basée sur l'intelligence artificielle a été présentée au Japon, axée sur l'utilisation de la cryptomonnaie XRP. Cette innovation pourrait transformer la manière dont les actifs sont gérés et échangés sur le marché.",
+      "sources": [
+        {
+          "url": "https://helm.news/2026-04-03/datavault-ai-ceo-present-tokenization-tech-xrp-tokyo.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "rasp_maroc_cybersecurite_IA",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Adoption non structurée",
+      "titre": "Kaspersky alerte sur les usages massifs non encadrés de l’IA au Maroc",
+      "description": "Kaspersky a exprimé ses inquiétudes concernant l'utilisation massive et non régulée de l'IA au Maroc, soulignant les défis en matière de cybersécurité. L'entreprise appelle à une régulation stricte pour éviter les risques associés à ces usages non encadrés.",
+      "sources": [
+        {
+          "url": "https://lematin.ma/videos/gitex-africa-2026-ia-et-cybersecurite-kaspersky-tire-la-sonnette-dalarme/338822",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
