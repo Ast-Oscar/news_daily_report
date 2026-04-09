@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-09",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-09T17:56:37.280427+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Structure organisationnelle",
+      "titre": "Alibaba réorganise sa gouvernance IA",
+      "description": "Zhipu a publié GLM 5.1 sous licence open-source, un modèle linguistique avancé conçu pour améliorer les capacités de traitement du langage naturel. Cette mise à disposition open-source vise à stimuler la recherche et le développement dans le domaine de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.citynewsservice.cn/articles/daily-buzz-9-april-2026-5nq5zvjn",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux modèles IA",
+      "titre": "Zhipu (Knowledge Atlas Technology) publie GLM 5.1 open‑source",
+      "description": "Zhipu a publié GLM 5.1 sous licence open-source, un modèle linguistique avancé conçu pour améliorer les capacités de traitement du langage naturel. Cette mise à disposition open-source vise à stimuler la recherche et le développement dans le domaine de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.citynewsservice.cn/articles/daily-buzz-9-april-2026-5nq5zvjn",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Fuite de code / malwares IA",
+      "titre": "Fuite du code source d’Anthropic et nouvelle cyberattaque IA‑générée « Slopoly »",
+      "description": "Le code source d'Anthropic a été compromis, exposant potentiellement des informations sensibles sur son fonctionnement. Parallèlement, une nouvelle attaque cybernétique, surnommée \"Slopoly\", exploitant l'intelligence artificielle, met en lumière les risques amplifiés par ces technologies.",
+      "sources": [
+        {
+          "url": "https://foresiet.com/blog/ai-enabled-cyberattacks-2026-incidents/",
+          "type": "primary"
+        },
+        {
+          "url": "https://foresiet.com/blog/ai-enabled-cyberattacks-2026-incidents/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_economie_investissements2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèles fondamentaux",
+      "titre": "Microsoft annonce trois nouveaux modèles fondamentaux multimodaux",
+      "description": "Microsoft a présenté trois nouveaux modèles fondamentaux multimodaux, conçus pour intégrer et traiter simultanément divers types de données. Ces modèles visent à révolutionner la manière dont les entreprises utilisent l'intelligence artificielle pour gérer les informations multi-formats.",
+      "sources": [
+        {
+          "url": "https://aismartventures.com/posts/ai-news-for-business-practical-ai-growth-in-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure spatiale autonome",
+      "titre": "Intercepteurs spatiaux autonomes européens dévoilés",
+      "description": "Les nouveaux intercepteurs spatiaux autonomes européens ont été dévoilés, marquant une avancée technologique significative dans la défense spatiale. Ces dispositifs sont conçus pour fonctionner de manière indépendante pour protéger les infrastructures spatiales contre d'éventuelles menaces.",
+      "sources": [
+        {
+          "url": "https://www.aviationweek.com/aerospace-daily-defense-report/2026-04-09",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
