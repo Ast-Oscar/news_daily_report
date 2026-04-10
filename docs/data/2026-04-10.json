@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-10",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-10T17:44:49.082298+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation France",
+      "titre": "Adoption par le Sénat français de la présomption d’utilisation de contenus culturels par les IA",
+      "description": "Le Sénat français a adopté une mesure établissant une présomption d'utilisation de contenus culturels par les intelligences artificielles. Cette législation vise à protéger les droits des créateurs face à l'exploitation non autorisée de leurs œuvres par des technologies centrées sur l'IA.",
+      "sources": [
+        {
+          "url": "https://www.fnps.fr/2026/04/10/newsletter-fnps-du-10-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Transformation énergétique",
+      "titre": "Tata Power adopte Databricks pour accélérer sa transformation IA",
+      "description": "Tata Power a choisi la plateforme Databricks pour stimuler sa transformation basée sur l'intelligence artificielle. Cette adoption vise à améliorer l'analyse des données et l'automatisation des processus au sein de l'entreprise énergétique.",
+      "sources": [
+        {
+          "url": "https://www.taiwannews.com.tw/en/news/6337962",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "AlphaTON Capital lève 43 M$ pour développer son infrastructure IA",
+      "description": "AlphaTON Capital a levé un financement de 43 millions de dollars pour étendre son infrastructure dédiée à l'intelligence artificielle. Ce capital permettra de renforcer les capacités technologiques et d'accélérer le développement de leurs solutions IA.",
+      "sources": [
+        {
+          "url": "https://www.bitgetapp.com/news/detail/12560605353949",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité IA et intégration 5G",
+      "titre": "Orange Maroc présente Qevlar AI pour renforcer cybersécurité et souveraineté numérique",
+      "description": "Orange Maroc a présenté Qevlar AI, une nouvelle solution visant à améliorer la cybersécurité et à renforcer la souveraineté numérique. Dévoilée lors du Gitex Africa 2026, cette innovation fait partie de la stratégie de l'entreprise pour intégrer l'IA et la 5G.",
+      "sources": [
+        {
+          "url": "https://medias24.com/2026/04/08/gitex-africa-2026-orange-maroc-accelere-la-souverainete-numerique-avec-lia-et-la-5g-1656055/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche IA pédagogique",
+      "titre": "Présentation d’EduEVAL‑DB, base pour évaluer IA éducatives",
+      "description": "EduEVAL-DB est une nouvelle base de données conçue pour évaluer les performances des intelligences artificielles éducatives. Cette ressource offre des standards et des benchmarks pour tester et comparer diverses applications d'IA dans le secteur éducatif.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2602.15531",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté numérique Europe",
+      "titre": "Mistral AI finance un datacenter IA en France (Essonne)",
+      "description": "Mistral AI a annoncé le financement d'un nouveau datacenter dédié à l'intelligence artificielle dans l'Essonne, en France. Ce projet vise à renforcer l'infrastructure technologique nécessaire pour soutenir les progrès et le déploiement des solutions IA en Europe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mistral_AI",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
