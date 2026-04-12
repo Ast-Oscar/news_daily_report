@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-12",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-12T17:32:01.177940+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Lobbying et politique publique",
+      "titre": "OpenAI publie un rapport politique et acquiert un podcast pour influencer la régulation",
+      "description": "OpenAI a publié un rapport stratégique pour influencer les politiques de régulation concernant l'intelligence artificielle. L'entreprise a également acquis un podcast, visant à renforcer sa position dans le débat sur la gouvernance de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Retard de déploiement pour raisons de sécurité",
+      "titre": "Anthropic reporte la sortie de « Mythos » pour des raisons de sécurité",
+      "description": "Anthropic a décidé de reporter la sortie de son produit « Mythos » en raison de préoccupations liées à la sécurité. Cette décision intervient alors que l'industrie technologique fait face à des débats croissants sur les risques inhérents à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.financialexpress.com/market/global-market-pulse/is-an-ai-bust-coming/4204135/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles IA par bounty",
+      "titre": "OpenAI lance un bug bounty et un programme Fellowship dédiés à la sécurité",
+      "description": "OpenAI a annoncé le lancement d'un programme de bug bounty ainsi qu'un programme Fellowship pour renforcer la sécurité de ses technologies d'IA. Ces initiatives visent à identifier et corriger rapidement les vulnérabilités potentielles, tout en formant la prochaine génération d'experts en sécurité.",
+      "sources": [
+        {
+          "url": "https://oct-rick-brick.com/en/articles/2026-04-12-ai-tech-daily-2026-04-12/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
