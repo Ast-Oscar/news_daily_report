@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-13T17:56:59.509746+00:00",
+  "items": [
+    {
+      "id": "cyber_securite_fmi",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Systèmes financiers & cyberattaques",
+      "titre": "Le FMI alerte sur les risques de cyberattaques liés à l’IA menaçant le système monétaire mondial",
+      "description": "Le Fonds monétaire international (FMI) met en garde contre les cyberattaques renforcées par l'intelligence artificielle qui pourraient déstabiliser le système monétaire mondial. L'institution souligne la nécessité de renforcer la réglementation et la coopération internationale pour contrer ces menaces potentielles.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites/le-systeme-monetaire-mondial-est-menace-par-les-risques-de-cyberattaques-poses-par-l-essor-de-l-intelligence-artificielle-selon-le-fmi-baecd3f3efdc4f2dfe12993a3932d092/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "maurice_strategie_nationale_ia",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Stratégie nationale",
+      "titre": "Île Maurice lance sa stratégie nationale en IA avec lignes directrices FAIR",
+      "description": "L'île Maurice a lancé une stratégie nationale dédiée à l'intelligence artificielle, intégrant les principes FAIR (Findable, Accessible, Interoperable, Reusable). Cette initiative vise à révolutionner divers secteurs économiques locaux tout en stimulant l'innovation et en renforçant les compétences technologiques du pays.",
+      "sources": [
+        {
+          "url": "https://lexpress.mu/s/lintelligence-artificielle-une-feuille-de-route-pour-transformer-maurice-556638/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
