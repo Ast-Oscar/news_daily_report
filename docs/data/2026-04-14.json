@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-14T18:02:26.326749+00:00",
+  "items": [
+    {
+      "id": "1_Gouvernance_Regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Opinion publique / Indicateurs",
+      "titre": "Le rapport Stanford AI Index 2026 révèle un important fossé entre experts IA et grand public",
+      "description": "Le rapport Stanford AI Index 2026 met en lumière un décalage significatif entre la perception des technologies IA par les experts et celle du grand public. Cette divergence pourrait influencer la confiance et l'acceptation de l'IA dans la société.",
+      "sources": [
+        {
+          "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Economie_Industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Finance / Infrastructure IA",
+      "titre": "Meta stimule l’intérêt pour les actions infrastructure IA : IREN en hausse sur fonds de gros accords GPU",
+      "description": "Meta a suscité un regain d'intérêt pour les actions liées à l'infrastructure IA, notamment celles de la société IREN. Ce mouvement est alimenté par de nouveaux accords majeurs concernant les unités de traitement graphique (GPU).",
+      "sources": [
+        {
+          "url": "https://ts2.tech/en/category/artificial-intelligence/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_RSE_Societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Diversité / Formation",
+      "titre": "Lancement du Hackathon Technoverse 2026 de Cognizant, IA ouverte et mixité promue",
+      "description": "Le Hackathon Technoverse 2026 lancé par Cognizant met l'accent sur l'ouverture de l'IA et la promotion de la mixité dans le domaine technologique. Cet événement vise à stimuler l'innovation et à encourager une participation diversifiée.",
+      "sources": [
+        {
+          "url": "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-14-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_Cybersecurite_Risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modèles open source",
+      "titre": "Lancement de Archon, un cadre open‑source pour fiabiliser le code généré par IA",
+      "description": "Cognizant a lancé Archon, un nouveau cadre open-source destiné à renforcer la fiabilité du code généré par l'IA. Ce cadre vise à améliorer la qualité des productions IA en facilitant une validation rigoureuse du code.",
+      "sources": [
+        {
+          "url": "https://versustool.com/news/2026/april",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_Sante_Science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "— (aucune annonce IA le 14/04)",
+      "titre": "Aucune actualité IA relative à la santé publiée le 14 avril 2026",
+      "description": "Aucune nouvelle concernant l'intelligence artificielle dans les domaines de la défense ou de la géopolitique n'a été diffusée le 14 avril 2026. Ce manque de communication pourrait refléter une absence d'avancées majeures ce jour-là.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-14",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_Defense_Geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "— (aucune annonce IA le 14/04)",
+      "titre": "Aucune actualité IA liée à la défense ou géopolitique publiée le 14 avril 2026",
+      "description": "Aucune nouvelle concernant l'intelligence artificielle dans les domaines de la défense ou de la géopolitique n'a été diffusée le 14 avril 2026. Ce manque de communication pourrait refléter une absence d'avancées majeures ce jour-là.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-14",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
