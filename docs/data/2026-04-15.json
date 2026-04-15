@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-15T18:03:12.717657+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sécurité nationale",
+      "titre": "Le Trésor américain demande un accès à Anthropic Mythos pour tests de vulnérabilité",
+      "description": "OpenAI a dévoilé GPT-5.4-Cyber, un modèle conçu spécifiquement pour améliorer la cybersécurité des systèmes informatiques. Limitée à un groupe restreint, cette version vise à identifier et à corriger les failles de sécurité potentielles grâce à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Syntaxe infrastructure",
+      "titre": "Fluidstack en pourparlers pour un tour de financement d’un milliard de dollars",
+      "description": "Fluidstack est en discussions avancées pour lever un milliard de dollars, visant à renforcer sa position sur le marché du cloud distribué. L'entreprise prévoit d'utiliser ces fonds pour élargir ses capacités technologiques et étendre sa base de clients.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-04-15-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Production médiatique",
+      "titre": "Southworks présente des workflows médiatiques alimentés par l’IA au NAB Show 2026",
+      "description": "Southworks a présenté au NAB Show 2026 de nouveaux workflows médiatiques intégrés à l'IA, mettant en avant des solutions innovantes pour la production audiovisuelle. Ces outils promettent d'améliorer l'efficacité des processus créatifs et opérationnels dans l'industrie médiatique.",
+      "sources": [
+        {
+          "url": "https://newsroom.seaprwire.com/2026/04/15/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "IA et cybersécurité",
+      "titre": "OpenAI lance GPT‑5.4‑Cyber pour les workflows de cybersécurité",
+      "description": "OpenAI a dévoilé GPT-5.4-Cyber, un modèle conçu spécifiquement pour améliorer la cybersécurité des systèmes informatiques. Limitée à un groupe restreint, cette version vise à identifier et à corriger les failles de sécurité potentielles grâce à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_economie_industrie_chip",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Silicium personnalisé",
+      "titre": "Meta et Broadcom s’allient pour une feuille de route puces IA d’1 GW",
+      "description": "Meta et Broadcom ont conclu un accord pour développer des puces AI personnalisées destinées à optimiser la consommation d'énergie à 1 GW. Cette alliance stratégique ambitionne de renforcer les capacités de traitement des données de Meta grâce à des solutions matérielles innovantes.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/meta-inks-deal-with-broadcom-custom-ai-chips-2026-04-14/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "IA quantique",
+      "titre": "NVIDIA lance Ising, modèles IA ouverts pour calibration quantique",
+      "description": "NVIDIA a lancé Ising, les premiers modèles d'IA ouverts pour aider à la calibration quantique, facilitant la progression vers des ordinateurs quantiques utiles. Ces modèles visent à améliorer la précision et l'efficacité des calculs quantiques en rendant l'accès aux technologies plus inclusif.",
+      "sources": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
