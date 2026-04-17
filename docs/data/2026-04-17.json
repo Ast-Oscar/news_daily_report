@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-17",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-17T17:47:41.954363+00:00",
+  "items": [
+    {
+      "id": "1-ia-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "—none—",
+      "titre": "Pas d’actualité IA en matière de gouvernance aujourd’hui",
+      "description": "Aucune information pertinente sur les stratégies de défense ou géopolitiques relatives à l'intelligence artificielle n'est disponible aujourd'hui. Ce manque de nouvelles pourrait refléter une période stagnante ou l'absence de nouveautés dans le domaine.",
+      "sources": [
+        {
+          "url": "https://iactu.info/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    },
+    {
+      "id": "2-ia-economie-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Edge computing / processeurs",
+      "titre": "Intel lance les processeurs Core Series 3 (Wildcat Lake) pour l’IA d’edge",
+      "description": "Intel a dévoilé ses nouveaux processeurs Core Series 3, nommés Wildcat Lake, destinés à l'intelligence artificielle d'edge. Ces processeurs visent à améliorer les capacités de traitement décentralisé et renforcer la performance des dispositifs connectés.",
+      "sources": [
+        {
+          "url": "https://www.tomshardware.com/tech-industry/intel-launches-wildcat-lake-as-core-series-3",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.windowscentral.com/hardware/intel/intel-core-series-3-panther-lake-announcement",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-ia-industrie-investissement",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat media / agentic AI",
+      "titre": "Avid et Google Cloud s’associent pour intégrer l’IA agentielle dans les outils créatifs",
+      "description": "Avid a collaboré avec Google Cloud pour intégrer l'intelligence artificielle agentielle dans ses outils créatifs, promettant des avancées significatives dans le montage et la production de contenu. Cette alliance vise à offrir des solutions plus interactives et intuitives pour les professionnels de la création.",
+      "sources": [
+        {
+          "url": "https://www.techradar.com/pro/avids-new-google-partnership-brings-agentic-ai-to-the-editing-suite-and-ive-got-the-scoop-on-what-this-really-means-for-creative-professionals",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-ia-recherche-science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Modèle pour ingéniérie logicielle",
+      "titre": "Anthropic publie Claude Opus 4.7, spécialisé en ingénierie logicielle",
+      "description": "Anthropic a publié Claude Opus 4.7, un modèle d'IA particulièrement axé sur l'ingénierie logicielle, pour un usage commercial civil. L'outil cherche à concurrencer les solutions existantes sur le marché tout en offrant des fonctionnalités avancées.",
+      "sources": [
+        {
+          "url": "https://www.tomsguide.com/ai/anthropic-just-released-a-civilian-version-of-its-mythos-ai-thats-too-dangerous-for-the-public",
+          "type": "primary"
+        },
+        {
+          "url": "https://letsdatascience.com/blog/anthropic-shipped-opus-4-7-beats-gpt-54-trails-mythos",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-ia-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Défense cyber",
+      "titre": "OpenAI injecte 10 M$ en crédits API pour renforcer la cyberdéfense",
+      "description": "OpenAI a investi 10 millions de dollars en crédits API pour soutenir la cyberdéfense, soulignant son engagement envers la sécurité numérique. Cette initiative vise à renforcer les capacités des entreprises à contrer les cybermenaces croissantes à l'aide de l'IA.",
+      "sources": [
+        {
+          "url": "https://oct-rick-brick.com/en/articles/2026-04-17-ai-tech-daily-2026-04-17",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6-ia-rse-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "—none—",
+      "titre": "Aucune actualité IA sociétale ou culturelle le 17 avril 2026",
+      "description": "Aucune information pertinente sur les stratégies de défense ou géopolitiques relatives à l'intelligence artificielle n'est disponible aujourd'hui. Ce manque de nouvelles pourrait refléter une période stagnante ou l'absence de nouveautés dans le domaine.",
+      "sources": [
+        {
+          "url": "https://iactu.info/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    },
+    {
+      "id": "7-ia-defense-geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "—none—",
+      "titre": "Pas d’information IA liée à la défense ou géopolitique aujourd’hui",
+      "description": "Aucune information pertinente sur les stratégies de défense ou géopolitiques relatives à l'intelligence artificielle n'est disponible aujourd'hui. Ce manque de nouvelles pourrait refléter une période stagnante ou l'absence de nouveautés dans le domaine.",
+      "sources": [
+        {
+          "url": "https://iactu.info/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "low"
+    }
+  ],
+  "meta": {}
+}
