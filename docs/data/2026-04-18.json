@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-18",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-18T17:34:17.703566+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Départs et réorg. stratégiques",
+      "titre": "OpenAI ferme l’équipe Sora et ses responsables partent",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Levée de fonds",
+      "titre": "Loop lève 95 M$ pour sa plateforme d’IA en supply‑chain",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Chatbot dans la restauration",
+      "titre": "Dairy Queen déploie un chatbot IA dans ses drive‑thrus",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Outil pour aviation",
+      "titre": "FAA fait appel à Palantir, Thales et Air Space Intelligence pour un outil IA",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux outils IA",
+      "titre": "Anthropic lance Claude Design pour convertir des prompts en prototypes",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_economie_media",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Streaming et recommandation IA",
+      "titre": "Netflix adopte un fil vertical IA et renforce l’usage de l’IA",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Rencontre gouvernement‑IA",
+      "titre": "Le PDG d’Anthropic rencontre la cheffe de cabinet de la Maison‑Blanche",
+      "description": "Le PDG d'Anthropic a rencontré la cheffe de cabinet de la Maison-Blanche pour discuter des avancées de l'intelligence artificielle et de ses implications réglementaires. Cette rencontre souligne l'importance grandissante des discussions sur l'IA au plus haut niveau politique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-04-18/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
