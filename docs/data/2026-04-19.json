@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-19",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-19T17:33:09.152415+00:00",
+  "items": [
+    {
+      "id": "IA1_Marathon_Humanoides_Chine",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Robotique / Compétition",
+      "titre": "Marathon de robots humanoïdes à Pékin",
+      "description": "Selon les projections, le marché des puces dédiées à l'IA connaîtra une croissance spectaculaire, avec une multiplication par trois de sa valeur d'ici 2032. Cette expansion s'explique par l'augmentation de la demande pour des technologies plus avancées et efficaces.",
+      "sources": [
+        {
+          "url": "https://www.deckbookai.cloud/news/ai-artificial-intelligence/2026-04-19-1300-latest-ai-artificial-intelligence-news",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA2_Marché_Puces_IA",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marché / Prévisions",
+      "titre": "Le marché des puces IA devrait tripler d’ici 2032",
+      "description": "Selon les projections, le marché des puces dédiées à l'IA connaîtra une croissance spectaculaire, avec une multiplication par trois de sa valeur d'ici 2032. Cette expansion s'explique par l'augmentation de la demande pour des technologies plus avancées et efficaces.",
+      "sources": [
+        {
+          "url": "https://www.deckbookai.cloud/news/ai-artificial-intelligence/2026-04-19-1300-latest-ai-artificial-intelligence-news",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA3_StartUp_CPU_Agents",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation / CPU",
+      "titre": "Nouvelle startup défend le rôle du CPU dans l’IA agentique",
+      "description": "Une nouvelle startup se positionne pour réévaluer l'importance des unités centrales de traitement (CPU) dans le développement de l'IA agentique. L'entreprise soutient que les CPU, souvent éclipsés par les GPU, ont un rôle crucial à jouer grâce à leur efficacité énergétique et leur capacité de gestion des tâches complexes.",
+      "sources": [
+        {
+          "url": "https://actualitecloud.com/2025/06/13/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
