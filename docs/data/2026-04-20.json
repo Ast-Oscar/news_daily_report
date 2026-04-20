@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-20",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-20T17:55:36.005683+00:00",
+  "items": [
+    {
+      "id": "1-musiqe-deezer",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Musique numérique",
+      "titre": "Près de la moitié des titres reçus par Deezer sont générés par une intelligence artificielle",
+      "description": "Près de la moitié des titres reçus par Deezer sont désormais générés par une intelligence artificielle, marquant un tournant significatif dans l'industrie de la musique. Ce phénomène soulève des interrogations sur l'impact de l'IA sur la créativité artistique et la diversité musicale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/2026_en_musique#20_avril",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-google-marvell-sa-carte-ia",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure matérielle IA",
+      "titre": "Google discute avec Marvell pour développer de nouvelles puces dédiées à l’inférence IA",
+      "description": "Les régulateurs asiatiques renforcent leur surveillance des risques liés à l'IA dans les banques, témoignant de préoccupations croissantes concernant la sécurité financière. Cette intensification vise à mitiger les possibles perturbations économiques dans le secteur bancaire.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-vercel-faille-taii",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des outils IA",
+      "titre": "Vercel confirme une faille de sécurité liée à un outil IA tiers",
+      "description": "Les régulateurs asiatiques renforcent leur surveillance des risques liés à l'IA dans les banques, témoignant de préoccupations croissantes concernant la sécurité financière. Cette intensification vise à mitiger les possibles perturbations économiques dans le secteur bancaire.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-regulateurs-asie-banques",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation bancaire & IA",
+      "titre": "Les régulateurs asiatiques intensifient la surveillance des risques IA dans les banques",
+      "description": "Les régulateurs asiatiques renforcent leur surveillance des risques liés à l'IA dans les banques, témoignant de préoccupations croissantes concernant la sécurité financière. Cette intensification vise à mitiger les possibles perturbations économiques dans le secteur bancaire.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
