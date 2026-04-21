@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-21",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-21T17:57:53.032229+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance internationale",
+      "titre": "Appel à une gouvernance mondiale de l’IA",
+      "description": "Un appel a été lancé pour instaurer une gouvernance mondiale de l'intelligence artificielle, mettant en avant la nécessité de régulations internationales face à la nature globale de la technologie. Cet article souligne l'importance de normes communes pour encadrer les implications sociétales et éthiques de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.actu-juridique.fr/ntic-medias-presse/lia-est-un-phenomene-mondial-qui-appelle-une-gouvernance-a-lechelle-internationale/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements industriels IA",
+      "titre": "Amazon injecte jusqu’à 25 milliards de dollars dans Anthropic",
+      "description": "Morgan Stanley prévoit une forte croissance de la demande pour les processeurs et la mémoire, alimentée par le développement de l'intelligence artificielle agentique. L'entreprise anticipe que cette augmentation transformera le paysage technologique et économique mondial.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles IA",
+      "titre": "Clarifai supprime 3 millions de photos OkCupid et modèles associés",
+      "description": "Morgan Stanley prévoit une forte croissance de la demande pour les processeurs et la mémoire, alimentée par le développement de l'intelligence artificielle agentique. L'entreprise anticipe que cette augmentation transformera le paysage technologique et économique mondial.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Infrastructure cloud pour IA",
+      "titre": "Google prépare de nouveaux TPU orientés inférence",
+      "description": "Morgan Stanley prévoit une forte croissance de la demande pour les processeurs et la mémoire, alimentée par le développement de l'intelligence artificielle agentique. L'entreprise anticipe que cette augmentation transformera le paysage technologique et économique mondial.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Marché matériel IA",
+      "titre": "Morgan Stanley anticipe un boom des CPU et mémoire grâce à l’IA agentique",
+      "description": "Morgan Stanley prévoit une forte croissance de la demande pour les processeurs et la mémoire, alimentée par le développement de l'intelligence artificielle agentique. L'entreprise anticipe que cette augmentation transformera le paysage technologique et économique mondial.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Santé – État des lieux IA",
+      "titre": "Premier état des lieux de l’IA en santé dans l’UE",
+      "description": "Un rapport de l'OMS offre un premier état des lieux de l'intelligence artificielle dans le secteur de la santé au sein de l'Union européenne, évaluant son impact et les défis à surmonter. Le document souligne l'importance de l'IA pour améliorer les services de santé tout en nécessitant des cadres de régulation adaptés.",
+      "sources": [
+        {
+          "url": "https://www.who.int/europe/fr/news/item/20-04-2026-new-who-europe-report-provides-first-ever-snapshot-of-ai-in-health-care-across-european-union-member-states",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
