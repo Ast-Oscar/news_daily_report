@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-22",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-22T17:59:06.625805+00:00",
+  "items": [
+    {
+      "id": "cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Usage juridique & cybersécurité",
+      "titre": "L’Australie encadre l’usage de l’IA générative en justice",
+      "description": "Google supprime des annonces frauduleuses grâce à Gemini : Google utilise ses modèles Gemini pour analyser des dizaines de milliards de signaux, ce qui lui a permis de supprimer 8,3 milliards de publicités malveillantes en 2025 et de suspendre 24,9 millions de comptes, dont 602 millions d’annonces clairement frauduleuses. ([dcod.ch](https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/?utm_source=openai))",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite2",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modèles défensifs",
+      "titre": "Lancement de GPT‑5.4‑Cyber par OpenAI",
+      "description": "Google supprime des annonces frauduleuses grâce à Gemini : Google utilise ses modèles Gemini pour analyser des dizaines de milliards de signaux, ce qui lui a permis de supprimer 8,3 milliards de publicités malveillantes en 2025 et de suspendre 24,9 millions de comptes, dont 602 millions d’annonces clairement frauduleuses. ([dcod.ch](https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/?utm_source=openai))",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite3",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modération & fraudes",
+      "titre": "Google supprime des annonces frauduleuses grâce à Gemini",
+      "description": "Google supprime des annonces frauduleuses grâce à Gemini : Google utilise ses modèles Gemini pour analyser des dizaines de milliards de signaux, ce qui lui a permis de supprimer 8,3 milliards de publicités malveillantes en 2025 et de suspendre 24,9 millions de comptes, dont 602 millions d’annonces clairement frauduleuses. ([dcod.ch](https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/?utm_source=openai))",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/04/22/ia-cybersecurite-les-11-actus-cles-du-22-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – régulation interne",
+      "titre": "« Moment Mythos » aux États‑Unis : régulation accrue des modèles puissants",
+      "description": "« Moment Mythos » aux États‑Unis : régulation accrue des modèles puissants : The Economist estime que l’émergence du modèle Mythos d’Anthropic marque la fin du laissez-faire en matière d’IA aux États‑Unis, les capacités phénoménales de ces modèles suscitant enfin une réaction réglementaire forte face aux risques pour la sécurité nationale. ([courrierinternational.com](https://www.courrierinternational.com/reveil/2026-04-22?utm_source=openai))",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/reveil/2026-04-22",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
