@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-23",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-23T18:03:52.563040+00:00",
+  "items": [
+    {
+      "id": "1_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissement cloud/IA",
+      "titre": "Microsoft investit 18 milliards de dollars dans le cloud et l’IA en Australie d’ici fin 2029",
+      "description": "Microsoft prévoit d'investir 18 milliards de dollars dans le développement de l'infrastructure cloud et de solutions d'intelligence artificielle en Australie d'ici 2029. Cet investissement vise à renforcer la position de Microsoft en tant que leader technologique et à soutenir la transformation numérique du pays.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/bourse/actualites/wall-street-journal-23-avril-2199a806c5bca0f21a2c31ca96b35347",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Congrès IA & cybersécurité",
+      "titre": "IA et cybersécurité : début du congrès Cap Cyber à Belfort",
+      "description": "Le congrès Cap Cyber se concentre sur l'application de l'intelligence artificielle dans le domaine de la cybersécurité, s'ouvrant à Belfort. Cet événement rassemble des experts pour discuter des enjeux et des nouvelles technologies émergentes en protection numérique.",
+      "sources": [
+        {
+          "url": "https://letrois.info/economie-social/belfort-lintelligence-artificielle-au-coeur-du-prochain-cap-cyber/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Usage grand public",
+      "titre": "4,02 milliards d’adultes utilisent l’IA chaque mois dans le monde",
+      "description": "Chaque mois, 4,02 milliards d'adultes dans le monde utilisent des technologies d'intelligence artificielle, égalant presque l'usage des moteurs de recherche traditionnels. Cette adoption massive montre l'ancrage de l'IA dans la vie quotidienne, bien qu'elle n'ait pas encore suppléé ces services.",
+      "sources": [
+        {
+          "url": "https://fr.themedialeader.com/lia-rattrape-le-search-mais-ne-la-pas-encore-remplace/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_sante_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "IA et emploi",
+      "titre": "L’OIT publie une note sur les indicateurs d’exposition à l’IA et leurs limites pour l’emploi",
+      "description": "La note de l'OIT examine comment les indicateurs d'exposition à l'intelligence artificielle peuvent affecter le marché de l'emploi, soulignant qu'ils sont souvent limités dans leur capacité à prédire les impacts précis. L'organisation met en lumière la nécessité de développer des mesures plus nuancées pour évaluer les changements induits par l'IA dans l'environnement professionnel.",
+      "sources": [
+        {
+          "url": "https://matinlibre.com/2026/04/23/organisation-internationale-du-travail-ce-que-les-indicateurs-dexposition-a-lia-revelent-sur-les-emplois/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "ONU : IA et climat",
+      "titre": "Première réunion du Task Force africain sur IA, technologie numérique et climat à l’ONU",
+      "description": "La première réunion du Task Force africain sur l'intelligence artificielle, la technologie numérique et le climat s'est tenue à l'ONU. Cette initiative vise à coordonner les efforts pour intégrer les technologies innovantes et l'IA dans les stratégies climatiques et de développement sur le continent africain.",
+      "sources": [
+        {
+          "url": "https://www.un.org/sg/en/schedule/amina-j-mohammed/2026-04-23",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_secu_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité modèle",
+      "titre": "Anthropic enquête sur un accès non autorisé à son modèle Mythos",
+      "description": "Anthropic mène une enquête sur un accès non autorisé à son modèle d'intelligence artificielle Mythos, soulevant des préoccupations de sécurité. L'entreprise évalue l'impact potentiel de cette intrusion sur sa technologie et ses systèmes.",
+      "sources": [
+        {
+          "url": "https://stemgeeks.net/%40ai-news-daily/ai-news-daily-2026-04-23",
+          "type": "secondary"
+        },
+        {
+          "url": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
