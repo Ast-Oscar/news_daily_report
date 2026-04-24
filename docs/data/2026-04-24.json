@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-24",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-24T17:48:14.260997+00:00",
+  "items": [
+    {
+      "id": "IA-Deezer",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture musicale",
+      "titre": "Près de la moitié des titres déposés sur Deezer sont générés par IA",
+      "description": "Près de la moitié des titres musicaux déposés sur la plateforme Deezer sont désormais générés par intelligence artificielle, illustrant une tendance croissante vers la musique automatisée. Ce phénomène soulève des questions sur l'impact de l'IA sur l'industrie musicale et la créativité humaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Avril_2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "OpenAI-GPT-Rosalind",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche en sciences de la vie",
+      "titre": "OpenAI lance GPT‑Rosalind, modèle dédié aux sciences de la vie",
+      "description": "OpenAI a lancé GPT-Rosalind, un modèle spécifiquement conçu pour les applications dans le domaine des sciences de la vie. Ce lancement marque une avancée significative dans l'utilisation de l'intelligence artificielle pour la recherche scientifique et médicale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/OpenAI",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "CyberStrikeAI-détourné",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité open source",
+      "titre": "L’outil open source CyberStrikeAI détourné par des hackers",
+      "description": "L'outil open source CyberStrikeAI a été détourné par des hackers, soulignant les risques de sécurité associés aux technologies IA. Cette situation met en lumière la nécessité de renforcer les mesures de protection et de surveillance dans le domaine des logiciels open source.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/actutech/comments/1rjm9ft/cyberstrikeai_loutil_ia_open_source_d%C3%A9tourn%C3%A9_par/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "DecisionIA-cyber-IA",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Transformation des défenses cyber",
+      "titre": "Cyberattaques et défenses automatisées : la symétrie technologique en 2026",
+      "description": "En 2026, l'équilibre technologique entre cyberattaques et défenses automatiques se renforce, illustrant la symétrie entre les capacités offensives et défensives dans la cybersécurité. L'automatisation des systèmes de sécurité devient essentielle pour parer aux menaces sophistiquées croissantes.",
+      "sources": [
+        {
+          "url": "https://decisionia.com/ia-cybersecurite-menaces-protections-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-Agentique-Capgemini",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Architecture des systèmes d'information",
+      "titre": "Vers une adoption massive de l’IA agentique d'ici 2028",
+      "description": "L'intelligence artificielle agentique est en voie de connaître une adoption massive d'ici 2028, facilitant des interactions plus naturelles et autonomes avec les systèmes. Cette tendance démontre le potentiel croissant de l'IA pour transformer divers secteurs grâce à ses capacités décisionnelles avancées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Intelligence_artificielle_agentique",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
