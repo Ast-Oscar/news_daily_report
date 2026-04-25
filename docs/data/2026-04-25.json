@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-25",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-25T17:35:23.241911+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Investissements privés",
+      "titre": "Google investit jusqu’à 40 milliards de dollars dans Anthropic",
+      "description": "Google a décidé d'investir jusqu'à 40 milliards de dollars dans Anthropic, une entreprise spécialisée dans le développement de l'intelligence artificielle. Cet investissement massif souligne la volonté de Google de renforcer sa position dans le domaine de l'IA et de collaborer avec des entreprises innovantes.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/reveil/2026-04-25",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Fusions-acquisitions",
+      "titre": "Fusion entre Cohere (Canada) et Aleph Alpha (Allemagne) évaluée à 20 milliards $",
+      "description": "L’open-source de DeepSeek V4 pourrait bouleverser le marché de l'intelligence artificielle en réduisant l'écart technologique avec les leaders du secteur. Cette version accessible souligne l'évolution rapide des outils d'IA et leur potentiel démocratisation à grande échelle.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-25/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Modèles concurrents open source",
+      "titre": "DeepSeek V4 open‑source menace l’avantage concurrentiel des leaders de l’IA",
+      "description": "L’open-source de DeepSeek V4 pourrait bouleverser le marché de l'intelligence artificielle en réduisant l'écart technologique avec les leaders du secteur. Cette version accessible souligne l'évolution rapide des outils d'IA et leur potentiel démocratisation à grande échelle.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-04-25/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Agents autonomes gouvernementaux",
+      "titre": "E.A.U. visent 50 % d’agents IA autonomes dans les administrations",
+      "description": "Les Émirats arabes unis visent à équiper leurs administrations de 50 % d'agents IA autonomes d'ici 2026. Cette initiative fait partie d'une stratégie nationale pour intégrer davantage de technologies avancées dans les services publics et améliorer leur efficacité.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/grAIve/comments/1svg187/uae_leads_ai_gov_50_autonomous_agents_by_2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ]
+}
