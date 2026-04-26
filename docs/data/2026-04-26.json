@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-26",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-26T17:35:58.709691+00:00",
+  "items": [
+    {
+      "id": "ia_privacy_filter_open_weight",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "confidentialité / masquage de données sensibles",
+      "titre": "OpenAI publie en open‑weight le \"OpenAI Privacy Filter\" pour détecter et masquer les données personnelles",
+      "description": "OpenAI propose désormais \"ChatGPT for Clinicians\" sans frais pour les professionnels de santé américains, facilitant ainsi l'accès à des outils AI dans le domaine médical. Cette initiative vise à améliorer la qualité des soins et l'efficacité clinique grâce à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://oct‑rick‑brick.com/fr/articles/2026‑04‑26‑ai‑tech‑daily‑2026‑04‑26/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "chatgpt_for_clinicians_free_us",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "outils cliniques IA",
+      "titre": "OpenAI propose gratuitement \"ChatGPT for Clinicians\" aux professionnels de santé aux États‑Unis",
+      "description": "OpenAI propose désormais \"ChatGPT for Clinicians\" sans frais pour les professionnels de santé américains, facilitant ainsi l'accès à des outils AI dans le domaine médical. Cette initiative vise à améliorer la qualité des soins et l'efficacité clinique grâce à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://oct‑rick‑brick.com/fr/articles/2026‑04‑26‑ai‑tech‑daily‑2026‑04‑26/",
+          "type": "primary"
+        },
+        {
+          "url": "https://aiweekly.co/issues/ai‑for‑good‑week‑of‑april‑19‑25‑2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cannes_ai_film_festival",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "culture / cinéma IA",
+      "titre": "Le Festival du film IA de Cannes suscite débats et questionnements",
+      "description": "Le Festival du film IA de Cannes a provoqué des discussions sur l'impact et la place de l'intelligence artificielle dans le domaine cinématographique. Les débats se sont concentrés sur les questions d'éthique, de créativité humaine et de l'avenir de l'industrie du film.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/apr/26/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "weixin_chine_ia_travail_fatigue",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "société / conditions de travail",
+      "titre": "En Chine, l’IA au travail génère fatigue, stress et aliénation selon des journalistes",
+      "description": "En Chine, des journalistes ont révélé que l'utilisation de l'intelligence artificielle au travail est source de fatigue, de stress et d'aliénation pour les employés. Ces pressions découlent principalement des attentes accrues en matière de productivité et de surveillance.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/reveil/2026-04-26",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "sora_app_shutdown_openai",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "industrie / arrêt de produit IA",
+      "titre": "L’application de génération vidéo Sora d’OpenAI est fermée le 26 avril",
+      "description": "L'application de génération vidéo Sora d'OpenAI a officiellement été fermée le 26 avril, marquant la fin de son service. Cette décision intervient dans un contexte de réévaluation des projets et des stratégies au sein d'OpenAI.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_in_artificial_intelligence",
+          "type": "primary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
