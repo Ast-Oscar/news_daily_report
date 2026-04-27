@@ -1,0 +1,83 @@
+{
+  "date": "2026-04-27",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-27T18:02:57.357463+00:00",
+  "items": [
+    {
+      "id": "1–GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation étatique USA",
+      "titre": "Législations AI étatiques avancent aux États-Unis",
+      "description": "Les États américains introduisent des législations ambitieuses pour encadrer l'usage de l'intelligence artificielle, ciblant notamment la protection des données personnelles et les biais algorithmiques. Cette montée en régulation démontre une volonté d'assurer un usage éthique et sécurisé des technologies d'IA à l'échelle nationale.",
+      "sources": [
+        {
+          "url": "https://www.jdsupra.com/post/contentViewerEmbed.aspx?fid=2cd0a67d-ec68-4b28-9570-8ec08cd88e63",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2–CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Vulnérabilités & modèle IA",
+      "titre": "Claude Mythos (Anthropic) détecte des failles zero-day",
+      "description": "OpenAI a annoncé la sortie de GPT-5.5, réservé aux abonnés payants, apportant des améliorations significatives en termes de compréhension linguistique et de génération de texte. Ce nouveau modèle vise à répondre à des attentes élevées en matière de performance et de polyvalence dans différents domaines d'application.",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/the-ai-forum-weekly-briefing-april-27-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3–ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux modèles IA",
+      "titre": "OpenAI publie GPT‑5.5 pour abonnés payants",
+      "description": "OpenAI a annoncé la sortie de GPT-5.5, réservé aux abonnés payants, apportant des améliorations significatives en termes de compréhension linguistique et de génération de texte. Ce nouveau modèle vise à répondre à des attentes élevées en matière de performance et de polyvalence dans différents domaines d'application.",
+      "sources": [
+        {
+          "url": "https://aiforum.org.uk/the-ai-forum-weekly-briefing-april-27-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4–DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Budget US Défense & IA",
+      "titre": "Budget US Défense 2027 : 58,5 milliards $ pour l’IA et l’autonomie",
+      "description": "Le budget de la défense des États-Unis pour 2027 prévoit une allocation de 58,5 milliards de dollars destinée aux technologies d'intelligence artificielle et d'autonomie. Cet investissement massif reflète l'engagement stratégique des États-Unis dans le renforcement de ses capacités militaires via l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://www.businessofgovernment.org/blog/weekly-roundup-april-20-24-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5–CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Normes fédérales",
+      "titre": "Nouvelles propositions fédérales pour normes de sécurité IA",
+      "description": "De nouvelles propositions fédérales portent sur l'établissement de normes de sécurité spécifiques pour l'intelligence artificielle, visant à minimiser les risques liés à son usage. Ces mesures sont prises dans un contexte de préoccupation croissante face à la sophistication croissante des cybermenaces.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/cybersecurity/comments/1sx2v8y/the_week_in_cyber_security_april_2027_2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
