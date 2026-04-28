@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-28",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-28T18:15:18.750030+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Contrats publics et valeurs locales",
+      "titre": "Le maire de Londres, Sadiq Khan, oppose l’usage de l’IA de Palantir par Scotland Yard",
+      "description": "Le maire de Londres, Sadiq Khan, critique l'utilisation de l'intelligence artificielle développée par Palantir par Scotland Yard, invoquant des préoccupations sur la surveillance massive et la vie privée des citoyens. Il plaide pour des solutions technologiques plus transparentes et éthiques afin de protéger les droits individuels.",
+      "sources": [
+        {
+          "url": "https://techmaniacs.com/2026/04/28/ai-security-daily-briefing-april-28-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Séparation stratégique dans l’infrastructure IA",
+      "titre": "OpenAI officialise la fin de son partenariat avec Microsoft",
+      "description": "Aucune information n'est disponible pour cet article spécifique.",
+      "sources": [
+        {
+          "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Transformation des infrastructures IA",
+      "titre": "Infrastructure IA : la véritable crise n’est pas le calcul, mais l’énergie et les données",
+      "description": "Aucune information n'est disponible pour cet article spécifique.",
+      "sources": [
+        {
+          "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Compétition technologique mondiale",
+      "titre": "Course géopolitique de l’IA : la Chine bloque une acquisition de Meta et valorise ses modèles locaux",
+      "description": "Aucune information n'est disponible pour cet article spécifique.",
+      "sources": [
+        {
+          "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Sujet non couvert aujourd’hui",
+      "titre": "Aucune information disponible aujourd’hui",
+      "description": "Aucune information n'est disponible pour cet article spécifique.",
+      "sources": [
+        {
+          "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Sujet non couvert aujourd’hui",
+      "titre": "Aucune information disponible aujourd’hui",
+      "description": "Aucune information n'est disponible pour cet article spécifique.",
+      "sources": [
+        {
+          "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
