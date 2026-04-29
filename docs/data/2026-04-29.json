@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-29",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-29T18:10:09.004451+00:00",
+  "items": [
+    {
+      "id": "ia-regulation-france",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance nationale",
+      "titre": "La ministre du numérique alerte au Sénat sur le retard des entreprises françaises dans l’adoption de l’IA et propose une « troisième voie » européenne",
+      "description": "La ministre du numérique a exprimé au Sénat ses préoccupations concernant le retard des entreprises françaises dans l'adoption de l'intelligence artificielle. Elle a proposé une « troisième voie » européenne, suggérant une approche harmonisée et indépendante entre les modèles américains et chinois.",
+      "sources": [
+        {
+          "url": "https://www.arcep.fr/actualites/la-revue-de-presse/2026/avril/les-titres-de-la-presse-du-mercredi-29-avril-2026.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-usfed-ai-hub",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Politique publique & marché du travail",
+      "titre": "Le département du Travail américain annonce le lancement imminent d’un « AI workforce hub » avec des données inédites",
+      "description": "Le département du Travail des États-Unis a annoncé la création imminente d'un « AI workforce hub », fournissant des données inédites pour mieux former et adapter les travailleurs à l'ère de l'IA. Cette initiative vise à préparer la main-d'œuvre américaine pour les défis technologiques à venir.",
+      "sources": [
+        {
+          "url": "https://www.fdd.org/overnight-brief/april-29-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-cyber-anthropic-mythos",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles & cybermenaces",
+      "titre": "Anthropic enquête sur un accès non autorisé à son modèle Mythos, jugé dangereux pour la cybersécurité",
+      "description": "Les services de renseignement militaires néerlandais ont mis en garde contre l'utilisation de l'IA russe pour accélérer les cyberattaques en Europe. Ces avertissements soulignent la menace croissante que représentent les technologies d'IA dans les conflits numériques.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/04/29/ia-cybersecurite-les-9-actus-cles-du-29-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-cyber-russie-europe",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité & géopolitique",
+      "titre": "Les services de renseignement militaires néerlandais alertent sur l’usage de l’IA russe pour cyberattaques accélérées en Europe",
+      "description": "Les services de renseignement militaires néerlandais ont mis en garde contre l'utilisation de l'IA russe pour accélérer les cyberattaques en Europe. Ces avertissements soulignent la menace croissante que représentent les technologies d'IA dans les conflits numériques.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/04/29/ia-cybersecurite-les-9-actus-cles-du-29-avril-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-models-amazon-bedrock",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariats & infrastructure cloud",
+      "titre": "OpenAI étend la disponibilité de ses modèles à Amazon Bedrock après une refonte de son accord avec Microsoft",
+      "description": "NVIDIA a présenté le Nemotron 3 Nano Omni, un modèle multimodal unifié qui augmente l’efficacité des agents intelligents de neuf fois. Cette innovation promet d'améliorer considérablement les performances des systèmes basés sur l'IA.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-29",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-nvidia-nemotron3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation technologique",
+      "titre": "NVIDIA dévoile Nemotron 3 Nano Omni, un modèle multimodal unifié augmentant l’efficacité des agents IA de 9×",
+      "description": "NVIDIA a présenté le Nemotron 3 Nano Omni, un modèle multimodal unifié qui augmente l’efficacité des agents intelligents de neuf fois. Cette innovation promet d'améliorer considérablement les performances des systèmes basés sur l'IA.",
+      "sources": [
+        {
+          "url": "https://aitoolly.com/ai-news/2026-04-29",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-openai-musk-proces",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Procès & débats d’éthique",
+      "titre": "Au procès, Elon Musk affirme qu’il a lancé OpenAI pour « le bénéfice de toute l’humanité » et non le profit",
+      "description": "Lors d'un procès, Elon Musk a déclaré que la création d'OpenAI avait pour but de servir l'humanité plutôt que de se focaliser sur le profit. Cette déclaration vise à clarifier l'objectif originel et l'orientation éthique de l'organisation.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/reveil/2026-04-29",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
