@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-30",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-04-30T18:07:55.965981+00:00",
+  "items": [
+    {
+      "id": "1_regulation_en_europe",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "L’échéance du 2 août 2026 de l’AI Act reste en vigueur après l’échec du trilogue Omnibus à Bruxelles",
+      "description": "Les entreprises Rogo et Aidoc ont respectivement levé 160 millions et 150 millions de dollars, confirmant la tendance croissante à l'investissement dans l'IA verticale régulée. Ce financement massif reflète l'intérêt croissant pour des solutions IA spécialisées et conformes aux régulations.",
+      "sources": [
+        {
+          "url": "https://asanify.com/blog/news/regulated-vertical-ai-april-30-2026/",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.aigovernanceplaybook.com/p/ai-deadline-thursday-30april-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_investissements_big_tech",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Capex des géants de la tech",
+      "titre": "Amazon, Alphabet, Microsoft et Meta dépensent plus que le projet Manhattan chaque mois",
+      "description": "Amazon, Alphabet, Microsoft et Meta investissent des sommes colossales chaque mois dans le développement de l'IA, dépassant les dépenses totales du projet Manhattan. Cette course à l'innovation technologique met en lumière un élan sans précédent dans le domaine de l'IA.",
+      "sources": [
+        {
+          "url": "https://legrandcontinent.eu/fr/2026/04/30/dans-la-course-a-lia-quatre-geants-de-la-tech-depensent-par-mois-beaucoup-plus-que-lintegralite-des-sommes-du-projet-manhattan/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_cybersecurite_australie",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risque cyberfinancier",
+      "titre": "Les régulateurs australiens alertent sur les cyberattaques rendues plus rapides grâce à l’IA Mythos d’Anthropic",
+      "description": "Les régulateurs australiens ont mis en garde contre l'augmentation des cyberattaques facilitées par l'IA Mythos d'Anthropic. Ils appellent à des contrôles plus stricts sur l'utilisation de l'IA dans les entreprises financières pour prévenir ces menaces accrues.",
+      "sources": [
+        {
+          "url": "https://wtaq.com/2026/04/29/australia-calls-for-stronger-ai-risk-controls-at-financial-firms/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_vertical_ai_funding",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financements IA sectorielle",
+      "titre": "Rogo lève 160 M$ et Aidoc 150 M$, confirmation de l’essor de l’IA verticale régulée",
+      "description": "Les entreprises Rogo et Aidoc ont respectivement levé 160 millions et 150 millions de dollars, confirmant la tendance croissante à l'investissement dans l'IA verticale régulée. Ce financement massif reflète l'intérêt croissant pour des solutions IA spécialisées et conformes aux régulations.",
+      "sources": [
+        {
+          "url": "https://asanify.com/blog/news/regulated-vertical-ai-april-30-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_societe_algorithme_suede",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Justice algorithmique",
+      "titre": "Un algorithme optimise les admissions scolaires en Suède et remporte le procès",
+      "description": "En Suède, un algorithme d'optimisation des admissions scolaires a été validé légalement après avoir remporté un procès. Cette décision souligne l'efficacité et la légitimité croissante des solutions algorithmiques dans le domaine éducatif.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/apr/30/all",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
