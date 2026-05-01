@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-01",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-01T17:57:25.963274+00:00",
+  "items": [
+    {
+      "id": "1mai2026-ai-act-applicabilite",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "Le AI Act entre pleinement en vigueur dans l’Union européenne",
+      "description": "Le AI Act entrera pleinement en vigueur dans l'Union européenne, marquant un tournant significatif dans la régulation des technologies de l'intelligence artificielle. Ce texte de loi impose des règles strictes pour assurer que ces technologies soient transparentes, éthiques et respectueuses des droits fondamentaux.",
+      "sources": [
+        {
+          "url": "https://osamformations.com/article-reglementations-ia-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "1mai2026-bigtech-spending",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Dépenses IA",
+      "titre": "Dépenses en IA du Big Tech pourraient atteindre 1 000 milliards cette année",
+      "description": "Les dépenses en intelligence artificielle des grandes entreprises technologiques pourraient atteindre 1 000 milliards de dollars cette année, reflétant un investissement massif dans le domaine. Cette tendance est alimentée par la volonté d'améliorer les capacités des systèmes d'IA tout en répondant à la demande croissante de solutions numériques.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/05/01/top-tech-news-today-may-1-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
