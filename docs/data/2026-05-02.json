@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-02",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-02T17:41:07.888471+00:00",
+  "items": [
+    {
+      "id": "ia_2026_05_02_pentagone",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Accords militaires",
+      "titre": "Le Pentagone signe des accords IA avec plusieurs géants technologiques pour usage classifié",
+      "description": "Le Pentagone a conclu des accords avec plusieurs grands noms technologiques, incluant des entreprises comme Nvidia, Microsoft et AWS, pour renforcer l'utilisation de l'IA dans ses opérations classifiées. Cette décision illustre la stratégie de rapprochement privilégié avec ces entreprises tout en écartant Anthropic pour des raisons non spécifiées.",
+      "sources": [
+        {
+          "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/3163428030061/ia-le-pentagone-exclut-anthropic-et-recrute-ses-rivaux-pour-ses-operations-classifiees",
+          "type": "primary"
+        },
+        {
+          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_2026_05_02_spotify_badge",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture musicale",
+      "titre": "Spotify différencie artistes humains et contenus générés par IA via un badge ‘Verified by Spotify’",
+      "description": "Spotify a introduit un badge ‘Verified by Spotify’ afin de distinguer les artistes humains des contenus générés par intelligence artificielle sur sa plateforme. Cette initiative vise à offrir plus de transparence aux utilisateurs quant à l'origine des musiques diffusées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mai_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_2026_05_02_fed_bowman",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Supervision réglementaire",
+      "titre": "La Fed appelle à mieux superviser les outils IA comme Mythos d’Anthropic",
+      "description": "La Réserve fédérale a souligné la nécessité d'une supervision accrue des outils IA, tels que Mythos développé par Anthropic, en raison de leur évolution rapide et de leurs implications potentielles. Ce besoin de régulation plus stricte est motivé par les risques associés à l'usage de technologies avancées sans surveillance adéquate.",
+      "sources": [
+        {
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/feds-bowman-says-mythos-shows-dynamic-nature-of-ai-tools",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
