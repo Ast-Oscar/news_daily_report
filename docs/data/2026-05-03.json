@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-03",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-03T17:43:34.617937+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation_evaluation_1",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation cinéma / culture",
+      "titre": "L’Académie des Oscars interdit les œuvres d’acteurs ou de scénaristes générées par IA",
+      "description": "L'Académie des Oscars a décidé de ne pas prendre en compte les œuvres générées par l'intelligence artificielle dans les catégories de jeu ou de scénario, cherchant à préserver l'intégrité et l'authenticité de la création artistique. Cette décision reflète des préoccupations croissantes concernant l'impact de l'IA sur l'industrie du cinéma et vise à encourager les contributions humaines.",
+      "sources": [
+        {
+          "url": "https://cybernews.com/ai-news/oscars-block-ai-generated-acting-and-writing-from-winning-awards",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_industrie_investissements_1",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Musique / plateformes numériques",
+      "titre": "Spotify introduit un badge « Verified » pour distinguer les artistes réels des créations IA",
+      "description": "Spotify a introduit un badge « Verified » pour aider les utilisateurs à distinguer les artistes humains des créations musicales générées par l'intelligence artificielle. Cette initiative intervient en réponse à la montée des contenus générés par IA, afin d'assurer que la plateforme mette en avant une expérience musicale authentique.",
+      "sources": [
+        {
+          "url": "https://cybernews.com/ai-news/spotify-starts-marking-real-artists-with-verified-badge-amid-rise-of-ai-music",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite_risques_securite_modeles_1",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des agents IA",
+      "titre": "CISA et agences partenaires publient des recommandations sur la sécurité des agents IA",
+      "description": "La CISA, en collaboration avec d'autres agences, a publié de nouvelles recommandations sur la sécurité des agents d'intelligence artificielle pour mieux protéger les systèmes critiques contre les cybermenaces potentielles. Ces directives visent à encadrer le développement et l'implémentation sécurisés des technologies d'IA dans un contexte de cybersécurité accrue.",
+      "sources": [
+        {
+          "url": "https://cybernews.com/ai-news/cisa-and-partners-publish-new-advice-on-ai-agent-safety",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
