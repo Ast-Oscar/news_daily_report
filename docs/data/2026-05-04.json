@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-04",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-04T18:12:19.419706+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Distribution et stratégie commerciale",
+      "titre": "Ouverture des souscriptions ChatGPT aux utilisateurs d’OpenClaw",
+      "description": "OpenAI a élargi l'accès à son service d'abonnement ChatGPT aux 3,2 millions d'utilisateurs d'OpenClaw, cherchant à étendre sa base d'utilisateurs active. Dans le même temps, Anthropic a décidé de bloquer l'accès de sa plateforme IA Claude à ces utilisateurs.",
+      "sources": [
+        {
+          "url": "https://www.chinatechnews.com/2026/05/04/121104-openai-opens-chatgpt-subscriptions-to-openclaws-3.2m-users-as-anthropic-blocks-claude-access-to-the-ai-agent-platform",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Joint-ventures d’entreprise",
+      "titre": "Anthropic lance une joint‑venture évaluée à 1,5 Md $",
+      "description": "Anthropic a annoncé la création d'une coentreprise valorisée à 1,5 milliard de dollars, renforçant sa position dans le secteur des services d'IA pour entreprises. Cette initiative démontre sa volonté d'investir dans des solutions technologiques avancées destinées aux besoins professionnels.",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Joint‑venture d’OpenAI",
+      "titre": "Finalisation du véhicule ‘The Deployment Company’ de 10 Md $",
+      "description": "La finalisation de la coentreprise 'The Deployment Company', d'une valeur de 10 milliards de dollars, signale l'engagement d'OpenAI dans le déploiement commercial de l'intelligence artificielle. Ce partenariat vise à accélérer la mise en œuvre de solutions technologiques à grande échelle.",
+      "sources": [
+        {
+          "url": "https://thenextweb.com/news/openai-deployco-finalized-10-billion-joint-venture",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement",
+      "titre": "OpenAI lève plus de 4 Md $ pour stimuler l’adoption entreprise",
+      "description": "OpenAI a levé plus de 4 milliards de dollars pour faciliter l'adoption de ses solutions d'IA auprès des entreprises, renforçant sa capacité à développer et commercialiser ses technologies. Cet effort représente une étape stratégique clé dans l'expansion de ses services à un niveau mondial.",
+      "sources": [
+        {
+          "url": "https://au.finance.yahoo.com/news/openai-secures-4-billion-joint-134813368.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité offensive IA",
+      "titre": "Claude Mythos et GPT‑5.5 réussissent des tests de cybersécurité agressifs",
+      "description": "Claude Mythos et GPT-5.5 ont passé avec succès une série de tests de cybersécurité rigoureux, prouvant leur robustesse technique face à des attaques sophistiquées. Les résultats attestent de leur fiabilité et de leur sécurité accrues, renforçant ainsi la confiance de leurs utilisateurs.",
+      "sources": [
+        {
+          "url": "https://explainx.ai/newsletter/explainx-ai-news-digest-may-4-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
