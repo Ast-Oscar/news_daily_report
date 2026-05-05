@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-05",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-05T18:08:08.340830+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation_evaluation_1",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Évaluation des modèles avant déploiement",
+      "titre": "Le gouvernement américain souhaite examiner les modèles IA avant leur publication",
+      "description": "Le gouvernement américain envisage d'instaurer des régulations obligeant les entreprises à soumettre leurs modèles d'intelligence artificielle à une évaluation préalable avant leur mise sur le marché. Cette initiative vise à garantir la sécurité et à prévenir les risques inhérents liés à l'IA.",
+      "sources": [
+        {
+          "url": "https://www.journaldequebec.com/2026/05/05/le-gouvernement-trump-veut-scruter-les-modeles-dintelligence-artificielle-avant-leur-sortie",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite_risques_securite_modeles_1",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité du code généré par IA",
+      "titre": "Guardrail Technologies lance un système de signalisation pour sécuriser le code IA",
+      "description": "Guardrail Technologies a lancé un nouveau système de signalisation conçu pour renforcer la sécurité du code dans les applications d'intelligence artificielle. Ce système vise à identifier et prévenir les vulnérabilités susceptibles d'être exploitées dans le développement et le déploiement des modèles d'IA.",
+      "sources": [
+        {
+          "url": "https://www.businesswire.com/news/home/20260505225337/en/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_industrie_investissements_1",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèle IA avancé",
+      "titre": "OpenAI déploie GPT‑5.5 Instant comme modèle par défaut sur ChatGPT",
+      "description": "OpenAI a annoncé la sortie de GPT-5.5 Instant, qui devient le modèle par défaut pour ChatGPT, offrant une vitesse et une efficacité améliorées. Ce modèle vise à optimiser l'expérience utilisateur grâce à une capacité de réponse rapide et précise.",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_industrie_investissements_2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure AI pour entreprises",
+      "titre": "Anthropic renforce les services IA pour la finance et la gestion d’entreprise",
+      "description": "Anthropic a intensifié ses efforts pour fournir des solutions d'intelligence artificielle aux secteurs de la finance et de la gestion d'entreprise. L'entreprise développe des agents IA sophistiqués pour Wall Street afin de faciliter la prise de décision et améliorer l'efficacité opérationnelle.",
+      "sources": [
+        {
+          "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_investissements_3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Automatisation IT entreprise",
+      "titre": "EPAM présente des outils ServiceNow alimentés par IA à Knowledge 2026",
+      "description": "À l'occasion de la conférence Knowledge 2026, EPAM Systems a présenté une nouvelle série d'outils ServiceNow alimentés par l'intelligence artificielle. Ces outils visent à optimiser les processus de développement et à offrir des solutions prêtes pour la production.",
+      "sources": [
+        {
+          "url": "https://www.stocktitan.net/news/EPAM/epam-showcases-production-ready-ai-powered-service-now-development-409ylajm3467.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_geopolitique_souverainete_1",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Financement de la défense autonome",
+      "titre": "Shield AI lève 2,25 milliards $ pour l’aviation autonome et l’acquisition d’Aechelon",
+      "description": "Shield AI a levé 2,25 milliards de dollars pour renforcer ses capacités en aviation autonome et acquérir la société Aechelon. Ce financement permettra d'accélérer le développement de technologies avancées pour les drones militaires et de consolider leurs positions dans le secteur.",
+      "sources": [
+        {
+          "url": "https://tech-insider.org/shield-ai-1-5-billion-series-g-12-7-billion-valuation-cca-aechelon-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_industrie_investissements_4",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA sécurisée",
+      "titre": "Cyborg s’associe à Austin Artificial Intelligence pour une IA sécurisée en production",
+      "description": "Cyborg et Austin Artificial Intelligence ont conclu un partenariat visant à offrir des solutions d'intelligence artificielle sécurisées tout au long du cycle de production. Leur collaboration ambitionne de garantir la sûreté et l'efficacité des systèmes IA dès leur conception jusqu'à leur déploiement.",
+      "sources": [
+        {
+          "url": "https://aithority.com/machine-learning/cyborg-partners-with-austin-artificial-intelligence-to-deliver-end-to-end-secure-ai-in-production/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_investissements_5",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Agents IA autonomes",
+      "titre": "SoundHound AI lance OASYS, plateforme IA autonome auto-évolutive",
+      "description": "SoundHound AI a lancé OASYS, une nouvelle plateforme d'intelligence artificielle autonome et auto-évolutive, conçue pour s'adapter en temps réel. Cette plateforme promet une intégration dynamique et une mise à jour continue des fonctionnalités, optimisant ainsi l'innovation automatique.",
+      "sources": [
+        {
+          "url": "https://www.taiwannews.com.tw/en/news/6355166",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
