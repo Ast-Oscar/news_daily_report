@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-06",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-06T18:13:41.009713+00:00",
+  "items": [
+    {
+      "id": "1-gene-26-5",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Robotique / Hardware IA",
+      "titre": "Genesis AI dévoile GENE‑26.5, un « cerveau » robotique offrant une manipulation physique de niveau humain",
+      "description": "Genesis AI a annoncé le lancement de GENE‑26.5, un système doté de capacités avancées permettant aux robots de manipuler physiquement des objets avec une précision comparable à celle des humains. Ce développement marque une avancée significative dans l'automatisation et la robotique, potentiellement transformant de nombreux secteurs industriels.",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/genesis-ai-unveils-gene-26-5--the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities-302763638.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-pentagon-ai-stack",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Défense / AI militaire",
+      "titre": "Le Pentagone sélectionne huit fournisseurs pour sa plateforme IA classifiée",
+      "description": "Le Pentagone a choisi huit fournisseurs pour développer des solutions d'intelligence artificielle dans le cadre de ses réseaux classifiés. Cette initiative vise à renforcer les capacités de défense des États-Unis par l'intégration d'outils d'IA avancés et sécurisés.",
+      "sources": [
+        {
+          "url": "https://www.techi.com/pentagon-ai-stack-classified-networks/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-us-examen-modeles",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Sécurité nationale / Évaluation",
+      "titre": "Accord entre les États‑Unis et des entreprises pour tester la sécurité de modèles d’IA avant publication",
+      "description": "Le PDG d’Anthropic a exprimé ses inquiétudes concernant un possible « moment dangereux » en cybersécurité provoqué par l'expansion de l’IA, soulignant les risques liés à l’évolution rapide de la technologie. Ces préoccupations rappellent l'importance de renforcer les mesures de sécurité actuelles pour prévenir les vulnérabilités.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-05-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-anthropic-cyberdanger",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité / Vulnérabilités IA",
+      "titre": "Le PDG d’Anthropic alerte sur un « moment dangereux » pour la cybersécurité lié à l’IA",
+      "description": "Le PDG d’Anthropic a exprimé ses inquiétudes concernant un possible « moment dangereux » en cybersécurité provoqué par l'expansion de l’IA, soulignant les risques liés à l’évolution rapide de la technologie. Ces préoccupations rappellent l'importance de renforcer les mesures de sécurité actuelles pour prévenir les vulnérabilités.",
+      "sources": [
+        {
+          "url": "https://creati.ai/fr/ai-news/2026-05-06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-openai-anthropic-services",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Services professionnels / IA entreprise",
+      "titre": "OpenAI et Anthropic renforcent leurs services d’accompagnement pour l’IA en entreprise",
+      "description": "OpenAI et Anthropic ont élargi leurs services de conseil pour aider les entreprises à intégrer efficacement l’intelligence artificielle dans leurs opérations. Cette initiative reflète une nouvelle phase de compétition commerciale axée sur l'adoption optimisée de l'IA dans le monde professionnel.",
+      "sources": [
+        {
+          "url": "https://www.cio.com/article/4167787/openai-anthropic-expand-services-push-signaling-new-phase-in-enterprise-ai-race.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-subquadratic",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche / Modèles LLM",
+      "titre": "Startup Subquadratic prétend avoir conçu un LLM exempt d’une contrainte mathématique historique",
+      "description": "La startup Subquadratic affirme avoir résolu une contrainte mathématique autrefois considérée comme incontournable dans le développement des modèles de langage. Cette innovation pourrait influencer profondément la conception et les performances futures des modèles d’apprentissage automatique.",
+      "sources": [
+        {
+          "url": "https://venturebeat.com/category/technology",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
