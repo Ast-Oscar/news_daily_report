@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-07",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-07T18:22:17.531736+00:00",
+  "items": [
+    {
+      "id": "gouvernance_grece",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Constitution",
+      "titre": "La Grèce propose une révision constitutionnelle : l’IA au service de l’humanité",
+      "description": "La Grèce propose de modifier sa constitution pour intégrer des principes encadrant l'utilisation de l'intelligence artificielle, notamment en insistant sur son emploi au bénéfice de l'humanité. Ce changement vise à garantir que les avancées technologiques respectent les droits fondamentaux et soutiennent le bien-être commun.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/a9d0c3963bfffefd370a1e224895ee60",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "europe_ai_act_simplification",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Règlementation UE",
+      "titre": "Simplification des règles sur l’IA adoptée par le Conseil de l’UE",
+      "description": "Le Conseil de l'UE et le Parlement ont convenu de simplifier et d'harmoniser les règles concernant l'IA pour favoriser l'innovation tout en assurant la protection des citoyens. Cette réforme prévoit des mesures plus flexibles et proportionnées face aux évolutions rapides des technologies de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "anthropic_spacex_compute",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure",
+      "titre": "Anthropic signe un accord de calcul massif avec SpaceX",
+      "description": "Anthropic a conclu un accord avec SpaceX pour obtenir un accès élargi à des capacités de calcul à grande échelle, qui faciliteront des avancées importantes dans le développement de l'IA. Ce partenariat promet d'accélérer les recherches et innovations d'Anthropic grâce aux ressources de SpaceX.",
+      "sources": [
+        {
+          "url": "https://dailyaidigest.net/",
+          "type": "secondary"
+        },
+        {
+          "url": "https://www.numerama.com/actualites/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "meta_underage_ai",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Protection des mineurs",
+      "titre": "Meta renforce la détection des utilisateurs mineurs via l’IA",
+      "description": "Meta utilise désormais l'intelligence artificielle pour estimer l'âge des utilisateurs et appliquer des restrictions d'accès pour les mineurs sur ses plateformes. Cette initiative renforce la protection des adolescents en détectant plus efficacement les comptes ne respectant pas les critères d'âge.",
+      "sources": [
+        {
+          "url": "https://www.biometricupdate.com/202605/meta-uses-ai-profiling-to-infer-user-age-enforce-teen-restrictions",
+          "type": "primary"
+        },
+        {
+          "url": "https://abc7news.com/post/meta-use-artificial-intelligence-verify-deactivate-underage-accounts-social-platforms/19052864/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "study_ai_problem_solving",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Effets cognitifs",
+      "titre": "Une utilisation brève de l’IA nuirait à la résolution de problèmes selon une étude",
+      "description": "Une étude récente révèle que l'utilisation ponctuelle de l'IA peut inhiber la capacité à résoudre des problèmes complexes, en encourageant la dépendance aux solutions automatiques. Les chercheurs soulignent l'importance d'un usage équilibré de l'IA pour préserver les compétences de réflexion critique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-07/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "eu_translation_reputation",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie de la traduction",
+      "titre": "Risque de réputation pour le secteur européen de la traduction IA",
+      "description": "Le secteur européen de la traduction par IA fait face à un risque de réputation en raison des erreurs persistantes et gênantes dans les traductions automatiques. Les critiques soulignent l'impact négatif sur la confiance des utilisateurs et appellent à une amélioration des algorithmes pour préserver la crédibilité des outils de traduction.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/2026/may/07/all",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
