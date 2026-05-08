@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-08",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-08T18:07:14.459381+00:00",
+  "items": [
+    {
+      "id": "1-grecia-constitution-ai",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Constitution / Gouvernance",
+      "titre": "La Grèce propose une réforme constitutionnelle pour encadrer l’IA au service de la société humaine",
+      "description": "La Grèce propose une réforme constitutionnelle visant à encadrer l'utilisation de l'intelligence artificielle pour assurer qu'elle serve les intérêts de la société humaine. Ce projet vise à établir des normes éthiques et légales pour éviter les abus et maximiser les bénéfices de l'IA pour le bien commun.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/a9d0c3963bfffefd370a1e224895ee60",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ue-ai-act-omnibus",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation (UE)",
+      "titre": "L’UE conclut un accord politique sur l’« AI Omnibus » : simplification de la loi et interdiction des contenus intimes non consensuels générés par IA",
+      "description": "L'Union européenne a conclu un accord sur le projet de loi « AI Omnibus » visant à simplifier la législation sur l'intelligence artificielle et à interdire les contenus intimes générés par IA sans consentement. Cette initiative cherche à renforcer la protection de la vie privée et à clarifier les responsabilités juridiques liées à l'IA.",
+      "sources": [
+        {
+          "url": "https://thenextweb.com/news/eu-ai-act-omnibus-deal-nudification-ban",
+          "type": "primary"
+        },
+        {
+          "url": "https://iapp.org/news/a/eu-agrees-to-amend-ai-act-clarifies-overlap-with-machinery-rules",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-fmi-cyber-ia",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité financière",
+      "titre": "Le FMI alerte sur la menace des cyberattaques pilotées par l’IA contre le système financier mondial",
+      "description": "Le FMI met en garde contre la montée des cyberattaques pilotées par l'intelligence artificielle, susceptibles de déstabiliser le système financier mondial. L'institution souligne l'urgence d'une coopération internationale renforcée pour prévenir et atténuer ces menaces.",
+      "sources": [
+        {
+          "url": "https://coinedition.com/fr/le-fmi-tire-la-sonnette-dalarme-alors-que-les-cyberattaques-par-ia-menacent-le-systeme-financier-mondial/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
