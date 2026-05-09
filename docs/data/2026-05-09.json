@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-09",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-09T17:47:48.897333+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation des modèles frontière",
+      "titre": "Accord volontaire aux États-Unis pour évaluation des frontier models",
+      "description": "L'accord volontaire aux États-Unis vise à établir des normes pour l'évaluation des modèles d'intelligence artificielle connus sous le nom de 'frontier models'. Ce processus d'évaluation a pour objectif d'assurer la sécurité et d'encadrer les capacités de ces modèles puissants, afin de prévenir des usages potentiellement dangereux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Modèle_frontière_(intelligence_artificielle)",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat cloud",
+      "titre": "Anthropic signe un contrat cloud de 1,8 milliard $ avec Akamai",
+      "description": "Anthropic a conclu un contrat de 1,8 milliard de dollars avec Akamai pour utiliser ses services cloud afin de soutenir ses projets en intelligence artificielle. Ce partenariat stratégique vise à renforcer l'infrastructure technologique nécessaire au développement des modèles avancés d'Anthropic, en s'appuyant sur les capacités d'Akamai.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-2026-05-08/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risque systémique en finance",
+      "titre": "Le FMI met en garde contre la menace systémique des cyberattaques IA",
+      "description": "Le FMI alerte sur les cyberattaques utilisant l'intelligence artificielle, considérant celles-ci comme une menace systémique pour l'économie mondiale. Les experts soulignent la nécessité de développer des mesures de protection robustes pour prévenir des disruptions majeures causées par ces attaques sophistiquées.",
+      "sources": [
+        {
+          "url": "https://www.rt.com/news/639668-imf-ai-global-threat/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_economie_agentic",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Matériel AI",
+      "titre": "AMD indique une orientation croissante vers les CPU pour l’infrastructure IA agentique",
+      "description": "AMD indique que l'essor de l'intelligence artificielle agentique incite l'entreprise à se concentrer davantage sur le développement de CPU adaptés à cette infrastructure. Cette orientation stratégique vise à répondre à la demande croissante pour des solutions plus puissantes et spécialisées dans le traitement des charges de travail IA.",
+      "sources": [
+        {
+          "url": "https://overclock3d.net/news/cpu_mainboard/amd-claims-agentic-ai-is-driving-cpu-focus-in-ai-infrastructure/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Emploi",
+      "titre": "Cloudflare réduit ses effectifs pour passer à une stratégie \"agentic AI‑first\"",
+      "description": "Cloudflare a décidé de réduire ses effectifs pour se diriger vers une stratégie axée prioritairement sur l'intelligence artificielle 'agentic AI-first'. Ce changement de cap s’inscrit dans un contexte plus large où de nombreuses entreprises technologiques revoient leurs priorités pour s'adapter aux innovations rapides en IA.",
+      "sources": [
+        {
+          "url": "https://www.moneycontrol.com/world/from-cloudflare-to-meta-and-amazon-how-the-ai-layoff-wave-has-wiped-out-more-than-90-000-jobs-this-year-explained-article-13913296.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_recherche_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Nouveaux modèles IA",
+      "titre": "Trois nouveaux modèles IA de référence lancés en mai 2026",
+      "description": "En mai 2026, trois nouveaux modèles d'intelligence artificielle de référence ont été lancés, mettant en avant des avancées significatives dans leurs capacités techniques. Ces modèles visent à repousser les limites actuelles de l’IA en offrant des performances améliorées dans divers secteurs industriels.",
+      "sources": [
+        {
+          "url": "https://smashyourai.com/blog/frontier-ai-models-may-2026-roundup",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité des chaînes technologiques",
+      "titre": "Les États‑Unis exhortent à éviter les dépendances à l’égard de nations adverses en matière d’IA",
+      "description": "Les États-Unis exhortent à réduire les dépendances technologiques vis-à-vis de nations perçues comme adversaires, notamment dans le domaine de l'intelligence artificielle. Cette préoccupation s'inscrit dans une volonté stratégique de renforcer la sécurité nationale et de protéger les intérêts économiques américains.",
+      "sources": [
+        {
+          "url": "https://www.theweek.in/wire-updates/international/2026/05/09/must-avoid-dependencies-on-adversarial-nations-in-ai-us-official.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
