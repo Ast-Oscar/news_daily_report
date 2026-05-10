@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-10",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-10T17:50:03.076948+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation_usa_pre-release_evaluations",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – évaluation gouvernementale",
+      "titre": "Google, Microsoft, xAI et autres laboratoires offrent l’accès à leurs modèles IA avant diffusion",
+      "description": "Les grands laboratoires tels que Google, Microsoft et xAI ont choisi de rendre accessibles leurs modèles d'intelligence artificielle avant leur diffusion publique. Cette initiative vise à augmenter la transparence et à permettre à des chercheurs tiers d'évaluer et de valider ces technologies en amont.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le_fronti%C3%A8re_%28intelligence_artificielle%29",
+          "type": "primary"
+        },
+        {
+          "url": "https://m.investing.com/news/stock-market-news/microsoft-xai-and-google-will-share-ai-models-with-us-govt-for-security-reviews-4658803?ampMode=1",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_us_pentagone_recrutements_ia",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "États-Unis – usage militaire",
+      "titre": "Le Pentagone engage plusieurs fournisseurs d’IA pour ses opérations classifiées, exclut Anthropic",
+      "description": "Le Pentagone a sélectionné plusieurs fournisseurs d'intelligence artificielle pour ses opérations classifiées mais a exclu la société Anthropic. Cette décision reflète les choix stratégiques liés à la sécurité nationale et à la fiabilité des technologies employées.",
+      "sources": [
+        {
+          "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/3163428030061/ia-le-pentagone-exclut-anthropic-et-recrute-ses-rivaux-pour-ses-operations-classifiees",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "culture_spotify_badge_verified",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Culture – musique générée par IA",
+      "titre": "Spotify introduit un badge « Verified by Spotify » pour distinguer les artistes humains des contenus IA",
+      "description": "Spotify introduit un badge « Verified by Spotify » pour différencier les créateurs humains des contenus générés par intelligence artificielle. Ce mécanisme vise à assurer l'authenticité et à prévenir les confusions parmi les abonnés du service de streaming musical.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mai_2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
