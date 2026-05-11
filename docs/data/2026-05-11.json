@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-11",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-11T18:56:21.210822+00:00",
+  "items": [
+    {
+      "id": "1a1b2c3d",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructures",
+      "titre": "Anthropic signe un contrat de 1,8 milliard $ avec Akamai pour l’IA",
+      "description": "Anthropic a conclu un contrat d'une valeur de 1,8 milliard de dollars avec Akamai pour utiliser ses services de cloud afin de renforcer ses capacités en intelligence artificielle. Ce partenariat vise à accélérer le développement et le déploiement de solutions IA innovantes par Anthropic.",
+      "sources": [
+        {
+          "url": "https://www.resultsense.com/news/2026-05-11-anthropic-akamai-cloud-deal/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2d4e5f6g",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Vulnérabilités",
+      "titre": "Premier exploit zero‑day conçu par IA détecté par Google",
+      "description": "Google a détecté le premier exploit zero-day créé avec l'aide de l'intelligence artificielle, marquant une évolution notable des menaces cybernétiques. Cet exploit représente un défi inédit pour la cybersécurité, étant développé par des méthodes entièrement nouvelles.",
+      "sources": [
+        {
+          "url": "https://www.numerama.com/cyberguerre/2250983-google-a-detecte-le-premier-exploit-zero-day-concu-avec-laide-de-lia.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3h7i8j9k",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Technologie/Matériel",
+      "titre": "Actions Qualcomm et Micron en forte hausse liées à la demande IA",
+      "description": "Les actions de Qualcomm et Micron ont enregistré une hausse significative en raison de l'augmentation de la demande pour les technologies liées à l'intelligence artificielle. Cette dynamique est stimulée par les prévisions de croissance et d'expansion dans le secteur de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.asatunews.co.id/en/qualcomm-micron-shares-surge-ai",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4l0m1n2o",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "L’Europe envisage d’alléger son IA Act",
+      "description": "L'Union européenne envisage de modifier son règlement sur l'intelligence artificielle, l'IA Act, pour le rendre moins contraignant et favoriser l'innovation. Cette démarche signifie un réajustement des exigences pour faciliter le développement technologique tout en maintenant la régulation.",
+      "sources": [
+        {
+          "url": "https://www.lemondeinformatique.fr/actualites/lire-l-europe-prete-a-alleger-son-reglement-sur-l-ia-100140.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5p3q4r5s",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Accès aux modèles",
+      "titre": "Bruxelles discute avec OpenAI et Anthropic de l’accès à leurs modèles IA",
+      "description": "La Commission européenne est en discussion avec OpenAI et Anthropic afin d'explorer l'accès à leurs modèles d'intelligence artificielle. Ces pourparlers pourraient influencer les orientations réglementaires futures et l'intégration de ces technologies en Europe.",
+      "sources": [
+        {
+          "url": "https://www.g4media.ro/comisia-europeana-discuta-cu-openai-si-anthropic-despre-accesul-la-modelele-lor-ai.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
