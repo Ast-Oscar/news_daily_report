@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-12",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-12T18:54:28.661804+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Contrôle des modèles IA aux États-Unis",
+      "titre": "Nouvelle réglementation américaine : soumission des modèles IA au CAISI avant tout déploiement public",
+      "description": "La nouvelle réglementation américaine impose que tous les modèles d'intelligence artificielle soient soumis au CAISI avant leur déploiement public, marquant une étape cruciale pour la régulation des technologies émergentes. Cette mesure vise à garantir la sécurité et l'éthique des modèles avant leur mise à disposition du grand public.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le_fronti%C3%A8re_%28intelligence_artificielle%29",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Exploit zero-day développé par IA",
+      "titre": "Google détecte le premier exploit « zero‑day » conçu avec l’aide d’une IA",
+      "description": "Google a détecté le premier exploit de type « zero-day » qui a été conçu à l'aide de l'intelligence artificielle, soulignant une nouvelle ère de menaces en cybersécurité. Cette découverte met en lumière les risques accrus que posent les technologies IA dans la conception de codes malveillants.",
+      "sources": [
+        {
+          "url": "https://www.numerama.com/cyberguerre/2250983-google-a-detecte-le-premier-exploit-zero-day-concu-avec-laide-de-lia.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Enjeux énergétiques et structurels",
+      "titre": "L’IA transforme les dynamiques du marché : mémoire, énergie, sécurité et géopolitique en jeu",
+      "description": "L'intelligence artificielle transforme les dynamiques du marché, impactant les secteurs de la mémoire, de l'énergie, de la sécurité et de la géopolitique. Ces évolutions marquent un redécoupage technologico-économique où les acteurs doivent s'adapter aux nouvelles réalités imposées par l'IA.",
+      "sources": [
+        {
+          "url": "https://www.diariobitcoin.com/tecnologia/ia-energia-y-chips-asi-luce-el-mapa-tecnologico-que-perfila-el-12-de-mayo-de-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "4_economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Produit Audio en temps réel",
+      "titre": "OpenAI lance de nouveaux modèles audio temps réel GPT‑Realtime",
+      "description": "OpenAI a lancé de nouveaux modèles audio GPT-Realtime, qui permettent un traitement vocal en temps réel. Cette innovation représente une avancée dans les interactions homme-machine, rendant les applications IA plus réactives et fluides.",
+      "sources": [
+        {
+          "url": "https://www.newtech.ro/en/blog-it-news-may-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
