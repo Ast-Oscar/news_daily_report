@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-13T18:54:34.476108+00:00",
+  "items": [
+    {
+      "id": "actualite-1",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation européenne",
+      "titre": "Arthur Mensch (Mistral AI) critique la régulation européenne du numérique",
+      "description": "Arthur Mensch, dirigeant de Mistral AI, critique les efforts de l'Europe pour réglementer le numérique en arguant que ces mesures sont inefficaces face à la puissance des États-Unis. Il affirme que l'Europe devrait favoriser l'innovation plutôt que de se concentrer sur la réglementation pour renforcer sa position.",
+      "sources": [
+        {
+          "url": "https://www.01net.com/actualites/reglementer-pour-se-defendre-face-aux-etats-unis-ca-ne-marche-pas-arthur-mensch-mistral-ai.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements massifs",
+      "titre": "Les géants de la tech envisagent 725 milliards de dollars d'investissements liés à l'IA d’ici 2026",
+      "description": "Les géants de la tech prévoient d'investir 725 milliards de dollars dans l'IA d'ici 2026, ce qui souligne l'importance croissante de l'intelligence artificielle dans l'économie mondiale. Ces investissements devraient notamment permettre des avancées significatives dans le domaine de la recherche et du développement technologique.",
+      "sources": [
+        {
+          "url": "https://www.bdor.fr/actualites-or/bulle-ia-geants-tech-725-milliards",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-3",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Exploitation malveillante",
+      "titre": "Tentative d’exploitation par IA d’une zero‑day bloquée par Google",
+      "description": "Une tentative d'exploitation d'une vulnérabilité zero-day par l'intelligence artificielle a été bloquée par Google, illustrant l'importance croissante de la cybersécurité à l'ère de l'IA. Cette intervention a permis de prévenir une potentielle exploitation massive de cette faille de sécurité.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-2026-05-13/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-4",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "Fausses versions malveillantes de Claude AI installe une porte dérobée",
+      "description": "Des versions malveillantes de l'outil Claude AI sont utilisées pour installer une porte dérobée sur les systèmes des utilisateurs. Ce problème soulève des questions critiques sur la sécurité et la confiance dans les applications basées sur l'IA.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/05/13/ia-cybersecurite-les-11-actus-cles-du-13-mai-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-5",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements internationaux",
+      "titre": "SoftBank envisagerait un investissement de 100 milliards $ dans l’IA en France",
+      "description": "SoftBank envisagerait d'investir 100 milliards de dollars dans le secteur de l'IA en France, soulignant l'attrait croissant du pays pour les investissements technologiques. Cet investissement pourrait substantiellement booster le développement de l'IA en France et soutenir de nouvelles innovations.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/Cayas/comments/1tc7ggi/un_investissement_faramineux_de_100_milliards_de/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "actualite-6",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Conditions de travail",
+      "titre": "Révolte des employés de Meta contre un logiciel IA de suivi des interactions",
+      "description": "Une étude révèle que les chatbots d'intelligence artificielle refusent quatre fois plus les demandes des utilisateurs noirs que celles des autres utilisateurs, soulevant des questions sur le biais algorithmique. Cela met en exergue la nécessité d'améliorer l'équité et l'inclusivité dans la conception des IA.",
+      "sources": [
+        {
+          "url": "https://cybernews.com/ai-news/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-7",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Biais et discrimination",
+      "titre": "Les chatbots IA refusent quatre fois plus souvent les utilisateurs noirs",
+      "description": "Une étude révèle que les chatbots d'intelligence artificielle refusent quatre fois plus les demandes des utilisateurs noirs que celles des autres utilisateurs, soulevant des questions sur le biais algorithmique. Cela met en exergue la nécessité d'améliorer l'équité et l'inclusivité dans la conception des IA.",
+      "sources": [
+        {
+          "url": "https://cybernews.com/ai-news/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actualite-8",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Procès influents",
+      "titre": "Procès Musk contre Altman, enjeu pour l’avenir de l’IA",
+      "description": "Le procès entre Elon Musk et Sam Altman pourrait avoir des répercussions majeures sur l'avenir de l'intelligence artificielle, en façonnant les réglementations et normes à venir dans ce secteur. Cette confrontation judiciaire attire l'attention sur les enjeux éthiques et commerciaux entourant le développement de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/article/justice-elon-musk-contre-sam-altman-leur-proces-changera-t-il-l-avenir-de-l-ia_243919",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
