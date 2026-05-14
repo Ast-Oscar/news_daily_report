@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-14T18:52:20.314160+00:00",
+  "items": [
+    {
+      "id": "1-grece-constitution",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Constitution",
+      "titre": "La Grèce propose une réforme constitutionnelle pour faire servir l’IA à l'humanité",
+      "description": "La Grèce envisage de modifier sa constitution pour intégrer des cadres éthiques visant à garantir que les technologies d'intelligence artificielle servent les intérêts de l'humanité. Cette initiative s'inscrit dans une démarche visant à équilibrer les progrès technologiques et les valeurs humanistes du pays.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/a9d0c3963bfffefd370a1e224895ee60",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-eu-ai-act-delai",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation UE",
+      "titre": "L’UE reporte les obligations pour les IA à haut risque à décembre 2027",
+      "description": "L'Union européenne a repoussé la date limite pour la mise en œuvre des régulations concernant les intelligences artificielles à haut risque à décembre 2027, offrant ainsi plus de temps aux entreprises pour se conformer aux nouvelles règles. Ce report est accueilli positivement par l'industrie, qui espérait des délais supplémentaires pour s'adapter aux exigences.",
+      "sources": [
+        {
+          "url": "https://www.itpro.com/business/policy-and-legislation/this-closes-a-gap-that-has-caused-real-uncertainty-in-the-market-changes-to-eu-ai-act-implementation-deadlines-welcomed-by-industry",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-etats-unis-caidi",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "État fédéral US",
+      "titre": "Blocage d’une action exécutive fédérale sur l’IA aux États-Unis",
+      "description": "Une tentative de mise en place d'une action exécutive sur l'intelligence artificielle aux États-Unis a été retardée en raison de désaccords internes au gouvernement. Les divergences portent sur la manière dont l'IA devrait être réglementée à un niveau fédéral, reflétant les préoccupations concernant la gouvernance technologique.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/05/13/ai-executive-action-white-house-infighting",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-pentagone-bigtech",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité nationale",
+      "titre": "Le Pentagone renforce ses partenariats IA avec les géants technologiques américains",
+      "description": "Le Pentagone intensifie ses collaborations avec les grandes entreprises technologiques américaines afin de renforcer le développement et l'utilisation sécurisée de l'intelligence artificielle dans les opérations militaires. Ces partenariats visent à garantir que les États-Unis maintiennent leur avantage compétitif dans le domaine des technologies avancées.",
+      "sources": [
+        {
+          "url": "https://www.techtarget.com/searchcio/feature/Weekly-News-Roundup-OpenAI-launch-AI-lawsuits-and-frameworks-and-Pentagon-AI-alliances",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-illinois-ai-protection-enfants",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation étatique US",
+      "titre": "Illinois débat d’un projet de loi pour protéger les enfants des risques liés aux IA conversationnelles",
+      "description": "L'Illinois examine un projet de loi visant à protéger les enfants des risques posés par les intelligences artificielles conversationnelles, en particulier ceux liés à la sécurité et au suicide. L'initiative législative a pour but de mettre en place des garde-fous pour les interactions des jeunes avec les technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/local/chicago/2026/05/06/illinois-ai-bills-chatbot-safety-suicide-risks-child-protection",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-embodied-ai-sae",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche appliquée",
+      "titre": "Présentation de l’IA incarnée au SAE World Congress 2026 : enjeux de sécurité et confiance",
+      "description": "Le SAE World Congress 2026 a mis en lumière les enjeux de sécurité et de confiance autour de l'intelligence artificielle incarnée, en discutant des mesures pour garantir son intégration responsable dans divers domaines. Les experts ont souligné l'importance de développer des standards robustes pour gérer les risques potentiels associés à ces technologies.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2605.10653",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
