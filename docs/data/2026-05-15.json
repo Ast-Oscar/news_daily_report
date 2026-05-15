@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-15",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-15T18:20:28.041005+00:00",
+  "items": [
+    {
+      "id": "ia_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation étatique",
+      "titre": "Illinois propose une législation encadrant les usages de l’IA",
+      "description": "L'État de l'Illinois a proposé une législation visant à réguler les usages de l'intelligence artificielle, cherchant à établir des normes éthiques et de transparence. Le projet de loi met l'accent sur la protection de la vie privée et des droits des consommateurs face à l'essor des technologies numériques.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/chicago/news/illinois-senate-democrats-introduce-bills-regulate-artificial-intelligence/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_securite_uk",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Directives aux entreprises",
+      "titre": "Royaume‑Uni : les entreprises invitées à limiter les risques liés aux modèles IA de pointe",
+      "description": "Le gouvernement britannique appelle les entreprises à prendre des mesures pour limiter les risques potentiels associés aux modèles d'IA avancés. Ces recommandations visent à encadrer l'utilisation de l'IA de pointe pour assurer la sécurité et la responsabilité technologique.",
+      "sources": [
+        {
+          "url": "https://ca.marketscreener.com/news/uk-firms-should-take-steps-to-limit-risks-from-frontier-ai-models-uk-says-ce7f5bd2d081fe23/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_cyberattaque",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyberattaque",
+      "titre": "Cyberattaque majeure contre OpenAI et Mistral AI",
+      "description": "OpenAI et Mistral AI ont été les cibles d'une cyberattaque massive entraînant une fuite de données sensibles. Cette attaque met en lumière les vulnérabilités des géants de l'IA face aux menaces cybernétiques croissantes.",
+      "sources": [
+        {
+          "url": "https://www.01net.com/actualites/fuite-donnees-rois-ia-cyberattaque-massive-frapper-openai-mistral.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Doctrine militaire",
+      "titre": "Le Pentagone qualifie l’IA de « guerre révolutionnaire »",
+      "description": "Le Pentagone considère que l'intelligence artificielle constitue une forme de guerre révolutionnaire, changeant la manière dont les conflits modernes sont envisagés et menés. Cette déclaration souligne l'importance stratégique croissante de l'IA dans le domaine militaire.",
+      "sources": [
+        {
+          "url": "https://cyberscoop.com/pentagon-cyber-ai-revolutionary-warfare-mythos/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements / expansion",
+      "titre": "OpenAI lance DeployCo, une entité de déploiement IA dotée de 4 milliards $",
+      "description": "OpenAI a lancé DeployCo, une nouvelle entité destinée à déployer des solutions d'intelligence artificielle, soutenue par un financement de 4 milliards de dollars. Ce projet vise à accélérer l'innovation et l'application de l'IA à grande échelle.",
+      "sources": [
+        {
+          "url": "https://www.distillintelligence.com/briefings/ai-leaders-2026-05-15",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation produit",
+      "titre": "xAI d’Elon Musk dévoile son premier agent de codage « Grok Build »",
+      "description": "xAI, dirigé par Elon Musk, a présenté Grok Build, son premier agent de codage conçu pour concurrencer les acteurs établis tels qu'Anthropic. Ce développement marque une étape importante pour xAI dans le domaine de l'intelligence artificielle appliquée au codage.",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/amp/technology/tech-news/elon-musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic-126051500120_1.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
