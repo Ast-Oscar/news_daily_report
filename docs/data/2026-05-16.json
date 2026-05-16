@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-16",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-16T17:54:21.076056+00:00",
+  "items": [
+    {
+      "id": "IA_01_Gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Ethique et instances",
+      "titre": "Le Pape Léon XIV crée une commission vaticane sur l’IA",
+      "description": "Dans un rescrit publié le 16 mai 2026, le pape Léon XIV approuve la création d’une commission interdicastérielle chargée d’examiner les enjeux éthiques liés à l'intelligence artificielle, en réponse à l’expansion rapide de cette technologie et au souci de préserver la dignité humaine. Cette commission, placée sous la coordination initiale du dicastère pour le Service du développement humain intégral, rassemble plusieurs dicastères et académies pontificales, et voit sa présidence tournée chaque année entre ses membres.",
+      "sources": [
+        {
+          "url": "https://www.vaticannews.va/fr/vatican/news/2026-05/rescrit-pape-commission-dicasteres-intelligence-artificielle.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
