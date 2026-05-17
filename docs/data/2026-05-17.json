@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-17",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-17T17:55:57.855449+00:00",
+  "items": [
+    {
+      "id": "1-ILLINOIS_AI_LEGISLATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation – États-Unis",
+      "titre": "Législateurs de l’Illinois introduisent un projet de loi sur la régulation de l’IA",
+      "description": "Les législateurs de l'Illinois ont présenté plusieurs projets de loi visant à encadrer l'utilisation de l'intelligence artificielle dans l'État. Ces propositions cherchent à garantir une transparence accrue, à assurer la protection des données personnelles et à prévenir la discrimination algorithmique.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/chicago/news/illinois-senate-democrats-introduce-bills-regulate-artificial-intelligence/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-EU_AI_ACT_DELAY",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation – Union européenne",
+      "titre": "L’Union européenne reporte l’application de certaines règles de l’AI Act",
+      "description": "L'Union européenne a décidé de reporter l'application de certains aspects de l'AI Act en raison de préoccupations soulevées par l'industrie sur la faisabilité des règles imposées. Ce délai permettra aux secteurs concernés de mieux s'adapter aux nouvelles réglementations et d'assurer une mise en œuvre plus efficace.",
+      "sources": [
+        {
+          "url": "https://www.jdsupra.com/legalnews/ai-regulatory-update-for-energy-new-5696939/",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.theregister.com/ai-and-ml/2026/05/07/eu_hits_snooze_on_ai_act_rules_after_industry_backlash/5234530",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-GERMANY_CYBERSECURITY_ALERT",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cyber‑menace / IA offensive",
+      "titre": "L’Allemagne sonne l’alerte sur des IA chinoises proches de Mythos en capacités offensives",
+      "description": "L'Allemagne a exprimé ses inquiétudes concernant le développement rapide des capacités offensives des intelligences artificielles chinoises, comparables à celles de Mythos. Le gouvernement allemand appelle à une évaluation approfondie des menaces pour la cybersécurité que ces technologies pourraient représenter.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/05/17/cybersecurite-les-8-actualites-majeures-du-17-mai-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-PENTAGON_AI_DEPLOYMENT",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Déploiement militaire / IA",
+      "titre": "Le Pentagone autorise 8 entreprises à déployer leurs IA sur ses réseaux classifiés",
+      "description": "Le Pentagone a donné son approbation à huit entreprises technologiques pour déployer leurs systèmes d'intelligence artificielle sur ses réseaux classifiés. Cette initiative vise à renforcer la capacité de traitement des données et à améliorer la sécurité nationale grâce à l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://breakingdefense.com/2026/05/pentagon-clears-7-tech-firms-to-deploy-their-ai-on-its-classified-networks/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
