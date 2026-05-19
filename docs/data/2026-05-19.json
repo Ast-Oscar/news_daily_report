@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-19",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-19T18:57:41.706812+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Relations internationales",
+      "titre": "La Chine et les États‑Unis s’engagent à lancer un dialogue intergouvernemental sur la gouvernance de l’IA",
+      "description": "La Chine et les États-Unis ont convenu de commencer un dialogue intergouvernemental sur la gouvernance de l'intelligence artificielle, signe d'un engagement commun envers le développement sûr et responsable de cette technologie. Ce dialogue vise à établir des normes internationales et à réduire les risques potentiels associés à l'IA.",
+      "sources": [
+        {
+          "url": "https://www.digitaljournal.com/business/beijing-says-china-us-should-work-together-to-promote-ai-governance/article",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "National – États‑Unis",
+      "titre": "La justice américaine divisée sur la désignation d’Anthropic comme risque de la chaîne d’approvisionnement",
+      "description": "La justice américaine est divisée quant à la classification d'Anthropic comme une menace pour la chaîne d'approvisionnement, une question qui soulève des préoccupations de sécurité nationale. Le débat tourne autour du potentiel de cette entreprise dans l'impact sur la cybersécurité et l'intégrité des infrastructures technologiques critiques.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2026/05/19/ai-anthropic-trump-security-risk/07e39d7a-53ac-11f1-9c40-7a0a12d9e745_story.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Stratégie industrielle",
+      "titre": "Safran acquiert le pôle de renseignement militaire IA de Kayrros",
+      "description": "Safran a acquis le pôle de renseignement militaire basé sur l'intelligence artificielle de la société Kayrros pour renforcer sa maîtrise de l'ensemble de la chaîne d'analyse. Cette acquisition s'inscrit dans une stratégie visant à consolider sa position dans le domaine du renseignement militaire et des technologies avancées de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/bourse/actualites/renseignement-militaire-safran-acquiert-la-pepite-ia-kayrros-pour-maitriser-l-ensemble-de-la-chaine-d-analyse-652aef6762e2a4efdaf90b852015d7f2",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éthique et religion",
+      "titre": "Le pape Léon XIV prépare une encyclique sur la « protection de la personne humaine à l’ère de l’IA »",
+      "description": "Le pape Léon XIV travaille sur une nouvelle encyclique axée sur la protection de la dignité humaine à l'ère de l'intelligence artificielle. Ce document vise à aborder les enjeux éthiques de l'IA, en s'alliant avec des experts, dont un cofondateur d'Anthropic, pour promouvoir une utilisation responsable et humaine de cette technologie.",
+      "sources": [
+        {
+          "url": "https://fr.euronews.com/next/2026/05/19/bytes-bibliques-le-pape-et-le-cofondateur-danthropic-sallient-pour-lethique-de-lia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
