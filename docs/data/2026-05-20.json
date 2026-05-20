@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-20",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-20T19:22:03.967368+00:00",
+  "items": [
+    {
+      "id": "1_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Exportations & contrôle des puces IA",
+      "titre": "États‑Unis propose un nouveau cadre pour l’exportation de puces avancées utilisées en IA",
+      "description": "L'administration Biden a introduit de nouvelles règles concernant l'exportation de puces avancées, cruciales pour les technologies d'intelligence artificielle. Cette proposition a suscité des réactions de l'industrie qui craint des impacts sur la compétitivité internationale.",
+      "sources": [
+        {
+          "url": "https://courthousenews.com/bidens-administration-proposes-new-rules-on-exporting-ai-chips-provoking-an-industry-pushback/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Préoccupations des banques centrales",
+      "titre": "La Banque d’Angleterre priorise les modèles IA de pointe contre les agents autonomes",
+      "description": "La Banque d'Angleterre a mis en avant l'importance des modèles d'intelligence artificielle de pointe sur les systèmes autonomes en termes de régulation. Les préoccupations actuelles se concentrent sur les impacts potentiels de ces technologies avancées plutôt que sur les agents autonomes.",
+      "sources": [
+        {
+          "url": "https://www.compliancecorylated.com/news/frontier-not-agentic-biggest-ai-concern-for-regulators-right-now/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "Blackstone et Google lancent un investissement de 5 milliards $ en infrastructure IA",
+      "description": "Blackstone et Google ont annoncé un investissement conjoint de 5 milliards de dollars pour développer une infrastructure dédiée à l'intelligence artificielle. Ce partenariat vise à renforcer les capacités technologiques et soutenir l'évolution du secteur de l'IA à grande échelle.",
+      "sources": [
+        {
+          "url": "https://frnt.com/story/13247/tech-earnings-frenzy-hits-as-fed-meeting-and-mideast-tensions-loom",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Écosystème IA à Singapour",
+      "titre": "OpenAI engage 300 millions S$ pour développer les capacités IA de Singapour",
+      "description": "La technologie SynthID et le watermarking de l'IA sont adoptés pour assurer la traçabilité des contenus générés par intelligence artificielle. Ce système vise à promouvoir la transparence et la responsabilité des contenus numériques dans un contexte croissant de production automatisée.",
+      "sources": [
+        {
+          "url": "https://jmacweb.com/ai-news/daily/2026-05-20",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "5_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Accès des chatbots via WhatsApp",
+      "titre": "Meta autorise l’accès limité gratuit à WhatsApp pour les chatbots concurrents IA",
+      "description": "Meta offre désormais un accès limité et gratuit à WhatsApp pour les développeurs de chatbots IA tiers. Cette initiative vise à encourager l'innovation et la concurrence dans le développement de technologies de messagerie intelligente.",
+      "sources": [
+        {
+          "url": "https://www.stockjabber.com/news/all/today-20-may-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "6_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Filigrane & provenance des contenus IA",
+      "titre": "Adoption de SynthID et du watermarking IA pour traçabilité des contenus",
+      "description": "La technologie SynthID et le watermarking de l'IA sont adoptés pour assurer la traçabilité des contenus générés par intelligence artificielle. Ce système vise à promouvoir la transparence et la responsabilité des contenus numériques dans un contexte croissant de production automatisée.",
+      "sources": [
+        {
+          "url": "https://jmacweb.com/ai-news/daily/2026-05-20",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "id": "7_defense",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Éthique & gouvernance internationale",
+      "titre": "OpenAI propose aujourd’hui une gouvernance mondiale de l’éthique IA incluant les États-Unis et la Chine",
+      "description": "OpenAI a proposé une approche de gouvernance éthique mondiale pour l'intelligence artificielle, incluant la coopération des États-Unis et de la Chine. L'objectif est de créer des normes internationales qui assurent une utilisation responsable et sécurisée de l'IA à l'échelle globale.",
+      "sources": [
+        {
+          "url": "https://enginerds.com/insights/Artificial%20Intelligence%20%26%20Machine%20Learning/AI%20ethics%20%26%20regulation/2026/05/19",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8_rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Paradigme de l’IA agentique",
+      "titre": "Google inaugure l’ère de l’IA agentique à Google I/O",
+      "description": "Google a annoncé l'introduction de l'intelligence artificielle agentique lors de son événement Google I/O. Cette avancée promet de transformer la manière dont l'IA interagit avec les utilisateurs et développe de nouvelles capacités proactives.",
+      "sources": [
+        {
+          "url": "https://www.01net.com/actualites/google-annonce-lere-de-lia-agentique-quest-ce-que-ca-va-changer.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
