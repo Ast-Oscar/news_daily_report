@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-21",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-21T18:57:28.070271+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Gouvernance des grands modèles",
+      "titre": "Le Bureau du directeur national de la cybersécurité des États‑Unis réunit les géants de l’IA pour encadrer les grands modèles",
+      "description": "Un consortium français a rejoint le projet AION pour postuler aux AI Gigafactories européennes. Cette initiative vise à renforcer la collaboration sur le continent et à développer des infrastructures de grande envergure pour l'IA.",
+      "sources": [
+        {
+          "url": "https://www.lefilia.fr/…",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Collaboration secteur public‑privé",
+      "titre": "OpenAI signe un protocole avec Virtualitics pour renforcer la prise de décision assistée",
+      "description": "OpenAI a signé un protocole d'accord avec Virtualitics pour intégrer l'IA dans les processus décisionnels. Ce partenariat vise à améliorer l'analyse des données et à soutenir la prise de décision assistée par l'IA.",
+      "sources": [
+        {
+          "url": "https://aithority.com/…",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Souveraineté numérique européenne",
+      "titre": "Un consortium français rejoint AION pour candidater aux AI Gigafactories européennes",
+      "description": "Un consortium français a rejoint le projet AION pour postuler aux AI Gigafactories européennes. Cette initiative vise à renforcer la collaboration sur le continent et à développer des infrastructures de grande envergure pour l'IA.",
+      "sources": [
+        {
+          "url": "https://www.lefilia.fr/…",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "— ",
+      "titre": "Pas d’actualité spécifique à la cybersécurité IA publiée aujourd’hui",
+      "description": "Aucune information spécifique publiée ce jour concernant la cybersécurité, les risques ou la sécurité des modèles IA.",
+      "sources": [
+        {
+          "url": "— aucun — ",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "— ",
+      "titre": "Pas d’actualité scientifique ou recherche IA publiée aujourd’hui",
+      "description": "Aucune information publiée aujourd’hui relative à la santé, la science ou la recherche en IA.",
+      "sources": [
+        {
+          "url": "— aucun — ",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "— ",
+      "titre": "Pas d’actualité défense ou géopolitique liée à l’IA aujourd’hui",
+      "description": "Aucune nouvelle aujourd’hui en lien avec la défense, la géopolitique ou la souveraineté concernant l’IA.",
+      "sources": [
+        {
+          "url": "— aucun — ",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
