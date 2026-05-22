@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-22",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-22T18:51:30.773935+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation – UE",
+      "titre": "Projet de compromis européen admet le recours à « intérêts légitimes » pour certains systèmes IA",
+      "description": "Un projet de compromis européen propose de permettre l'utilisation d'« intérêts légitimes » pour justifier certains systèmes d'IA. Ce projet fait partie d'un paquet de simplification visant à clarifier et adapter la régulation autour de l'IA dans l'Union européenne.",
+      "sources": [
+        {
+          "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2481006/ai-systems-may-rely-on-legitimate-interest-eu-simplification-package-draft-says",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation – États-Unis",
+      "titre": "Report du projet d’ordonnance exécutive sur l’IA par Donald Trump",
+      "description": "Le projet d’ordonnance exécutive sur l’IA prévu par Donald Trump a été reporté. Cette décision intervient alors que l'administration réévalue son approche de la régulation de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement – AI",
+      "titre": "OpenAI et Anthropic atteignent des revenus record au 1er trimestre",
+      "description": "OpenAI et Anthropic ont atteint des revenus record au premier trimestre de l'année. Cet accomplissement souligne leur position dominante et leur croissance continue dans le secteur de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.distillintelligence.com/briefings/ai-leaders-2026-05-22",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Partage de vulnérabilités IA",
+      "titre": "Anthropic autorise désormais le partage de menaces détectées par Mythos",
+      "description": "Anthropic a pris la décision de permettre le partage des menaces identifiées via son système Mythos. Cette mesure vise à améliorer la sécurité et la collaboration face aux risques émergents dans le domaine de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.readaboutai.com/may-22-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-DÉFENSE_GÉOPOLITIQUE_SOUVERAINETÉ",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Modèles frontaliers – États-Unis",
+      "titre": "Accès gouvernemental aux « frontier models » 90 jours avant lancement public envisagé",
+      "description": "La possibilité pour le gouvernement d'accéder aux « frontier models » d’intelligence artificielle 90 jours avant leur lancement public est à l'étude. Cette stratégie a pour but d'évaluer et de mesurer les impacts potentiels de ces nouvelles technologies avant leur mise à disposition générale.",
+      "sources": [
+        {
+          "url": "https://www.itpro.com/technology/artificial-intelligence/trump-wants-ai-models-90-days-before-they-go-public",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
