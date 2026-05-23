@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-23",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-23T17:58:24.958656+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Consultation publique UE",
+      "titre": "Lancement d’une consultation publique par la Commission européenne sur les lignes directrices pour les systèmes IA à haut risque",
+      "description": "La Commission européenne a lancé une consultation publique portant sur les lignes directrices concernant les systèmes d'intelligence artificielle (IA) jugés à haut risque. Cette initiative vise à intégrer les contributions des parties prenantes pour renforcer la réglementation autour de l'IA et garantir des applications sécurisées et conformes aux normes éthiques.",
+      "sources": [
+        {
+          "url": "https://www.itpro.com/business/policy-and-legislation/european-commission-opens-public-consultation-on-long-awaited-draft-for-high-risk-ai-guidelines",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Secteur bancaire",
+      "titre": "Les banques britanniques conscientisées au risque systémique lié aux modèles IA en cybersécurité",
+      "description": "Les banques britanniques sont désormais conscientes du potentiel risque systémique posé par l'utilisation des modèles d'intelligence artificielle en cybersécurité. Ces institutions financières sont invitées à renforcer leurs stratégies de gestion des risques pour prévenir d'éventuelles menaces issues de la technologie IA.",
+      "sources": [
+        {
+          "url": "https://www.techradar.com/pro/ai-driven-cyber-discovery-signals-a-new-era-of-systemic-risk-for-banks",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "rse_societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Enclyclique papale",
+      "titre": "Le Pape publiera une encyclique consacrée à la dignité humaine à l’ère de l’IA",
+      "description": "Le Pape François prépare la publication d'une encyclique focalisée sur la dignité humaine à l'heure de l'intelligence artificielle. Ce document visera à adresser les implications éthiques et morales de l'utilisation croissante de l'IA dans diverses sphères de la société.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/9cf3e07fd691f6af510c4a6f9c8ba353",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Ordre exécutif US annulé",
+      "titre": "Le projet d’ordre exécutif sur la cybersécurité et l’IA est abandonné aux États‑Unis",
+      "description": "Le projet d'ordre exécutif visant à aborder les questions de cybersécurité en lien avec l'intelligence artificielle a été retiré par la Maison-Blanche. Cette décision intervient dans un contexte de réévaluation des priorités stratégiques en matière de cybersécurité et de technologie.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/05/22/ai-executive-order-cancelled-white-house",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "sante_science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "— Aucune",
+      "titre": "Aucune actualité IA scientifique ou santé publiée aujourd’hui",
+      "description": "Aucune actualité n'a été publiée aujourd'hui dans les domaines de la défense ou de la souveraineté concernant l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "— aucune source aujourd’hui —",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "defense_geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "— Aucune",
+      "titre": "Aucune actualité IA défense ou souveraineté publiée aujourd’hui",
+      "description": "Aucune actualité n'a été publiée aujourd'hui dans les domaines de la défense ou de la souveraineté concernant l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "— aucune source aujourd’hui —",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
