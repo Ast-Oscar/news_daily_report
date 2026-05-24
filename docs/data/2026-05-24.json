@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-24",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-24T17:57:10.467830+00:00",
+  "items": [
+    {
+      "id": "ia_ue_parlement_position_attendue",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Règlementation européenne",
+      "titre": "Accord provisoire sur l’allégement des obligations de transparence des contenus générés par IA",
+      "description": "Le Conseil et le Parlement de l'UE ont conclu un accord provisoire pour simplifier les règles concernant la transparence des contenus générés par l'intelligence artificielle. Cet ajustement vise à réduire les contraintes réglementaires tout en maintenant un niveau de transparence suffisant pour protéger les utilisateurs.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "accord_canada_espagne_ia",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Coopération internationale",
+      "titre": "Canada et Espagne signent un accord de coopération en IA",
+      "description": "Singapour a lancé plusieurs initiatives pour promouvoir l'adoption de l'intelligence artificielle, renforcer la cybersécurité et se préparer aux technologies quantiques. Ces efforts visent à positionner le pays comme un leader régional dans ces domaines technologiques émergents.",
+      "sources": [
+        {
+          "url": "https://theglobaleye.it/2026/05/24/global-news-24-may-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ecb_architectures_ia_risques_financiers",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Risques financiers",
+      "titre": "La BCE s’inquiète des risques systémiques liés à certaines architectures IA en finance",
+      "description": "Singapour a lancé plusieurs initiatives pour promouvoir l'adoption de l'intelligence artificielle, renforcer la cybersécurité et se préparer aux technologies quantiques. Ces efforts visent à positionner le pays comme un leader régional dans ces domaines technologiques émergents.",
+      "sources": [
+        {
+          "url": "https://theglobaleye.it/2026/05/24/global-news-24-may-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "singapour_initiatives_ia_cyber_quantum",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Soutien à l’adoption IA et sécurité",
+      "titre": "Singapour lance des initiatives pour l’adoption de l’IA, cybersécurité et préparation au quantique",
+      "description": "Singapour a lancé plusieurs initiatives pour promouvoir l'adoption de l'intelligence artificielle, renforcer la cybersécurité et se préparer aux technologies quantiques. Ces efforts visent à positionner le pays comme un leader régional dans ces domaines technologiques émergents.",
+      "sources": [
+        {
+          "url": "https://theglobaleye.it/2026/05/24/global-news-24-may-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "core_ia_ecb",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté économique",
+      "titre": "Mise en garde du FSB sur Claude Mythos et les risques cyber",
+      "description": "Le Conseil de stabilité financière (FSB) a émis une mise en garde contre les risques cyber reliés à Claude Mythos, un outil d'intelligence artificielle développé par Anthropic AI. La mise en garde souligne les dangers potentiels pour la stabilité financière mondiale qu'une exploitation malveillante de cette technologie pourrait engendrer.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
