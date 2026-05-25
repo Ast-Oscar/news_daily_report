@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-25",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-25T18:23:20.856467+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Enciclique et appel à régulation",
+      "titre": "Le pape Léon XIV appelle à ralentir et réguler l’IA dans sa première encyclique",
+      "description": "Le pape Léon XIV a publié une encyclique demandant un frein au développement de l'intelligence artificielle, soulignant les risques de perdre le contrôle humain sur certaines technologies. Il a également mis en garde contre les dangers posés par des armes qui échappent déjà au contrôle humain, appelant à une régulation mondiale.",
+      "sources": [
+        {
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/05/25/papa-pede-regulamentacao-da-ia-e-adverte-que-algumas-armas-estao-alem-do-controle-humano.htm?uol_app=placaruol",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.investing.com/news/world-news/pope-leo-urges-world-to-slow-down-on-ai-in-fervent-first-manifesto-4708413",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
