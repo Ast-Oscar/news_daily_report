@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-26",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-26T19:17:20.933583+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance_regulation_evaluation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation mondiale / papal",
+      "titre": "Le pape Léon XIV publie une encyclique appelant à réguler massivement l’IA",
+      "description": "Le pape Léon XIV a exprimé son opposition face à l'utilisation d'intelligence artificielle létale autonome, prônant une interdiction totale de telles technologies. Il met en avant les dangers éthiques et moraux liés à l'absence de contrôle humain dans les décisions pouvant entraîner la mort.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/d92d0108730d146baa46da041b8523da",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie_industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Finance / marché",
+      "titre": "Wall Street optimiste grâce au secteur de l’IA",
+      "description": "Les indices boursiers de Wall Street affichent une hausse stimulée par le secteur de l'intelligence artificielle, malgré les préoccupations géopolitiques au Moyen-Orient. L'optimisme repose sur la capacité des technologies IA à générer une croissance économique et à offrir des opportunités d'investissement attractives.",
+      "sources": [
+        {
+          "url": "https://www.zonebourse.com/actualite-bourse/wall-street-ouvre-en-hausse-l-ia-l-emporte-sur-les-tensions-au-moyen-orient-ce7f5addd08af120",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_res_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Transition énergétique",
+      "titre": "Jancovici alerte sur l’impact énergétique de l’IA",
+      "description": "Jean-Marc Jancovici met en garde contre l'impact énergétique croissant de l'intelligence artificielle, soulignant que son utilisation exponentielle pourrait aggraver la crise climatique. Il préconise des mesures pour limiter la consommation énergétique associée à ces technologies émergentes.",
+      "sources": [
+        {
+          "url": "https://www.rtl.fr/sujet/intelligence-artificielle",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_cybersecurite_risques_securite_modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité bancaire",
+      "titre": "La BCE demande aux banques d’corriger les failles détectées par Claude Mythos",
+      "description": "La Banque centrale européenne (BCE) a demandé aux banques de corriger les failles de sécurité identifiées par le chercheur Claude Mythos afin de renforcer la résilience du système financier. Cette initiative vise à prévenir d'éventuels risques liés à des vulnérabilités informatiques.",
+      "sources": [
+        {
+          "url": "https://www.clubic.com/actualite-614137-la-bce-demande-a-ses-banques-de-corriger-les-failles-trouvees-par-claude-mythos.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_sante_science_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Diagnostic médical",
+      "titre": "DeepView® – Spectral AI obtient autorisation FDA pour un outil d’évaluation des brûlures",
+      "description": "Spectral AI a reçu l'autorisation de la FDA pour son outil d'évaluation des brûlures, DeepView®, qui utilise la technologie d'imagerie spectrale pour analyser automatiquement la gravité des blessures. Cette approbation marque une avancée significative dans le domaine du diagnostic médical, améliorant la précision et la rapidité des évaluations cliniques.",
+      "sources": [
+        {
+          "url": "https://www.taiwannews.com.tw/en/news/6370073",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_defense_geopolitique_souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Opposition militaire / éthique",
+      "titre": "Le pape s’oppose à l’IA létale autonome",
+      "description": "Le pape Léon XIV a exprimé son opposition face à l'utilisation d'intelligence artificielle létale autonome, prônant une interdiction totale de telles technologies. Il met en avant les dangers éthiques et moraux liés à l'absence de contrôle humain dans les décisions pouvant entraîner la mort.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/d92d0108730d146baa46da041b8523da",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
