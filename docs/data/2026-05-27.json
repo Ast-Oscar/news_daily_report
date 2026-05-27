@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-27",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-27T19:21:41.421133+00:00",
+  "items": [
+    {
+      "id": "bce_mythos_cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Menace des modèles IA avancés",
+      "titre": "La BCE mobilise plusieurs centaines d’acteurs face au modèle Mythos d’Anthropic",
+      "description": "La Banque Centrale Européenne (BCE) a réuni plusieurs centaines d'acteurs pour répondre aux défis posés par le modèle d'intelligence artificielle Mythos d'Anthropic. Cette mobilisation vise notamment à renforcer les efforts en matière de cybersécurité et à élaborer des stratégies coordonnées face à cette innovation technologique.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/cybersecurite-et-intelligence-artificielle-face-a-la-menace-du-mythos-d-anthropic-la-bce-mobilise-des-centaines-d-acteurs-181e3ccae44d2e2ad14b6e34621e1e7f",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
