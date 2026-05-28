@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-28",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-28T19:34:50.595296+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation",
+      "titre": "L’Illinois adopte la loi la plus stricte des États‑Unis en matière de sécurité IA",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ECONOMIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements",
+      "titre": "Snowflake signe un contrat de 6 milliards $ avec AWS pour l’IA",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-ECONOMIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements",
+      "titre": "Nvidia engage 150 milliards $ à Taïwan malgré les pressions américaines",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Startups",
+      "titre": "Cognition lève plus d’un milliard de dollars à 26 milliards $ de valorisation",
+      "description": "Un ingénieur de Google est poursuivi pour avoir utilisé des données internes dans des développements liés à l'intelligence artificielle. Cette affaire soulève des préoccupations quant à la protection des données et les pratiques éthiques au sein des grandes entreprises technologiques.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie",
+      "titre": "ByteDance développe ses propres puces IA",
+      "description": "Un ingénieur de Google est poursuivi pour avoir utilisé des données internes dans des développements liés à l'intelligence artificielle. Cette affaire soulève des préoccupations quant à la protection des données et les pratiques éthiques au sein des grandes entreprises technologiques.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Monétisation & Sociétés",
+      "titre": "Meta lance des abonnements IA sur Instagram, Facebook et WhatsApp",
+      "description": "Un ingénieur de Google est poursuivi pour avoir utilisé des données internes dans des développements liés à l'intelligence artificielle. Cette affaire soulève des préoccupations quant à la protection des données et les pratiques éthiques au sein des grandes entreprises technologiques.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7-CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Régulation interne & Conformité",
+      "titre": "Ingénieur Google poursuivi pour usage de données internes avec IA",
+      "description": "Un ingénieur de Google est poursuivi pour avoir utilisé des données internes dans des développements liés à l'intelligence artificielle. Cette affaire soulève des préoccupations quant à la protection des données et les pratiques éthiques au sein des grandes entreprises technologiques.",
+      "sources": [
+        {
+          "url": "https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8-MODELES_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche Modèles IA",
+      "titre": "EAGLE 3.1 corrige un biais de décodage spéculatif dans les LLM",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9-MODELES_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche Modèles IA",
+      "titre": "NVIDIA présente Polar pour améliorer l’entraînement RL des agents de code",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "10-MODELES_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche Modèles IA",
+      "titre": "MEMO : un modèle mémoire modulaire pour apprentissage continu",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "11-MODELES_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Recherche Modèles IA",
+      "titre": "DiffusionBlocks : entraînement par blocs pour réseaux résiduels",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "12-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Produits & Plateformes",
+      "titre": "Microsoft lance MAI‑Image‑2.5, 3e dans le classement Arena",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "13-MODELES_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Évaluation",
+      "titre": "ITBench‑AA : les modèles de pointe échouent aux tâches IT en entreprise",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "14-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure & Géopolitique",
+      "titre": "YouTube détecte automatiquement les vidéos générées par l’IA",
+      "description": "YouTube a mis en place une technologie pour détecter automatiquement les vidéos générées par l'intelligence artificielle. Cette fonctionnalité a pour but de renforcer la transparence et d'assurer l'authenticité du contenu diffusé sur la plateforme.",
+      "sources": [
+        {
+          "url": "https://themagicofai.com/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
