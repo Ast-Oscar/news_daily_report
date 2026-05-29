@@ -1,0 +1,113 @@
+{
+  "date": "2026-05-29",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-29T19:30:45.170807+00:00",
+  "items": [
+    {
+      "id": "airbus-mistral",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat industriel souverain",
+      "titre": "Airbus conclut un partenariat avec Mistral AI pour usage souverain de l’IA",
+      "description": "Airbus a signé un partenariat avec Mistral AI pour développer des applications d'intelligence artificielle sous contrôle européen. Cette collaboration vise à assurer la souveraineté numérique de l'Europe face aux enjeux géopolitiques.",
+      "sources": [
+        {
+          "url": "https://www.gifas.fr/presse/2026/05/29",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "bbva-ai-division",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Création de division IA",
+      "titre": "BBVA crée une division dédiée à l’intelligence artificielle",
+      "description": "Lors du congrès des actuaires, l'IA générative a été explorée en matière d'assurance et de mutualisation des risques. Les discussions ont porté sur son impact possible sur la prévision des sinistres et l'amélioration des modèles d'assurance.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/theme/ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "dell-bourse-ia",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Performance boursière liée à l’IA",
+      "titre": "Dell profite de l’engouement pour l’IA : hausse en Bourse liée aux besoins en serveurs",
+      "description": "Lors du congrès des actuaires, l'IA générative a été explorée en matière d'assurance et de mutualisation des risques. Les discussions ont porté sur son impact possible sur la prévision des sinistres et l'amélioration des modèles d'assurance.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/theme/ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "kpmg-entreprises-francaises-prudence",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Adoption responsable de l’IA",
+      "titre": "Les entreprises françaises restent prudentes face au déploiement de l’IA",
+      "description": "Lors du congrès des actuaires, l'IA générative a été explorée en matière d'assurance et de mutualisation des risques. Les discussions ont porté sur son impact possible sur la prévision des sinistres et l'amélioration des modèles d'assurance.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/theme/ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "anthropic-valorisation",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Levée de fonds",
+      "titre": "Anthropic frôle les 1 000 milliards de dollars de valorisation après une levée colossale",
+      "description": "Lors du congrès des actuaires, l'IA générative a été explorée en matière d'assurance et de mutualisation des risques. Les discussions ont porté sur son impact possible sur la prévision des sinistres et l'amélioration des modèles d'assurance.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/theme/ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "actuariat-ia-gen",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Impact sur les métiers",
+      "titre": "IA générative au congrès des actuaires : enjeux pour l’assurance et la mutualisation",
+      "description": "Lors du congrès des actuaires, l'IA générative a été explorée en matière d'assurance et de mutualisation des risques. Les discussions ont porté sur son impact possible sur la prévision des sinistres et l'amélioration des modèles d'assurance.",
+      "sources": [
+        {
+          "url": "https://www.agefi.fr/theme/ia",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "axios-ai-spending",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "ROI des investissements IA",
+      "titre": "Les entreprises interrogent le retour sur investissement des dépenses en IA",
+      "description": "De nombreuses entreprises questionnent le retour sur investissement de leurs dépenses en intelligence artificielle. Cette interrogation découle des défis liés à la mesure de l'impact réel des technologies d'IA sur leurs opérations.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/ai_talk_monitor_dev/comments/1tqln0a/ai_digest_5292026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
