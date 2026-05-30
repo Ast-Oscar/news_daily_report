@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-30",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-30T18:00:50.863967+00:00",
+  "items": [
+    {
+      "id": "1-economie-industrie-serveurs-AI-Dell",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure IA",
+      "titre": "Dell : explosion du chiffre d’affaires liés aux serveurs IA",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie-industrie-robotaxi-Tesla",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Mobilité autonome",
+      "titre": "Tesla reste à la traîne face à Waymo avec sa flotte Robotaxi au Texas",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-economie-industrie-Microsoft-365-Copilot",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Outils de productivité",
+      "titre": "Microsoft 365 Copilot bénéficie d’une refonte plus rapide et d’une interface épurée",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-economie-industrie-Microsoft-Copilot-super-app",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Agent IA",
+      "titre": "Microsoft construit une 'Copilot Super App' pour le code et le chat",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-economie-industrie-Anthropic-Claude-Opus-4.8",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèle IA commercial",
+      "titre": "Anthropic lance Claude Opus 4.8 avec un mode rapide moins cher",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-economie-industrie-Anthropic-valuation-965B",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Financement IA",
+      "titre": "Valorisation d’Anthropic grimpe à 965 milliards de dollars, dépassant OpenAI",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7-societe-culture-YouTube-recommandation-IA-podcasts",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Recommandation IA",
+      "titre": "YouTube ajoute un outil de recommandation IA pour les podcasts premium",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "8-economie-industrie-Paris-hub-IA",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "Paris renforce son statut de centre mondial de l’IA hors Silicon Valley",
+      "description": "Paris s'affirme de plus en plus comme un centre stratégique mondial pour l'intelligence artificielle, rivalisant avec Silicon Valley. Cette montée en puissance est soutenue par des investissements significatifs dans la recherche et l'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://creati.ai/ai-news/2026-05-30/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
