@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-31",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-05-31T17:58:48.253591+00:00",
+  "items": [
+    {
+      "id": "gouvernance-usa-thesee",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation fédérale USA",
+      "titre": "Le Trésor américain interroge les banques sur les risques liés à Claude Mythos",
+      "description": "Le Trésor américain déclare que la Chine est « largement à la traîne » des États‑Unis en matière d’IA, mais les données d’OpenRouter montrent que la majorité du trafic de jetons des développeurs provient de modèles open‑weight chinois, soulignant une contradiction apparente entre la supériorité technologique perçue et les usages effectifs. ([ainews.devcentre.nz](https://ainews.devcentre.nz/ai_news_2026-05-31.html))",
+      "sources": [
+        {
+          "url": "https://ainews.devcentre.nz/ai_news_2026-05-31.html#treasury-summons-bank-chiefs",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industries-microsoft-codingmodel",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Industrie logicielle",
+      "titre": "Microsoft lancera un modèle de codage interne lors de Build",
+      "description": "Microsoft s’apprête à dévoiler un modèle de codage développé en interne lors de la conférence Build la semaine prochaine, afin de réduire sa dépendance à Anthropic’s Claude Code, qui était jusqu’ici préféré par ses ingénieurs. ([ainews.devcentre.nz](https://ainews.devcentre.nz/ai_news_2026-05-31.html))",
+      "sources": [
+        {
+          "url": "https://ainews.devcentre.nz/ai_news_2026-05-31.html#microsoft-unveils-homegrown-coding-model",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite-ibm-clearinghouse",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité",
+      "titre": "IBM mobilise 20 000 ingénieurs pour sécuriser les vulnérabilités open source",
+      "description": "IBM et Red Hat mobilisent 20 000 ingénieurs ainsi que des outils d’IA pour analyser les vulnérabilités des logiciels open source, suite à la découverte de 3 900 failles critiques par le modèle Mythos d’Anthropic. ([ainews.devcentre.nz](https://ainews.devcentre.nz/ai_news_2026-05-31.html))",
+      "sources": [
+        {
+          "url": "https://ainews.devcentre.nz/ai_news_2026-05-31.html#ibm-open-source-clearinghouse",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "geopolitique-usa-chine",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Compétition technologique",
+      "titre": "Divergence perçue entre avance américaine et trafic AI chinois",
+      "description": "Le secrétaire au Trésor américain affirme que les États‑Unis dominent en IA, tandis que des données d’OpenRouter montrent que la majorité du trafic de jetons des développeurs passe par des modèles chinois open‑weight, révélant un décalage entre le discours politique et les pratiques des développeurs. ([ainews.devcentre.nz](https://ainews.devcentre.nz/ai_news_2026-05-31.html))",
+      "sources": [
+        {
+          "url": "https://ainews.devcentre.nz/ai_news_2026-05-31.html#washington-says-us-winning-developers-route-to-beijing",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
