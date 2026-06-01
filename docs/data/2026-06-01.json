@@ -1,0 +1,112 @@
+{
+  "date": "2026-06-01",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-01T20:53:14.640845+00:00",
+  "items": [
+    {
+      "id": "1_Gouvernance_Regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne",
+      "titre": "Nomination d’un comité scientifique et d’un forum consultatif pour appliquer l’AI Act",
+      "description": "Un comité scientifique et un forum consultatif ont été nommés pour soutenir l'application de l'AI Act, visant à garantir une mise en œuvre efficace et techniquement fondée de cette réglementation européenne. Ces entités fourniront des conseils indépendants et spécialisés pour renforcer la conformité des dispositifs d'intelligence artificielle aux normes établies.",
+      "sources": [
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_Economie_Industrie_Investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Edge computing / compression mémoire",
+      "titre": "Tether AI publie TurboQuant open source pour le edge AI",
+      "description": "Tether AI a lancé TurboQuant, une version open source qui permet d'améliorer la capacité de calcul de l'intelligence artificielle en périphérie en optimisant l'utilisation de la mémoire locale. Cette innovation vise à offrir des capacités comparables à celles des centres de données directement sur les appareils quotidiens.",
+      "sources": [
+        {
+          "url": "https://tether.io/news/tether-ai-upgrades-qvac-sdk-bringing-turboquant-to-everyday-devices-giving-local-ai-data-center-sized-memory/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_Economie_Industrie_Investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructure cloud IA",
+      "titre": "CoreWeave déploie le rack NVIDIA Vera Rubin NVL72 en production",
+      "description": "CoreWeave a achevé la mise en service et la validation du rack NVIDIA Vera Rubin NVL72, marquant une première dans le secteur. Cette avancée technique promet d'améliorer les performances de traitements graphiques intensifs et de calculs complexes pour les utilisateurs professionnels.",
+      "sources": [
+        {
+          "url": "https://www.streetinsider.com/Business%2BWire/CoreWeave%2BCompletes%2BIndustry-First%2BBring-Up%2Band%2BValidation%2Bof%2BNVIDIA%2BVera%2BRubin%2BNVL72/26579500.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_RSE_Societe_Culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Aucune news pertinente (aucune source aujourd’hui)",
+      "titre": "— Aucun fait repéré aujourd’hui —",
+      "description": "Aucune actualité pertinente publiée le 1er juin 2026 n’a été trouvée sur l’IA relevant de la RSE, société ou culture.",
+      "sources": [
+        {
+          "url": "N/A — pas de source",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_Cybersecurite_Risques_Securite_Modeles",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Aucune news pertinente (aucune source aujourd’hui)",
+      "titre": "— Aucun fait repéré aujourd’hui —",
+      "description": "Aucune actualité pertinente publiée le 1er juin 2026 n’a été trouvée sur l’IA en cybersécurité ou sécurité des modèles.",
+      "sources": [
+        {
+          "url": "N/A — pas de source",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6_Sante_Science_Recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Diagnostic médical IA",
+      "titre": "Spectral AI obtient l’autorisation FDA pour DeepView® et dévoile ses jalons",
+      "description": "Spectral AI a reçu l'autorisation de la FDA pour son dispositif DeepView®, un outil novateur permettant des diagnostics avancés des blessures par imagerie. L'entreprise a également présenté ses objectifs futurs, incluant l'expansion de la portée de DeepView® dans le secteur médical.",
+      "sources": [
+        {
+          "url": "https://www.globenewswire.com/news-release/2026/06/01/3304321/0/en/spectral-ai-announces-voting-results-of-annual-meeting-of-stockholders.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "7_Defense_Geopolitique_Souverainete",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "AI en infrastructure d’entreprise",
+      "titre": "DDN renforce la sécurité des « AI Factories » lors de Computex 2026",
+      "description": "Lors de l'événement Computex 2026, DDN a annoncé des améliorations de sécurité pour ses « AI Factories », intégrant des technologies avancées de protection des données. Ces innovations visent à renforcer la fiabilité et la sécurité des environnements de production d'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://sg.finance.yahoo.com/news/ddn-advances-secure-ai-factories-060000141.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
