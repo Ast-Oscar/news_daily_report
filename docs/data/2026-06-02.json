@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-02",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-02T20:06:05.995466+00:00",
+  "items": [
+    {
+      "id": "IA-1-governance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – contrôle des modèles IA",
+      "titre": "Ordre exécutif américain pour un contrôle préalable des modèles IA",
+      "description": "L'administration Trump a signé un ordre exécutif encourageant un contrôle préalable volontaire des modèles d'intelligence artificielle pour garantir leur sécurité. Cette nouvelle mesure vise à renforcer la confiance du public et à prévenir les risques potentiels liés à l'IA.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-ai-executive-order/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-2-industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés financiers – semi‑conducteurs",
+      "titre": "STMicroelectronics double ses perspectives data centers, portée par l’IA",
+      "description": "STMicroelectronics a revu à la hausse ses perspectives pour les data centers, stimulé par les progrès dans l'intelligence artificielle. Cette anticipation de croissance a contribué à la hausse de la Bourse de Paris.",
+      "sources": [
+        {
+          "url": "https://medias24.com/agence-presse/la-bourse-de-paris-en-hausse-portee-par-stmicroelectronics-et-lia/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-3-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Union européenne – cybersécurité",
+      "titre": "Anthropic ouvre Mythos à l’ENISA, l’Europe revendique la souveraineté des données",
+      "description": "Anthropic a ouvert son modèle Mythos à l'agence de cybersécurité de l'ENISA, marquant une avancée dans l'intégration de l'IA en Europe. Toutefois, l'Europe insiste sur la souveraineté et la protection de ses données face aux technologies américaines.",
+      "sources": [
+        {
+          "url": "https://www.clubic.com/actualite-614905-claude-mythos-arrive-a-l-enisa-mais-l-europe-veut-garder-ses-donnees.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-4-industrie_modeles",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Technologie – OpenAI business",
+      "titre": "OpenAI étend son agent Codex aux métiers de la finance et du juridique",
+      "description": "OpenAI annonce l'extension de son agent Codex aux secteurs de la finance et du juridique dans le contexte d'une compétition accrue avec Anthropic. Cette initiative vise à offrir des solutions automatisées pour optimiser les processus dans ces domaines.",
+      "sources": [
+        {
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-5-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Hardware – PC IA",
+      "titre": "Nvidia dévoile RTX Spark, puce IA pour agents locaux sur PC Windows",
+      "description": "La Floride a intenté un procès contre OpenAI et son PDG Sam Altman, mettant en avant les préoccupations liées aux risques posés par ChatGPT. Cette action en justice cite les dangers potentiels associés à l'utilisation de l'IA générative.",
+      "sources": [
+        {
+          "url": "https://moncarnet.com/2026/06/02/120-secondes-de-tech-2-juin-2026/",
+          "type": "primary"
+        },
+        {
+          "url": "https://singularity.kiwi/daily-news-june-2-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-6-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "État de Floride – responsabilité des IA",
+      "titre": "La Floride poursuit OpenAI et Sam Altman pour risques liés à ChatGPT",
+      "description": "La Floride a intenté un procès contre OpenAI et son PDG Sam Altman, mettant en avant les préoccupations liées aux risques posés par ChatGPT. Cette action en justice cite les dangers potentiels associés à l'utilisation de l'IA générative.",
+      "sources": [
+        {
+          "url": "https://moncarnet.com/2026/06/02/120-secondes-de-tech-2-juin-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "IA-7-cybersecurite_societe",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Communication – agents de support AI",
+      "titre": "Bot IA de support Meta détourné pour piratage de comptes Instagram",
+      "description": "Le bot de support IA de Meta a été détourné pour réaliser des piratages de comptes Instagram, révélant des failles de sécurité. Cet incident soulève des préoccupations quant à la vulnérabilité des plateformes face aux abus technologiques.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-2-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
