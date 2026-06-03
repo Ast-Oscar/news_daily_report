@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-03",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-03T20:16:30.151291+00:00",
+  "items": [
+    {
+      "id": "gouvernance_regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale",
+      "titre": "Décret exécutif de Trump sur l’IA : partage volontaire des modèles avec le gouvernement",
+      "description": "Donald Trump a signé un décret exécutif visant à promouvoir l'innovation et la sécurité dans l'IA, encourageant les entreprises à partager leurs modèles IA avec le gouvernement américain de manière volontaire. Cette initiative espère accélérer le développement d'une IA avancée tout en renforçant la sécurité nationale.",
+      "sources": [
+        {
+          "url": "https://www.investing.com/news/world-news/trump-signed-order-to-promoteadvanced-ai-innovation-and-security-white-house-says-4722541",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-ai-executive-order/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "cybersecurite_risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Cybersécurité & vulnérabilités IA",
+      "titre": "Chatbots grand public jailbreakés, Anthropic sur liste de menaces du Pentagone, Mythos révèle vulnérabilités",
+      "description": "Les chatbots grand public récemment jailbreakés présentent de nouveaux risques de sécurité qui inquiètent le Pentagone, incluant des menaces spécifiques d'Anthropic. Ces incidents soulignent la nécessité d'une vigilance accrue face aux vulnérabilités révélées par Mythos dans les technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/06/03/ia-cybersecurite-les-15-actus-cles-du-3-juin-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "industrie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Edge AI / robotique",
+      "titre": "NVIDIA annonce JetPack 7.2 et NemoClaw pour IA agentique sur robots",
+      "description": "Tencent développe un agent d'intelligence artificielle intégré à WeChat, destiné à ses centaines de millions d'utilisateurs. Ce projet vise à améliorer l'expérience utilisateur en facilitant des interactions plus intuitives et personnalisées.",
+      "sources": [
+        {
+          "url": "https://unrot.co/blogs/ai-news-today-june-3-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "economie_investissements",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Intégration IA dans services",
+      "titre": "RelationalAI améliore Rel avec IA décisionnelle agentique intégrée à Snowflake",
+      "description": "RelationalAI a annoncé l'intégration d'une IA décisionnelle agentique dans sa base de données Rel, en partenariat avec Snowflake. Cette avancée permet aux utilisateurs d'optimiser les processus décisionnels et de tirer parti de l'analyse de données renforcée.",
+      "sources": [
+        {
+          "url": "https://www.fidelity.com/news/article/technology/202606021500PRIMZONEFULLFEED9730153",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "rse_societe_culture",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Usage domestique",
+      "titre": "Tencent prépare un agent IA dans WeChat pour des centaines de millions d’utilisateurs",
+      "description": "Tencent développe un agent d'intelligence artificielle intégré à WeChat, destiné à ses centaines de millions d'utilisateurs. Ce projet vise à améliorer l'expérience utilisateur en facilitant des interactions plus intuitives et personnalisées.",
+      "sources": [
+        {
+          "url": "https://unrot.co/blogs/ai-news-today-june-3-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
