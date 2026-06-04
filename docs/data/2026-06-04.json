@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-04",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-04T19:21:49.896627+00:00",
+  "items": [
+    {
+      "id": "regulation_usa_review_period",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale – États-Unis",
+      "titre": "Décret américain impose une période de révision volontaire de 30 jours pour les modèles d’IA avancés",
+      "description": "Les États-Unis ont instauré un décret imposant une période de révision volontaire de 30 jours pour les modèles d’IA avancés, permettant aux entreprises de se préparer à respecter des normes de sécurité et d'éthique. Cette mesure vise à équilibrer les préoccupations des géants technologiques et les attentes du public.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/06/03/trump-strikes-compromise-over-ai-regulation-to-satisfy-tech-giants-and-maga-base_6754085_13.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "openai_guideline_us_framework",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale – États-Unis",
+      "titre": "OpenAI appelle à un cadre fédéral démocratique pour la gouvernance de l’IA",
+      "description": "OpenAI a plaidé pour un cadre démocratique fédéral afin de réguler la gouvernance de l’IA, soulignant la nécessité d’établir des garde-fous clairs et transparents pour l'utilisation de ces technologies. L'appel vise à assurer que les citoyens aient confiance en la manière dont l'IA est gérée.",
+      "sources": [
+        {
+          "url": "https://www.mlex.com/mlex/articles/2485401/openai-says-democratic-governments-need-to-determine-ai-safeguards",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "eu_chips_act_cada",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Souveraineté technologique – Union européenne",
+      "titre": "L’Union européenne propose le Chips Act 2.0 et le Cloud and AI Development Act",
+      "description": "La Commission européenne a proposé le Chips Act 2.0 et le Cloud and AI Development Act pour renforcer la souveraineté numérique et éviter qu'aucun acteur ne dispose d'un monopole sur les technologies critiques. Ce cadre législatif vise à promouvoir l'innovation tout en protégeant les infrastructures essentielles.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/la-commission-europeenne-propose-le-chips-act-2-0-et-le-cada-pour-que-personne-ne-dispose-dun-interrupteur-darret/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "uk_publishers_optout",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation nationale – Royaume‑Uni",
+      "titre": "Le Royaume‑Uni impose à Google une option de retrait pour les éditeurs dans l’IA search",
+      "description": "Le Royaume-Uni a exigé de Google d'inclure une option de retrait pour les éditeurs dans son interface de recherche à base d’IA, répondant ainsi aux préoccupations liées à la transparence et à la réutilisation des contenus. Cette obligation cherche à offrir un meilleur contrôle aux créateurs sur l’utilisation de leurs données.",
+      "sources": [
+        {
+          "url": "https://theartofcto.com/daily-sync/2026-06-04-daily-sync",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "anthropic_enisa_access",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles – Europe",
+      "titre": "Anthropic donne un accès à Claude Mythos à l’ENISA via le projet Glasswing",
+      "description": "Anthropic a donné à l’ENISA un accès à Claude Mythos via le projet Glasswing, illustrant la coopération en matière de cybersécurité et d'évaluation des risques technologiques. Ce partenariat vise à renforcer les capacités de l’Union européenne en matière de protection contre les menaces liées à l’IA.",
+      "sources": [
+        {
+          "url": "https://www.actuia.com/actualite/anthropic-ouvre-claude-mythos-a-lenisa/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "eu_high_risk_guidelines",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation européenne – AI Act",
+      "titre": "Consultation publique sur les guidelines pour IA à haut risque ouverte jusqu’au 23 juin",
+      "description": "La Commission européenne a ouvert une consultation publique sur le projet de directives pour l'IA à haut risque, sollicitant les contributions jusqu'au 23 juin. Cette initiative a pour objectif de définir un cadre réglementaire efficace qui assure la sécurité et la transparence dans l'utilisation des technologies d'IA sensibles.",
+      "sources": [
+        {
+          "url": "https://www.itpro.com/business/policy-and-legislation/european-commission-opens-public-consultation-on-long-awaited-draft-for-high-risk-ai-guidelines",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
