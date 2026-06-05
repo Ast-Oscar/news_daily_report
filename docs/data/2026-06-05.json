@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-05",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-05T18:56:22.771376+00:00",
+  "items": [
+    {
+      "id": "ia-gouvernance-1",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Auto-amélioration et surveillance des modèles",
+      "titre": "Anthropic appelle à freiner le développement de l’IA de pointe",
+      "description": "Anthropic propose une pause concertée dans le développement de l'IA pour prévenir les risques de déploiement incontrôlé d'algorithmes avancés. Cette demande s'inscrit dans un contexte où les entreprises de technologie sont appelées à évaluer l'impact global de ces innovations.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/anthropic-suggere-une-pause-concertee-du-developpement-de-l-ia-dans-le-monde-5128eabec5687ccc64df774c48898ce7",
+          "type": "primary"
+        },
+        {
+          "url": "https://fr.euronews.com/next/2026/06/05/anthropic-appelle-a-un-frein-avant-que-lia-ne-sauto-developpe-sans-controle-humain",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-economie-1",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "IPO et valorisation",
+      "titre": "Anthropic dépose un dossier pour une introduction en Bourse",
+      "description": "Nvidia a révélé un nouveau \"superchip\" conçu pour optimiser les performances des applications d'IA, renforçant sa position de leader technologique dans ce domaine. Cette innovation vise à répondre aux besoins croissants en puissance de calcul pour l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-Anthropic-goes-public-Nvidia-superchip-and-SpaceX-historic-IPO",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.distillintelligence.com/briefings/ai-leaders-2026-06-05",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-economie-2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés boursiers liés à l’IA",
+      "titre": "Plongeon des actions liées à l’IA en Asie après des prévisions décevantes",
+      "description": "Les actions des entreprises liées à l'IA en Asie ont chuté suite à des prévisions économiques décevantes concernant le secteur. Ce recul reflète les inquiétudes des investisseurs face à l'incertitude économique mondiale actuelle.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2026/06/05/stocks-markets-iran-oil-trump/77e4aa22-609c-11f1-9c46-d6211372eede_story.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-industrie-1",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Sécurité des modèles",
+      "titre": "Meta victime d’une exploitation via son chatbot IA",
+      "description": "Nvidia a révélé un nouveau \"superchip\" conçu pour optimiser les performances des applications d'IA, renforçant sa position de leader technologique dans ce domaine. Cette innovation vise à répondre aux besoins croissants en puissance de calcul pour l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-Anthropic-goes-public-Nvidia-superchip-and-SpaceX-historic-IPO",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-industrie-2",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux matériels IA",
+      "titre": "Nvidia dévoile un « superchip » dédié à l’IA",
+      "description": "Nvidia a révélé un nouveau \"superchip\" conçu pour optimiser les performances des applications d'IA, renforçant sa position de leader technologique dans ce domaine. Cette innovation vise à répondre aux besoins croissants en puissance de calcul pour l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-Anthropic-goes-public-Nvidia-superchip-and-SpaceX-historic-IPO",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-sante-1",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Outils IA pour la programmation",
+      "titre": "Microsoft lance Scout, agent IA personnalisable pour Microsoft 365",
+      "description": "Google a suspendu la version Gemini 2.0 pour se concentrer sur le développement de Gemini 3.x, visant à renforcer les capacités de son modèle d'IA. Cette décision stratégique souligne l'engagement de Google dans l'amélioration continue de ses technologies.",
+      "sources": [
+        {
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-5-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-industrie-3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Agents autonomes",
+      "titre": "Microsoft déploie Copilot Studio en disponibilité générale",
+      "description": "Google a suspendu la version Gemini 2.0 pour se concentrer sur le développement de Gemini 3.x, visant à renforcer les capacités de son modèle d'IA. Cette décision stratégique souligne l'engagement de Google dans l'amélioration continue de ses technologies.",
+      "sources": [
+        {
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-5-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-industrie-4",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Modèles IA",
+      "titre": "Google retire Gemini 2.0, avance vers Gemini 3.x",
+      "description": "Google a suspendu la version Gemini 2.0 pour se concentrer sur le développement de Gemini 3.x, visant à renforcer les capacités de son modèle d'IA. Cette décision stratégique souligne l'engagement de Google dans l'amélioration continue de ses technologies.",
+      "sources": [
+        {
+          "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-5-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia-souverainete-1",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Infrastructure souveraine",
+      "titre": "Le Canada prévoit un superordinateur public pour la recherche IA",
+      "description": "Le Canada a annoncé son projet de créer un superordinateur public dédié à la recherche en IA, qui devrait être opérationnel dans cinq ans. Cette initiative vise à positionner le pays comme un leader dans l'innovation technologique mondiale.",
+      "sources": [
+        {
+          "url": "https://www.journaldequebec.com/2026/06/04/intelligence-artificielle--ottawa-veut-creer-un--superordinateur-public-de-calibre-mondial--dici-5-ans",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
