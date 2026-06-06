@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-06",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-06T18:03:49.699626+00:00",
+  "items": [
+    {
+      "id": "1-Gouvernance_Régulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – projet de loi fédéral",
+      "titre": "Présentation du texte de discussion « Great American AI Act » à la Chambre des représentants (États-Unis)",
+      "description": "Le texte de discussion du \"Great American AI Act\" propose de créer un cadre réglementaire pour l'utilisation de l'intelligence artificielle aux États-Unis. Ce projet de loi vise à uniformiser les normes sur l'IA au niveau fédéral pour éviter un patchwork de lois étatiques.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.meritalk.com/articles/house-lawmakers-unveil-ai-draft-that-would-preempt-some-state-laws/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-Défense_Géopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "États-Unis – utilisation responsable de l’IA dans la défense",
+      "titre": "Annonce d’un projet de loi pour une IA de défense « responsable »",
+      "description": "Les démocrates ont annoncé un projet de loi visant à encadrer l'utilisation de l'intelligence artificielle dans la défense de manière \"responsable\". Le texte met l'accent sur la transparence et la sécurité éthique des systèmes d'IA militaires.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2026/06/05/democrats-bill-responsible-defense-ai",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-Cybersécurité_Risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "États-Unis – ordre exécutif sur l’IA et cybersécurité",
+      "titre": "Signature d’un nouvel ordre exécutif avec revue de modèles d’IA pour la sécurité nationale",
+      "description": "Un nouvel ordre exécutif a été signé pour renforcer la révision des modèles d'IA dans le domaine de la sécurité nationale. Cet ordre exige une évaluation rigoureuse des systèmes d'IA pour assurer la protection contre les menaces cybernétiques.",
+      "sources": [
+        {
+          "url": "https://www.apnews.com/article/e41af74f7b0865482f07d10fe7a50fe3",
+          "type": "primary"
+        },
+        {
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/06/ai-executive-order-sets-stage-for-new-cybersecurity-directives/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-Défense_Géopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "États-Unis – IA au service de la sécurité nationale",
+      "titre": "Accélération de l’usage de l’IA pour la sécurité nationale",
+      "description": "Les États-Unis ont déclaré vouloir accélérer le développement et l'utilisation de l'IA pour renforcer la sécurité nationale. Cette décision s'inscrit dans un contexte de compétition technologique internationale croissante.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us-says-it-will-speed-development-and-use-of-ai-for-national-security-4729145",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-Défense_Géopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "États-Unis – participation du gouvernement dans les entreprises IA",
+      "titre": "Envisage une prise de participation gouvernementale dans les gros acteurs de l’IA",
+      "description": "Une potentielle prise de participation gouvernementale dans les principales entreprises d'IA est à l'étude, selon le président Trump. Cette proposition vise à renforcer la collaboration entre le secteur public et privé dans le domaine technologique.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-Défense_Géopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "États-Unis – taxation des géants de l’IA",
+      "titre": "Proposition d’une taxe de 50 % sur les actions des géants de l’IA",
+      "description": "Le président Trump envisage une proposition de taxe de 50 % sur les actions des grandes entreprises d'IA. Cette mesure vise à équilibrer les demandes des géants technologiques et les attentes de sa base électorale MAGA.",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/06/03/trump-strikes-compromise-over-ai-regulation-to-satisfy-tech-giants-and-maga-base_6754085_13.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ]
+}
