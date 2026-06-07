@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-07",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-07T18:01:00.986029+00:00",
+  "items": [
+    {
+      "id": "1_GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Législation européenne / États-Unis",
+      "titre": "Projet de loi américain pour encadrer l’IA au niveau fédéral",
+      "description": "Un projet de loi a été introduit aux États-Unis visant à créer un cadre fédéral pour la régulation de l'intelligence artificielle, qui s'imposerait sur les lois des États pendant les trois premières années. Cette initiative cherche à harmoniser les règles à travers le pays pour réduire les disparités et faciliter une adoption contrôlée de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/06/lawmakers-propose-ai-framework-would-preempt-state-laws-3-years/413975/?oref=ng-home-top-story",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2_RSE_SOC_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Débat sur une pause coordonnée",
+      "titre": "Anthropic propose une pause coordonnée du développement de l’IA",
+      "description": "Anthropic a proposé une pause coordonnée dans le développement de l'intelligence artificielle afin de réfléchir aux implications éthiques et sécuritaires. Cette proposition vise à inciter à un moratoire mondial pour permettre des discussions approfondies sur les risques potentiels de l'IA.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2026/06/05/anthropic-artificial-intelligence-ai/d62747ec-60f2-11f1-9c46-d6211372eede_story.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3_CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Régulation européenne des contenus deepfake",
+      "titre": "L’UE veut interdire les deepfakes sexuels et lancer le Cloud and AI Development Act",
+      "description": "L'Union européenne envisage d'interdire les deepfakes à caractère sexuel dans le cadre de son nouveau projet de loi. Parallèlement, elle prévoit de lancer le Cloud and AI Development Act pour renforcer la sécurité et le développement technologique sur le continent.",
+      "sources": [
+        {
+          "url": "https://dcod.ch/2026/06/07/cybersecurite-les-13-actualites-majeures-du-7-juin-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4_ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Stratégie produit OpenAI",
+      "titre": "OpenAI transforme ChatGPT en « super‑application »",
+      "description": "OpenAI a entrepris une refonte majeure de ChatGPT pour le transformer en une 'super-application', enrichissant ses fonctionnalités au-delà du simple chatbot. Cette initiative vise à rendre l'application centrale dans divers secteurs grâce à des capacités élargies et une intégration technologique poussée.",
+      "sources": [
+        {
+          "url": "https://www.lorientlejour.com/article/1537322/refonte‑majeure‑de‑chatgpt‑openai‑veut‑en‑faire‑une‑super‑app‑dans‑un‑secteur‑en‑ebullition.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5_DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Usage sécuritaire aux États-Unis",
+      "titre": "Les États‑Unis accélèrent l’utilisation de l’IA pour la sécurité nationale",
+      "description": "Les États-Unis ont décidé d'accélérer l'intégration de l'intelligence artificielle dans leur stratégie de sécurité nationale afin de maintenir un avantage technologique. Cette démarche inclut le développement rapide de systèmes d'IA pour améliorer les capacités de défense et de renseignement.",
+      "sources": [
+        {
+          "url": "https://www.investing.com/news/stock‑market‑news/us‑says‑it‑will‑speed‑development‑and‑use‑of‑ai‑for‑national‑security‑4729145",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
