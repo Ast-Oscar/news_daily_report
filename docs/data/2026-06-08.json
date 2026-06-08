@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-08",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-08T19:20:39.738593+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Union européenne – AI Act",
+      "titre": "Accord provisoire sur l’AI Act simplifié en Europe",
+      "description": "Le Conseil et le Parlement européens ont trouvé un accord pour simplifier les règles autour de l'AI Act, rendant ainsi la législation sur l'intelligence artificielle plus facile à comprendre et à appliquer. Cet accord provisoire vise à harmoniser les approches réglementaires au sein de l'Union européenne, facilitant la conformité pour les entreprises.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-us-regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "États-Unis – décret exécutif",
+      "titre": "Décret présidentiel américain : régulation volontaire de l’IA centrée sur la cybersécurité",
+      "description": "Un décret présidentiel aux États-Unis introduit une réglementation volontaire sur l'intelligence artificielle, mettant l'accent sur la cybersécurité. Cette initiative encourage les entreprises et les développeurs à adopter des pratiques sécuritaires pour protéger les infrastructures critiques contre les cybermenaces.",
+      "sources": [
+        {
+          "url": "https://enterprisedna.co/resources/news/white-house-ai-innovation-security-executive-order-june-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-chine-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Chine – campagne d’application 'Qinglang'",
+      "titre": "Lancement de la campagne chinoise « Qinglang » contre les usages abusifs de l’IA",
+      "description": "La campagne chinoise « Qinglang » vise à combattre les usages abusifs de l'intelligence artificielle, notamment dans la diffusion de fausses informations et la manipulation numérique. Le programme cherche à renforcer le contrôle sur les applications d'IA pour promouvoir une utilisation responsable et éthique dans le pays.",
+      "sources": [
+        {
+          "url": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-france-hackathon",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "France – hackathon parlementaire",
+      "titre": "Hackathon à l’Assemblée nationale sur l’IA et la fabrique de la loi",
+      "description": "Un hackathon a été organisé à l'Assemblée nationale française pour explorer l'impact de l'intelligence artificielle sur le processus législatif. Cet événement a réuni des experts et des législateurs pour développer des solutions innovantes facilitant l'élaboration des lois grâce à l'IA.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/artificielle/comments/1u02hzg/hackathon_%25C3%25A0_lassembl%25C3%25A9e_nationale_sur_lia_et_la/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
