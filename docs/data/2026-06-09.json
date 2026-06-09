@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-09",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-09T19:11:50.975289+00:00",
+  "items": [
+    {
+      "id": "1-GOUVERNANCE_REGULATION_EVALUATION",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation internationale",
+      "titre": "La Chine lance la campagne d’application « Qinglang » contre les abus d’IA",
+      "description": "La Chine a lancé une campagne nommée \"Qinglang\" visant à renforcer les régulations et à lutter contre les abus liés à l'intelligence artificielle. Cette initiative s'inscrit dans le cadre des efforts du pays pour encadrer l'utilisation des technologies de pointe et assurer leur conformité aux standards éthiques.",
+      "sources": [
+        {
+          "url": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Marchés et bourses",
+      "titre": "OpenAI dépose une demande d’introduction en Bourse",
+      "description": "OpenAI a officiellement soumis une demande d'introduction en Bourse, marquant une étape significative dans son développement commercial. Cette démarche reflète les intentions de l'entreprise de renforcer sa position sur le marché des technologies de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.courrierinternational.com/reveil/2026-06-09",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-RSE_SOCIETE_CULTURE",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Éthique et société",
+      "titre": "La Floride attaque OpenAI en justice, moment « Big Tobacco » pour l’IA",
+      "description": "L'État de Floride a intenté un procès contre OpenAI, soulignant des préoccupations concernant l'impact social et légal de ses technologies d'intelligence artificielle. Cette action en justice est comparée à celle contre l'industrie du tabac, marquant un moment potentiellement décisif pour la réglementation de l'IA.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-9-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Investissements d’infrastructure IA",
+      "titre": "La Corée du Sud et NVIDIA annoncent une « usine IA » à grande échelle",
+      "description": "Donald Trump a évoqué la possibilité d'une prise de participation de l'État dans des entreprises leaders dans le domaine de l'IA. Cette déclaration intervient dans un contexte de débats sur le rôle réglementaire et stratégique des États-Unis dans l'industrie de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://ainewsblitz.com/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-SANTE_SCIENCE_RECHERCHE",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Outils pour la recherche scientifique",
+      "titre": "Argonne National Laboratory lance un service d’inférence IA à grande échelle pour la science ouverte",
+      "description": "Le laboratoire national d'Argonne a lancé un nouveau service à grande échelle pour l’inférence IA, destiné à soutenir la science ouverte. Ce service vise à fournir aux chercheurs des ressources avancées pour améliorer la recherche scientifique grâce à l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://www.unite.ai/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Stratégies nationales en IA",
+      "titre": "Trump évoque des prises de participations de l’État dans des leaders de l’IA",
+      "description": "Donald Trump a évoqué la possibilité d'une prise de participation de l'État dans des entreprises leaders dans le domaine de l'IA. Cette déclaration intervient dans un contexte de débats sur le rôle réglementaire et stratégique des États-Unis dans l'industrie de l'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://ainewsblitz.com/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
