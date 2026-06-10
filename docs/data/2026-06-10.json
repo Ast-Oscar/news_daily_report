@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-10",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-10T19:32:20.128284+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance-regulation",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "régulation européenne",
+      "titre": "La CNIL publie ses chantiers de contrôle pour les systèmes d’IA à haut risque",
+      "description": "La CNIL a défini des priorités de contrôle pour les systèmes d’intelligence artificielle considérés à haut risque, axant ses efforts sur leur conformité aux règlementations en vigueur. Ces chantiers comprennent notamment l'évaluation de l'impact sur les droits et libertés des individus.",
+      "sources": [
+        {
+          "url": "https://itsocial.fr/cybersecurite/cybersecurite-actualites/conformite-ia-les-chantiers-que-la-cnil-inscrit-au-programme-de-ses-controles-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-economie-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "infrastructure IA",
+      "titre": "Meta et RIL collaborent pour un centre de données IA de 168 MW en Inde",
+      "description": "Meta s'associe à Reliance Industries Limited (RIL) pour construire un centre de données alimenté par l'intelligence artificielle de 168 MW au Gujarat, en Inde. Ce projet vise à renforcer l'infrastructure numérique du pays et à soutenir les initiatives d'innovation technologique.",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/ril-meta-partner-to-develop-168-mw-ai-enabled-data-centre-in-gujarat-126061000000_1.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-rse-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "emploi et IA",
+      "titre": "Les actions des titres liés à l’IA remontent à Wall Street",
+      "description": "Les actions des entreprises liées à l'intelligence artificielle ont regagné du terrain à Wall Street, poursuivant une tendance à la hausse après des pertes précédentes. Cette remontée s'inscrit dans un contexte de baisse des prix du pétrole et d'optimisme sur le secteur technologique.",
+      "sources": [
+        {
+          "url": "https://www.butlereagle.com/20260610/wall-street-ticks-higher-as-ai-stocks-recover-more-losses-and-oil-prices-ease/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "4-cybersecurite-risques",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "modèles avancés",
+      "titre": "Anthropic publie Claude Fable 5, modèle IA puissant accessible au public",
+      "description": "Anthropic a lancé Claude Fable 5, un modèle d'intelligence artificielle puissant maintenant accessible au public, rappelant des structures narratives mythologiques. Cette initiative vise à démocratiser l'accès à des technologies avancées d'IA en permettant à un large public d'explorer ses capacités.",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-launches-mythos-like-ai-model-for-public-126061000000_1.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "5-sante-science",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "aucune",
+      "titre": "Aucune actualité santé/IA publiée le 10 juin 2026",
+      "description": "Aucune nouvelle concernant la santé ou l'IA n'a été publiée le 10 juin 2026 sur cette plateforme. Cette absence d'actualités peut indiquer une période de calme ou de transition dans le domaine à cette date.",
+      "sources": [
+        {
+          "url": "https://www.business-standard.com/technology/artificial-intelligence",
+          "type": "secondary"
+        },
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jun/10/all",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-defense-geopolitique",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "politique internationale IA",
+      "titre": "Pas d’actualité défense/géopolitique IA publiée le 10 juin 2026",
+      "description": "Aucune information concernant la défense ou la géopolitique liée à l'IA n'a été signalée le 10 juin 2026. Cela suggère un statu quo ou un manque d'événements notables dans ces domaines pour ce jour.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/jun/10/all",
+          "type": "secondary"
+        },
+        {
+          "url": "https://gouvernance.ai/actualites/superintelligence-elus-quebecois-controlai-canada-juin-2026/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ],
+  "meta": {}
+}
