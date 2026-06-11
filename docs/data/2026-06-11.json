@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-11",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-11T19:33:21.583788+00:00",
+  "items": [
+    {
+      "id": "1-gouvernance",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Régulation mondiale / Cybersécurité",
+      "titre": "Chine lance une campagne d’application contre les usages abusifs de l’IA",
+      "description": "OpenAI a créé une nouvelle entité visant à faciliter le déploiement de ses technologies auprès des entreprises. Cette initiative est conçue pour aider les entreprises à intégrer l'intelligence artificielle dans leurs opérations de manière plus efficace.",
+      "sources": [
+        {
+          "url": "https://tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "2-cybersecurite",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Guidance internationale",
+      "titre": "Autorités cybersécurité du G5 démarrent des recommandations sur l’IA agentique",
+      "description": "OpenAI a créé une nouvelle entité visant à faciliter le déploiement de ses technologies auprès des entreprises. Cette initiative est conçue pour aider les entreprises à intégrer l'intelligence artificielle dans leurs opérations de manière plus efficace.",
+      "sources": [
+        {
+          "url": "https://tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "3-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Investissements / Start‑up IA",
+      "titre": "Startup anti‑Nvidia valorisée à 1,55 Md$",
+      "description": "Alphabet a levé 80 milliards de dollars pour renforcer son infrastructure dédiée à l'intelligence artificielle. Ce financement est destiné à soutenir le développement et l'expansion des capacités technologiques de l'entreprise.",
+      "sources": [
+        {
+          "url": "https://aiadjacent.com/issue/daily-briefing-2026-06-11",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "4-economie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Infrastructures IA",
+      "titre": "Alphabet lève 80 Md$ pour financer l’infrastructure IA",
+      "description": "Alphabet a levé 80 milliards de dollars pour renforcer son infrastructure dédiée à l'intelligence artificielle. Ce financement est destiné à soutenir le développement et l'expansion des capacités technologiques de l'entreprise.",
+      "sources": [
+        {
+          "url": "https://aiadjacent.com/issue/daily-briefing-2026-06-11",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "5-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Déploiement IA entreprise",
+      "titre": "OpenAI lance une entité de déploiement pour entreprises",
+      "description": "OpenAI a créé une nouvelle entité visant à faciliter le déploiement de ses technologies auprès des entreprises. Cette initiative est conçue pour aider les entreprises à intégrer l'intelligence artificielle dans leurs opérations de manière plus efficace.",
+      "sources": [
+        {
+          "url": "https://tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "6-sante_recherche",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Modèle IA",
+      "titre": "Décart dévoile Oasis 3 pour simulation de conduite photoréaliste",
+      "description": "Apple a déployé une nouvelle version de Siri utilisant la technologie Gemini de Google, initialement hors d'Asie. Ce lancement souligne une collaboration stratégique visant à améliorer les capacités des assistants personnels intelligents.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-11-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "7-societe",
+      "categorie": "RSE_SOCIETE_CULTURE",
+      "sous_categorie": "Antitrust / OpenAI",
+      "titre": "SoftBank bloque sa demande de prêt garanti par OpenAI",
+      "description": "Apple a déployé une nouvelle version de Siri utilisant la technologie Gemini de Google, initialement hors d'Asie. Ce lancement souligne une collaboration stratégique visant à améliorer les capacités des assistants personnels intelligents.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-11-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    },
+    {
+      "id": "8-defense_geo",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Militaire autonome",
+      "titre": "Drones entièrement autonomes tuent des soldats pour la première fois",
+      "description": "Apple a déployé une nouvelle version de Siri utilisant la technologie Gemini de Google, initialement hors d'Asie. Ce lancement souligne une collaboration stratégique visant à améliorer les capacités des assistants personnels intelligents.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-11-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "9-industrie",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Produit grand public / Assistant IA",
+      "titre": "Apple déploie Siri AI avec Gemini de Google, hors d’Asie initialement",
+      "description": "Apple a déployé une nouvelle version de Siri utilisant la technologie Gemini de Google, initialement hors d'Asie. Ce lancement souligne une collaboration stratégique visant à améliorer les capacités des assistants personnels intelligents.",
+      "sources": [
+        {
+          "url": "https://singularity.kiwi/daily-news-june-11-2026/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
