@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-12",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-12T19:02:26.242729+00:00",
+  "items": [
+    {
+      "id": "innovation_minimax_m3",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Nouveaux modèles IA",
+      "titre": "Lancement du modèle open‑weight M3 par MiniMax",
+      "description": "Le modèle open-weight M3 de MiniMax a été lancé avec pour objectif de modifier radicalement les capacités d'IA grâce à ses paramètres ajustables selon les besoins des utilisateurs. Ce développement représente une avancée majeure par rapport aux modèles traditionnels et pourrait ouvrir de nouvelles opportunités dans l'optimisation des tâches automatisées.",
+      "sources": [
+        {
+          "url": "https://dentro.de/ai/news/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "anthropic_pause_coordination",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Coordination industrielle",
+      "titre": "Anthropic propose une coordination mondiale pour « mettre en pause » le développement des IA avancées en cas de risques",
+      "description": "Anthropic propose de créer une coalition internationale pour suspendre le développement des IA avancées lorsqu'elles présentent des risques significatifs pour la société. Cette initiative viserait à coordonner les efforts mondiaux afin d'assurer un développement responsable et sécurisé des technologies d'IA.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2026/06/05/anthropic-artificial-intelligence-ai/d62747ec-60f2-11f1-9c46-d6211372eede_story.html",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "eu_ai_act_omnibus_transparency",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Réglementation européenne",
+      "titre": "Parlement et Conseil européens accélèrent certaines obligations de transparence dans le cadre du Digital Omnibus sur l’IA",
+      "description": "Le Parlement et le Conseil européens ont décidé d'accélérer la mise en œuvre de certaines obligations de transparence dans le cadre du Digital Omnibus sur l'IA. Cet accord vise à mieux encadrer le développement des technologies de l'IA tout en simplifiant les règles pour les entreprises du secteur.",
+      "sources": [
+        {
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "us_national_security_ai",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Sécurité nationale",
+      "titre": "Les États‑Unis accélèrent l’usage de l’IA à des fins de sécurité nationale",
+      "description": "Les États-Unis ont annoncé l'accélération de l'intégration de l'IA pour renforcer la sécurité nationale, mettant en avant l'importance stratégique de ces technologies. Cette initiative s'inscrit dans un contexte global où la compétitivité et la sécurité dépendent de plus en plus de l'usage d'intelligences artificielles avancées.",
+      "sources": [
+        {
+          "url": "https://www.investing.com/news/stock-market-news/us-says-it-will-speed-development-and-use-of-ai-for-national-security-4729145",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "techcrunch_lovable_google_cloud",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Partenariat industriel",
+      "titre": "Lovable signe un contrat pluriannuel avec Google Cloud pour multiplier par 5 son usage IA",
+      "description": "Lovable a signé un contrat pluriannuel avec Google Cloud visant à multiplier par cinq son utilisation des technologies d'IA. Cet accord démontre la volonté de Lovable de renforcer ses capacités technologiques et d'améliorer ses opérations grâce aux solutions cloud avancées de Google.",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/06/",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
