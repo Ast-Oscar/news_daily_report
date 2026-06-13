@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-13",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-13T18:05:17.705427+00:00",
+  "items": [
+    {
+      "id": "ia_gouvernance_souverainete_anthropic",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Souveraineté numérique",
+      "titre": "Suspension par Anthropic de ses modèles IA puissants suite à une directive américaine",
+      "description": "La société Anthropic a suspendu le déploiement de ses modèles d'intelligence artificielle avancés en réaction à une directive du gouvernement américain, qui vise à réguler l'utilisation et le développement des technologies IA. Cette décision influence les débats politiques en France, notamment dans le contexte de la souveraineté technologique nationale lors de la campagne présidentielle.",
+      "sources": [
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites/guerre-de-l-ia-souverainete-la-suspension-d-anthropic-s-invite-dans-la-presidentielle-francaise-0892ace7b1bd738f9dd6259fce42b927",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_industrie_openai_ona",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Acquisition",
+      "titre": "OpenAI acquiert Ona (ex‑Gitpod) pour déployer ses agents Codex en cloud d’entreprise",
+      "description": "OpenAI a acquis Ona, anciennement connue sous le nom de Gitpod, pour faciliter le déploiement de ses agents Codex dans le cloud d’entreprise. Cette démarche s'inscrit dans la stratégie d'OpenAI d'étendre l'intégration de ses solutions IA dans le milieu professionnel grâce à une infrastructure cloud dédiée.",
+      "sources": [
+        {
+          "url": "https://www.roboactu.fr/actualite-cloud-ia-openai-rachete-ona-gitpod-codex-13-06-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_industrie_google_gemini_translate",
+      "categorie": "ECONOMIE_INDUSTRIE_INVESTISSEMENTS",
+      "sous_categorie": "Innovation produit",
+      "titre": "Google lance Gemini 3.5 Live Translate: traduction audio en direct dans plus de 70 langues",
+      "description": "Google a annoncé le lancement de Gemini 3.5 Live Translate, une nouvelle technologie capable de traduire l'audio en direct dans plus de 70 langues. Ce développement souligne l'engagement continu de Google à améliorer les outils de traduction pour favoriser la communication mondiale en temps réel.",
+      "sources": [
+        {
+          "url": "https://www.roboactu.fr/actualite-cloud-ia-google-gemini-3-5-live-translate-12-06-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_cybersecurite_chine_qinglang",
+      "categorie": "CYBERSECURITE_RISQUES_SECURITE_MODELES",
+      "sous_categorie": "Réglementation cybersécurité",
+      "titre": "La Chine lance la campagne d’application « Qinglang » contre les usages abusifs de l’IA",
+      "description": "La Chine a démarré une campagne appelée \"Qinglang\" visant à limiter et à contrôler les utilisations abusives de l'intelligence artificielle à travers le pays. Cette initiative s'inscrit dans un effort plus vaste pour réguler les nouvelles technologies tout en assurant une utilisation éthique et sécurisée.",
+      "sources": [
+        {
+          "url": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-june-2026",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_politiques_globale_anthropic_slowdown",
+      "categorie": "GOUVERNANCE_REGULATION_EVALUATION",
+      "sous_categorie": "Politiques responsables",
+      "titre": "Anthropic évoque un ralentissement volontaire du développement IA pour mieux gérer ses effets",
+      "description": "Anthropic a déclaré un ralentissement volontaire de son développement des technologies IA afin de mieux comprendre et gérer leurs effets potentiels. Cette initiative témoigne d'une approche plus prudente face aux impacts sociétaux des systèmes d'intelligence artificielle.",
+      "sources": [
+        {
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "type": "primary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "id": "ia_benchmark_intelligence_frontier",
+      "categorie": "SANTE_SCIENCE_RECHERCHE",
+      "sous_categorie": "Évaluation IA",
+      "titre": "Premier recul sur le classement Intelligence Frontier d’un organisme de benchmark IA",
+      "description": "Pour la première fois, un organisme de benchmark IA a rapporté une baisse du classement de son Intelligence Frontier, un indicateur de performance clé pour les technologies d'intelligence artificielle. Cette évolution marque une rupture dans la tendance généralement ascendante des capacités de l'IA, suscitant des discussions sur la maturité et les limites actuelles des modèles existants.",
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/singularity/comments/1u4iymd/artificial_analysis_today_is_the_first_time_our",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "unverified",
+      "confidence": "medium"
+    }
+  ],
+  "meta": {}
+}
