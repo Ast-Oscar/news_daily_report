@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-14",
+  "timezone": "Europe/Paris",
+  "generated_at_utc": "2026-06-14T18:09:34.511130+00:00",
+  "items": [
+    {
+      "id": "anthropic_us_export_control",
+      "categorie": "DEFENSE_GEOPOLITIQUE_SOUVERAINETE",
+      "sous_categorie": "Gouvernance nationale / Contrôle des modèles IA",
+      "titre": "Les États-Unis ordonnent à Anthropic de suspendre l’accès à Fable 5 et Mythos 5 pour les étrangers",
+      "description": "Les États-Unis ont exigé qu'Anthropic suspende l'accès aux modèles d'intelligence artificielle Fable 5 et Mythos 5 pour les utilisateurs étrangers, invoquant des préoccupations de sécurité nationale. Ces modèles avancés pourraient potentiellement être utilisés à des fins qui contrecarreraient les intérêts américains.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+          "type": "primary"
+        },
+        {
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1u4jfz4/us_government_orders_anthropic_to_suspend_access/",
+          "type": "secondary"
+        }
+      ],
+      "verification_status": "verified",
+      "confidence": "high"
+    }
+  ]
+}
